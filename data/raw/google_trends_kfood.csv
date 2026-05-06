@@ -1,0 +1,3457 @@
+date,country,geo,keyword,search_interest,is_partial
+2019-01-01,Indonesia,ID,korean food,63,False
+2019-02-01,Indonesia,ID,korean food,57,False
+2019-03-01,Indonesia,ID,korean food,64,False
+2019-04-01,Indonesia,ID,korean food,57,False
+2019-05-01,Indonesia,ID,korean food,64,False
+2019-06-01,Indonesia,ID,korean food,70,False
+2019-07-01,Indonesia,ID,korean food,65,False
+2019-08-01,Indonesia,ID,korean food,56,False
+2019-09-01,Indonesia,ID,korean food,55,False
+2019-10-01,Indonesia,ID,korean food,56,False
+2019-11-01,Indonesia,ID,korean food,59,False
+2019-12-01,Indonesia,ID,korean food,65,False
+2020-01-01,Indonesia,ID,korean food,60,False
+2020-02-01,Indonesia,ID,korean food,63,False
+2020-03-01,Indonesia,ID,korean food,47,False
+2020-04-01,Indonesia,ID,korean food,45,False
+2020-05-01,Indonesia,ID,korean food,60,False
+2020-06-01,Indonesia,ID,korean food,64,False
+2020-07-01,Indonesia,ID,korean food,64,False
+2020-08-01,Indonesia,ID,korean food,61,False
+2020-09-01,Indonesia,ID,korean food,53,False
+2020-10-01,Indonesia,ID,korean food,55,False
+2020-11-01,Indonesia,ID,korean food,60,False
+2020-12-01,Indonesia,ID,korean food,64,False
+2021-01-01,Indonesia,ID,korean food,82,False
+2021-02-01,Indonesia,ID,korean food,69,False
+2021-03-01,Indonesia,ID,korean food,77,False
+2021-04-01,Indonesia,ID,korean food,83,False
+2021-05-01,Indonesia,ID,korean food,96,False
+2021-06-01,Indonesia,ID,korean food,81,False
+2021-07-01,Indonesia,ID,korean food,63,False
+2021-08-01,Indonesia,ID,korean food,60,False
+2021-09-01,Indonesia,ID,korean food,65,False
+2021-10-01,Indonesia,ID,korean food,82,False
+2021-11-01,Indonesia,ID,korean food,76,False
+2021-12-01,Indonesia,ID,korean food,83,False
+2022-01-01,Indonesia,ID,korean food,83,False
+2022-02-01,Indonesia,ID,korean food,74,False
+2022-03-01,Indonesia,ID,korean food,82,False
+2022-04-01,Indonesia,ID,korean food,94,False
+2022-05-01,Indonesia,ID,korean food,88,False
+2022-06-01,Indonesia,ID,korean food,89,False
+2022-07-01,Indonesia,ID,korean food,85,False
+2022-08-01,Indonesia,ID,korean food,83,False
+2022-09-01,Indonesia,ID,korean food,84,False
+2022-10-01,Indonesia,ID,korean food,87,False
+2022-11-01,Indonesia,ID,korean food,89,False
+2022-12-01,Indonesia,ID,korean food,100,False
+2023-01-01,Indonesia,ID,korean food,96,False
+2023-02-01,Indonesia,ID,korean food,83,False
+2023-03-01,Indonesia,ID,korean food,83,False
+2023-04-01,Indonesia,ID,korean food,98,False
+2023-05-01,Indonesia,ID,korean food,78,False
+2023-06-01,Indonesia,ID,korean food,81,False
+2023-07-01,Indonesia,ID,korean food,77,False
+2023-08-01,Indonesia,ID,korean food,69,False
+2023-09-01,Indonesia,ID,korean food,66,False
+2023-10-01,Indonesia,ID,korean food,63,False
+2023-11-01,Indonesia,ID,korean food,67,False
+2023-12-01,Indonesia,ID,korean food,75,False
+2024-01-01,Indonesia,ID,korean food,72,False
+2024-02-01,Indonesia,ID,korean food,58,False
+2024-03-01,Indonesia,ID,korean food,61,False
+2024-04-01,Indonesia,ID,korean food,63,False
+2024-05-01,Indonesia,ID,korean food,59,False
+2024-06-01,Indonesia,ID,korean food,58,False
+2024-07-01,Indonesia,ID,korean food,60,False
+2024-08-01,Indonesia,ID,korean food,53,False
+2024-09-01,Indonesia,ID,korean food,56,False
+2024-10-01,Indonesia,ID,korean food,52,False
+2024-11-01,Indonesia,ID,korean food,55,False
+2024-12-01,Indonesia,ID,korean food,61,False
+2019-01-01,Indonesia,ID,kimchi,86,False
+2019-02-01,Indonesia,ID,kimchi,67,False
+2019-03-01,Indonesia,ID,kimchi,59,False
+2019-04-01,Indonesia,ID,kimchi,52,False
+2019-05-01,Indonesia,ID,kimchi,58,False
+2019-06-01,Indonesia,ID,kimchi,58,False
+2019-07-01,Indonesia,ID,kimchi,53,False
+2019-08-01,Indonesia,ID,kimchi,51,False
+2019-09-01,Indonesia,ID,kimchi,58,False
+2019-10-01,Indonesia,ID,kimchi,53,False
+2019-11-01,Indonesia,ID,kimchi,54,False
+2019-12-01,Indonesia,ID,kimchi,56,False
+2020-01-01,Indonesia,ID,kimchi,54,False
+2020-02-01,Indonesia,ID,kimchi,53,False
+2020-03-01,Indonesia,ID,kimchi,50,False
+2020-04-01,Indonesia,ID,kimchi,80,False
+2020-05-01,Indonesia,ID,kimchi,98,False
+2020-06-01,Indonesia,ID,kimchi,100,False
+2020-07-01,Indonesia,ID,kimchi,87,False
+2020-08-01,Indonesia,ID,kimchi,72,False
+2020-09-01,Indonesia,ID,kimchi,63,False
+2020-10-01,Indonesia,ID,kimchi,72,False
+2020-11-01,Indonesia,ID,kimchi,60,False
+2020-12-01,Indonesia,ID,kimchi,66,False
+2021-01-01,Indonesia,ID,kimchi,74,False
+2021-02-01,Indonesia,ID,kimchi,72,False
+2021-03-01,Indonesia,ID,kimchi,60,False
+2021-04-01,Indonesia,ID,kimchi,62,False
+2021-05-01,Indonesia,ID,kimchi,67,False
+2021-06-01,Indonesia,ID,kimchi,63,False
+2021-07-01,Indonesia,ID,kimchi,57,False
+2021-08-01,Indonesia,ID,kimchi,53,False
+2021-09-01,Indonesia,ID,kimchi,47,False
+2021-10-01,Indonesia,ID,kimchi,50,False
+2021-11-01,Indonesia,ID,kimchi,50,False
+2021-12-01,Indonesia,ID,kimchi,43,False
+2022-01-01,Indonesia,ID,kimchi,59,False
+2022-02-01,Indonesia,ID,kimchi,58,False
+2022-03-01,Indonesia,ID,kimchi,56,False
+2022-04-01,Indonesia,ID,kimchi,51,False
+2022-05-01,Indonesia,ID,kimchi,44,False
+2022-06-01,Indonesia,ID,kimchi,49,False
+2022-07-01,Indonesia,ID,kimchi,38,False
+2022-08-01,Indonesia,ID,kimchi,47,False
+2022-09-01,Indonesia,ID,kimchi,48,False
+2022-10-01,Indonesia,ID,kimchi,54,False
+2022-11-01,Indonesia,ID,kimchi,53,False
+2022-12-01,Indonesia,ID,kimchi,49,False
+2023-01-01,Indonesia,ID,kimchi,62,False
+2023-02-01,Indonesia,ID,kimchi,66,False
+2023-03-01,Indonesia,ID,kimchi,53,False
+2023-04-01,Indonesia,ID,kimchi,56,False
+2023-05-01,Indonesia,ID,kimchi,51,False
+2023-06-01,Indonesia,ID,kimchi,49,False
+2023-07-01,Indonesia,ID,kimchi,39,False
+2023-08-01,Indonesia,ID,kimchi,40,False
+2023-09-01,Indonesia,ID,kimchi,37,False
+2023-10-01,Indonesia,ID,kimchi,38,False
+2023-11-01,Indonesia,ID,kimchi,38,False
+2023-12-01,Indonesia,ID,kimchi,39,False
+2024-01-01,Indonesia,ID,kimchi,60,False
+2024-02-01,Indonesia,ID,kimchi,48,False
+2024-03-01,Indonesia,ID,kimchi,42,False
+2024-04-01,Indonesia,ID,kimchi,37,False
+2024-05-01,Indonesia,ID,kimchi,42,False
+2024-06-01,Indonesia,ID,kimchi,34,False
+2024-07-01,Indonesia,ID,kimchi,43,False
+2024-08-01,Indonesia,ID,kimchi,41,False
+2024-09-01,Indonesia,ID,kimchi,38,False
+2024-10-01,Indonesia,ID,kimchi,36,False
+2024-11-01,Indonesia,ID,kimchi,34,False
+2024-12-01,Indonesia,ID,kimchi,34,False
+2019-01-01,Indonesia,ID,gochujang,31,False
+2019-02-01,Indonesia,ID,gochujang,32,False
+2019-03-01,Indonesia,ID,gochujang,29,False
+2019-04-01,Indonesia,ID,gochujang,31,False
+2019-05-01,Indonesia,ID,gochujang,34,False
+2019-06-01,Indonesia,ID,gochujang,49,False
+2019-07-01,Indonesia,ID,gochujang,81,False
+2019-08-01,Indonesia,ID,gochujang,37,False
+2019-09-01,Indonesia,ID,gochujang,43,False
+2019-10-01,Indonesia,ID,gochujang,37,False
+2019-11-01,Indonesia,ID,gochujang,34,False
+2019-12-01,Indonesia,ID,gochujang,39,False
+2020-01-01,Indonesia,ID,gochujang,39,False
+2020-02-01,Indonesia,ID,gochujang,40,False
+2020-03-01,Indonesia,ID,gochujang,47,False
+2020-04-01,Indonesia,ID,gochujang,84,False
+2020-05-01,Indonesia,ID,gochujang,100,False
+2020-06-01,Indonesia,ID,gochujang,87,False
+2020-07-01,Indonesia,ID,gochujang,68,False
+2020-08-01,Indonesia,ID,gochujang,49,False
+2020-09-01,Indonesia,ID,gochujang,46,False
+2020-10-01,Indonesia,ID,gochujang,58,False
+2020-11-01,Indonesia,ID,gochujang,46,False
+2020-12-01,Indonesia,ID,gochujang,59,False
+2021-01-01,Indonesia,ID,gochujang,67,False
+2021-02-01,Indonesia,ID,gochujang,67,False
+2021-03-01,Indonesia,ID,gochujang,65,False
+2021-04-01,Indonesia,ID,gochujang,67,False
+2021-05-01,Indonesia,ID,gochujang,66,False
+2021-06-01,Indonesia,ID,gochujang,65,False
+2021-07-01,Indonesia,ID,gochujang,75,False
+2021-08-01,Indonesia,ID,gochujang,57,False
+2021-09-01,Indonesia,ID,gochujang,41,False
+2021-10-01,Indonesia,ID,gochujang,43,False
+2021-11-01,Indonesia,ID,gochujang,38,False
+2021-12-01,Indonesia,ID,gochujang,48,False
+2022-01-01,Indonesia,ID,gochujang,44,False
+2022-02-01,Indonesia,ID,gochujang,46,False
+2022-03-01,Indonesia,ID,gochujang,45,False
+2022-04-01,Indonesia,ID,gochujang,48,False
+2022-05-01,Indonesia,ID,gochujang,38,False
+2022-06-01,Indonesia,ID,gochujang,40,False
+2022-07-01,Indonesia,ID,gochujang,44,False
+2022-08-01,Indonesia,ID,gochujang,39,False
+2022-09-01,Indonesia,ID,gochujang,35,False
+2022-10-01,Indonesia,ID,gochujang,39,False
+2022-11-01,Indonesia,ID,gochujang,37,False
+2022-12-01,Indonesia,ID,gochujang,66,False
+2023-01-01,Indonesia,ID,gochujang,59,False
+2023-02-01,Indonesia,ID,gochujang,50,False
+2023-03-01,Indonesia,ID,gochujang,54,False
+2023-04-01,Indonesia,ID,gochujang,55,False
+2023-05-01,Indonesia,ID,gochujang,48,False
+2023-06-01,Indonesia,ID,gochujang,43,False
+2023-07-01,Indonesia,ID,gochujang,44,False
+2023-08-01,Indonesia,ID,gochujang,35,False
+2023-09-01,Indonesia,ID,gochujang,34,False
+2023-10-01,Indonesia,ID,gochujang,34,False
+2023-11-01,Indonesia,ID,gochujang,34,False
+2023-12-01,Indonesia,ID,gochujang,38,False
+2024-01-01,Indonesia,ID,gochujang,35,False
+2024-02-01,Indonesia,ID,gochujang,28,False
+2024-03-01,Indonesia,ID,gochujang,31,False
+2024-04-01,Indonesia,ID,gochujang,30,False
+2024-05-01,Indonesia,ID,gochujang,32,False
+2024-06-01,Indonesia,ID,gochujang,29,False
+2024-07-01,Indonesia,ID,gochujang,29,False
+2024-08-01,Indonesia,ID,gochujang,32,False
+2024-09-01,Indonesia,ID,gochujang,30,False
+2024-10-01,Indonesia,ID,gochujang,28,False
+2024-11-01,Indonesia,ID,gochujang,28,False
+2024-12-01,Indonesia,ID,gochujang,27,False
+2019-01-01,Indonesia,ID,tteokbokki,55,False
+2019-02-01,Indonesia,ID,tteokbokki,47,False
+2019-03-01,Indonesia,ID,tteokbokki,54,False
+2019-04-01,Indonesia,ID,tteokbokki,60,False
+2019-05-01,Indonesia,ID,tteokbokki,54,False
+2019-06-01,Indonesia,ID,tteokbokki,50,False
+2019-07-01,Indonesia,ID,tteokbokki,44,False
+2019-08-01,Indonesia,ID,tteokbokki,39,False
+2019-09-01,Indonesia,ID,tteokbokki,32,False
+2019-10-01,Indonesia,ID,tteokbokki,34,False
+2019-11-01,Indonesia,ID,tteokbokki,37,False
+2019-12-01,Indonesia,ID,tteokbokki,45,False
+2020-01-01,Indonesia,ID,tteokbokki,40,False
+2020-02-01,Indonesia,ID,tteokbokki,37,False
+2020-03-01,Indonesia,ID,tteokbokki,40,False
+2020-04-01,Indonesia,ID,tteokbokki,77,False
+2020-05-01,Indonesia,ID,tteokbokki,90,False
+2020-06-01,Indonesia,ID,tteokbokki,100,False
+2020-07-01,Indonesia,ID,tteokbokki,67,False
+2020-08-01,Indonesia,ID,tteokbokki,48,False
+2020-09-01,Indonesia,ID,tteokbokki,54,False
+2020-10-01,Indonesia,ID,tteokbokki,58,False
+2020-11-01,Indonesia,ID,tteokbokki,50,False
+2020-12-01,Indonesia,ID,tteokbokki,65,False
+2021-01-01,Indonesia,ID,tteokbokki,86,False
+2021-02-01,Indonesia,ID,tteokbokki,82,False
+2021-03-01,Indonesia,ID,tteokbokki,69,False
+2021-04-01,Indonesia,ID,tteokbokki,77,False
+2021-05-01,Indonesia,ID,tteokbokki,69,False
+2021-06-01,Indonesia,ID,tteokbokki,60,False
+2021-07-01,Indonesia,ID,tteokbokki,57,False
+2021-08-01,Indonesia,ID,tteokbokki,44,False
+2021-09-01,Indonesia,ID,tteokbokki,36,False
+2021-10-01,Indonesia,ID,tteokbokki,40,False
+2021-11-01,Indonesia,ID,tteokbokki,36,False
+2021-12-01,Indonesia,ID,tteokbokki,36,False
+2022-01-01,Indonesia,ID,tteokbokki,35,False
+2022-02-01,Indonesia,ID,tteokbokki,32,False
+2022-03-01,Indonesia,ID,tteokbokki,31,False
+2022-04-01,Indonesia,ID,tteokbokki,37,False
+2022-05-01,Indonesia,ID,tteokbokki,32,False
+2022-06-01,Indonesia,ID,tteokbokki,27,False
+2022-07-01,Indonesia,ID,tteokbokki,25,False
+2022-08-01,Indonesia,ID,tteokbokki,22,False
+2022-09-01,Indonesia,ID,tteokbokki,19,False
+2022-10-01,Indonesia,ID,tteokbokki,20,False
+2022-11-01,Indonesia,ID,tteokbokki,19,False
+2022-12-01,Indonesia,ID,tteokbokki,19,False
+2023-01-01,Indonesia,ID,tteokbokki,22,False
+2023-02-01,Indonesia,ID,tteokbokki,20,False
+2023-03-01,Indonesia,ID,tteokbokki,19,False
+2023-04-01,Indonesia,ID,tteokbokki,20,False
+2023-05-01,Indonesia,ID,tteokbokki,17,False
+2023-06-01,Indonesia,ID,tteokbokki,16,False
+2023-07-01,Indonesia,ID,tteokbokki,15,False
+2023-08-01,Indonesia,ID,tteokbokki,15,False
+2023-09-01,Indonesia,ID,tteokbokki,14,False
+2023-10-01,Indonesia,ID,tteokbokki,14,False
+2023-11-01,Indonesia,ID,tteokbokki,16,False
+2023-12-01,Indonesia,ID,tteokbokki,16,False
+2024-01-01,Indonesia,ID,tteokbokki,17,False
+2024-02-01,Indonesia,ID,tteokbokki,16,False
+2024-03-01,Indonesia,ID,tteokbokki,16,False
+2024-04-01,Indonesia,ID,tteokbokki,16,False
+2024-05-01,Indonesia,ID,tteokbokki,15,False
+2024-06-01,Indonesia,ID,tteokbokki,14,False
+2024-07-01,Indonesia,ID,tteokbokki,14,False
+2024-08-01,Indonesia,ID,tteokbokki,13,False
+2024-09-01,Indonesia,ID,tteokbokki,14,False
+2024-10-01,Indonesia,ID,tteokbokki,12,False
+2024-11-01,Indonesia,ID,tteokbokki,15,False
+2024-12-01,Indonesia,ID,tteokbokki,15,False
+2019-01-01,Indonesia,ID,korean ramen,36,False
+2019-02-01,Indonesia,ID,korean ramen,44,False
+2019-03-01,Indonesia,ID,korean ramen,0,False
+2019-04-01,Indonesia,ID,korean ramen,42,False
+2019-05-01,Indonesia,ID,korean ramen,61,False
+2019-06-01,Indonesia,ID,korean ramen,44,False
+2019-07-01,Indonesia,ID,korean ramen,48,False
+2019-08-01,Indonesia,ID,korean ramen,57,False
+2019-09-01,Indonesia,ID,korean ramen,53,False
+2019-10-01,Indonesia,ID,korean ramen,71,False
+2019-11-01,Indonesia,ID,korean ramen,42,False
+2019-12-01,Indonesia,ID,korean ramen,51,False
+2020-01-01,Indonesia,ID,korean ramen,43,False
+2020-02-01,Indonesia,ID,korean ramen,68,False
+2020-03-01,Indonesia,ID,korean ramen,62,False
+2020-04-01,Indonesia,ID,korean ramen,60,False
+2020-05-01,Indonesia,ID,korean ramen,77,False
+2020-06-01,Indonesia,ID,korean ramen,72,False
+2020-07-01,Indonesia,ID,korean ramen,68,False
+2020-08-01,Indonesia,ID,korean ramen,58,False
+2020-09-01,Indonesia,ID,korean ramen,72,False
+2020-10-01,Indonesia,ID,korean ramen,47,False
+2020-11-01,Indonesia,ID,korean ramen,43,False
+2020-12-01,Indonesia,ID,korean ramen,54,False
+2021-01-01,Indonesia,ID,korean ramen,66,False
+2021-02-01,Indonesia,ID,korean ramen,53,False
+2021-03-01,Indonesia,ID,korean ramen,77,False
+2021-04-01,Indonesia,ID,korean ramen,60,False
+2021-05-01,Indonesia,ID,korean ramen,97,False
+2021-06-01,Indonesia,ID,korean ramen,69,False
+2021-07-01,Indonesia,ID,korean ramen,57,False
+2021-08-01,Indonesia,ID,korean ramen,36,False
+2021-09-01,Indonesia,ID,korean ramen,66,False
+2021-10-01,Indonesia,ID,korean ramen,47,False
+2021-11-01,Indonesia,ID,korean ramen,49,False
+2021-12-01,Indonesia,ID,korean ramen,59,False
+2022-01-01,Indonesia,ID,korean ramen,75,False
+2022-02-01,Indonesia,ID,korean ramen,65,False
+2022-03-01,Indonesia,ID,korean ramen,71,False
+2022-04-01,Indonesia,ID,korean ramen,73,False
+2022-05-01,Indonesia,ID,korean ramen,71,False
+2022-06-01,Indonesia,ID,korean ramen,73,False
+2022-07-01,Indonesia,ID,korean ramen,60,False
+2022-08-01,Indonesia,ID,korean ramen,58,False
+2022-09-01,Indonesia,ID,korean ramen,90,False
+2022-10-01,Indonesia,ID,korean ramen,71,False
+2022-11-01,Indonesia,ID,korean ramen,83,False
+2022-12-01,Indonesia,ID,korean ramen,74,False
+2023-01-01,Indonesia,ID,korean ramen,98,False
+2023-02-01,Indonesia,ID,korean ramen,62,False
+2023-03-01,Indonesia,ID,korean ramen,68,False
+2023-04-01,Indonesia,ID,korean ramen,100,False
+2023-05-01,Indonesia,ID,korean ramen,99,False
+2023-06-01,Indonesia,ID,korean ramen,78,False
+2023-07-01,Indonesia,ID,korean ramen,81,False
+2023-08-01,Indonesia,ID,korean ramen,77,False
+2023-09-01,Indonesia,ID,korean ramen,71,False
+2023-10-01,Indonesia,ID,korean ramen,58,False
+2023-11-01,Indonesia,ID,korean ramen,66,False
+2023-12-01,Indonesia,ID,korean ramen,88,False
+2024-01-01,Indonesia,ID,korean ramen,56,False
+2024-02-01,Indonesia,ID,korean ramen,40,False
+2024-03-01,Indonesia,ID,korean ramen,72,False
+2024-04-01,Indonesia,ID,korean ramen,78,False
+2024-05-01,Indonesia,ID,korean ramen,61,False
+2024-06-01,Indonesia,ID,korean ramen,81,False
+2024-07-01,Indonesia,ID,korean ramen,54,False
+2024-08-01,Indonesia,ID,korean ramen,53,False
+2024-09-01,Indonesia,ID,korean ramen,44,False
+2024-10-01,Indonesia,ID,korean ramen,79,False
+2024-11-01,Indonesia,ID,korean ramen,69,False
+2024-12-01,Indonesia,ID,korean ramen,71,False
+2019-01-01,Indonesia,ID,bibigo,0,False
+2019-02-01,Indonesia,ID,bibigo,0,False
+2019-03-01,Indonesia,ID,bibigo,0,False
+2019-04-01,Indonesia,ID,bibigo,0,False
+2019-05-01,Indonesia,ID,bibigo,34,False
+2019-06-01,Indonesia,ID,bibigo,0,False
+2019-07-01,Indonesia,ID,bibigo,0,False
+2019-08-01,Indonesia,ID,bibigo,0,False
+2019-09-01,Indonesia,ID,bibigo,0,False
+2019-10-01,Indonesia,ID,bibigo,0,False
+2019-11-01,Indonesia,ID,bibigo,0,False
+2019-12-01,Indonesia,ID,bibigo,0,False
+2020-01-01,Indonesia,ID,bibigo,0,False
+2020-02-01,Indonesia,ID,bibigo,0,False
+2020-03-01,Indonesia,ID,bibigo,0,False
+2020-04-01,Indonesia,ID,bibigo,24,False
+2020-05-01,Indonesia,ID,bibigo,0,False
+2020-06-01,Indonesia,ID,bibigo,0,False
+2020-07-01,Indonesia,ID,bibigo,0,False
+2020-08-01,Indonesia,ID,bibigo,0,False
+2020-09-01,Indonesia,ID,bibigo,0,False
+2020-10-01,Indonesia,ID,bibigo,0,False
+2020-11-01,Indonesia,ID,bibigo,0,False
+2020-12-01,Indonesia,ID,bibigo,23,False
+2021-01-01,Indonesia,ID,bibigo,26,False
+2021-02-01,Indonesia,ID,bibigo,24,False
+2021-03-01,Indonesia,ID,bibigo,0,False
+2021-04-01,Indonesia,ID,bibigo,34,False
+2021-05-01,Indonesia,ID,bibigo,23,False
+2021-06-01,Indonesia,ID,bibigo,0,False
+2021-07-01,Indonesia,ID,bibigo,29,False
+2021-08-01,Indonesia,ID,bibigo,0,False
+2021-09-01,Indonesia,ID,bibigo,24,False
+2021-10-01,Indonesia,ID,bibigo,0,False
+2021-11-01,Indonesia,ID,bibigo,0,False
+2021-12-01,Indonesia,ID,bibigo,35,False
+2022-01-01,Indonesia,ID,bibigo,0,False
+2022-02-01,Indonesia,ID,bibigo,0,False
+2022-03-01,Indonesia,ID,bibigo,66,False
+2022-04-01,Indonesia,ID,bibigo,45,False
+2022-05-01,Indonesia,ID,bibigo,33,False
+2022-06-01,Indonesia,ID,bibigo,20,False
+2022-07-01,Indonesia,ID,bibigo,29,False
+2022-08-01,Indonesia,ID,bibigo,34,False
+2022-09-01,Indonesia,ID,bibigo,21,False
+2022-10-01,Indonesia,ID,bibigo,18,False
+2022-11-01,Indonesia,ID,bibigo,20,False
+2022-12-01,Indonesia,ID,bibigo,22,False
+2023-01-01,Indonesia,ID,bibigo,30,False
+2023-02-01,Indonesia,ID,bibigo,20,False
+2023-03-01,Indonesia,ID,bibigo,16,False
+2023-04-01,Indonesia,ID,bibigo,25,False
+2023-05-01,Indonesia,ID,bibigo,25,False
+2023-06-01,Indonesia,ID,bibigo,0,False
+2023-07-01,Indonesia,ID,bibigo,0,False
+2023-08-01,Indonesia,ID,bibigo,43,False
+2023-09-01,Indonesia,ID,bibigo,34,False
+2023-10-01,Indonesia,ID,bibigo,25,False
+2023-11-01,Indonesia,ID,bibigo,37,False
+2023-12-01,Indonesia,ID,bibigo,42,False
+2024-01-01,Indonesia,ID,bibigo,38,False
+2024-02-01,Indonesia,ID,bibigo,31,False
+2024-03-01,Indonesia,ID,bibigo,50,False
+2024-04-01,Indonesia,ID,bibigo,25,False
+2024-05-01,Indonesia,ID,bibigo,60,False
+2024-06-01,Indonesia,ID,bibigo,27,False
+2024-07-01,Indonesia,ID,bibigo,100,False
+2024-08-01,Indonesia,ID,bibigo,94,False
+2024-09-01,Indonesia,ID,bibigo,75,False
+2024-10-01,Indonesia,ID,bibigo,35,False
+2024-11-01,Indonesia,ID,bibigo,30,False
+2024-12-01,Indonesia,ID,bibigo,39,False
+2019-01-01,Malaysia,MY,korean food,70,False
+2019-02-01,Malaysia,MY,korean food,77,False
+2019-03-01,Malaysia,MY,korean food,85,False
+2019-04-01,Malaysia,MY,korean food,75,False
+2019-05-01,Malaysia,MY,korean food,81,False
+2019-06-01,Malaysia,MY,korean food,80,False
+2019-07-01,Malaysia,MY,korean food,76,False
+2019-08-01,Malaysia,MY,korean food,72,False
+2019-09-01,Malaysia,MY,korean food,71,False
+2019-10-01,Malaysia,MY,korean food,77,False
+2019-11-01,Malaysia,MY,korean food,78,False
+2019-12-01,Malaysia,MY,korean food,88,False
+2020-01-01,Malaysia,MY,korean food,68,False
+2020-02-01,Malaysia,MY,korean food,71,False
+2020-03-01,Malaysia,MY,korean food,49,False
+2020-04-01,Malaysia,MY,korean food,31,False
+2020-05-01,Malaysia,MY,korean food,40,False
+2020-06-01,Malaysia,MY,korean food,72,False
+2020-07-01,Malaysia,MY,korean food,84,False
+2020-08-01,Malaysia,MY,korean food,82,False
+2020-09-01,Malaysia,MY,korean food,83,False
+2020-10-01,Malaysia,MY,korean food,55,False
+2020-11-01,Malaysia,MY,korean food,58,False
+2020-12-01,Malaysia,MY,korean food,73,False
+2021-01-01,Malaysia,MY,korean food,45,False
+2021-02-01,Malaysia,MY,korean food,44,False
+2021-03-01,Malaysia,MY,korean food,78,False
+2021-04-01,Malaysia,MY,korean food,79,False
+2021-05-01,Malaysia,MY,korean food,40,False
+2021-06-01,Malaysia,MY,korean food,31,False
+2021-07-01,Malaysia,MY,korean food,30,False
+2021-08-01,Malaysia,MY,korean food,34,False
+2021-09-01,Malaysia,MY,korean food,45,False
+2021-10-01,Malaysia,MY,korean food,71,False
+2021-11-01,Malaysia,MY,korean food,82,False
+2021-12-01,Malaysia,MY,korean food,87,False
+2022-01-01,Malaysia,MY,korean food,86,False
+2022-02-01,Malaysia,MY,korean food,84,False
+2022-03-01,Malaysia,MY,korean food,85,False
+2022-04-01,Malaysia,MY,korean food,95,False
+2022-05-01,Malaysia,MY,korean food,100,False
+2022-06-01,Malaysia,MY,korean food,89,False
+2022-07-01,Malaysia,MY,korean food,91,False
+2022-08-01,Malaysia,MY,korean food,87,False
+2022-09-01,Malaysia,MY,korean food,84,False
+2022-10-01,Malaysia,MY,korean food,80,False
+2022-11-01,Malaysia,MY,korean food,71,False
+2022-12-01,Malaysia,MY,korean food,81,False
+2023-01-01,Malaysia,MY,korean food,76,False
+2023-02-01,Malaysia,MY,korean food,83,False
+2023-03-01,Malaysia,MY,korean food,77,False
+2023-04-01,Malaysia,MY,korean food,90,False
+2023-05-01,Malaysia,MY,korean food,82,False
+2023-06-01,Malaysia,MY,korean food,85,False
+2023-07-01,Malaysia,MY,korean food,82,False
+2023-08-01,Malaysia,MY,korean food,80,False
+2023-09-01,Malaysia,MY,korean food,76,False
+2023-10-01,Malaysia,MY,korean food,72,False
+2023-11-01,Malaysia,MY,korean food,70,False
+2023-12-01,Malaysia,MY,korean food,81,False
+2024-01-01,Malaysia,MY,korean food,66,False
+2024-02-01,Malaysia,MY,korean food,68,False
+2024-03-01,Malaysia,MY,korean food,70,False
+2024-04-01,Malaysia,MY,korean food,76,False
+2024-05-01,Malaysia,MY,korean food,74,False
+2024-06-01,Malaysia,MY,korean food,75,False
+2024-07-01,Malaysia,MY,korean food,65,False
+2024-08-01,Malaysia,MY,korean food,71,False
+2024-09-01,Malaysia,MY,korean food,69,False
+2024-10-01,Malaysia,MY,korean food,71,False
+2024-11-01,Malaysia,MY,korean food,66,False
+2024-12-01,Malaysia,MY,korean food,76,False
+2019-01-01,Malaysia,MY,kimchi,35,False
+2019-02-01,Malaysia,MY,kimchi,39,False
+2019-03-01,Malaysia,MY,kimchi,37,False
+2019-04-01,Malaysia,MY,kimchi,34,False
+2019-05-01,Malaysia,MY,kimchi,37,False
+2019-06-01,Malaysia,MY,kimchi,39,False
+2019-07-01,Malaysia,MY,kimchi,37,False
+2019-08-01,Malaysia,MY,kimchi,38,False
+2019-09-01,Malaysia,MY,kimchi,38,False
+2019-10-01,Malaysia,MY,kimchi,43,False
+2019-11-01,Malaysia,MY,kimchi,38,False
+2019-12-01,Malaysia,MY,kimchi,36,False
+2020-01-01,Malaysia,MY,kimchi,37,False
+2020-02-01,Malaysia,MY,kimchi,44,False
+2020-03-01,Malaysia,MY,kimchi,56,False
+2020-04-01,Malaysia,MY,kimchi,95,False
+2020-05-01,Malaysia,MY,kimchi,100,False
+2020-06-01,Malaysia,MY,kimchi,91,False
+2020-07-01,Malaysia,MY,kimchi,73,False
+2020-08-01,Malaysia,MY,kimchi,60,False
+2020-09-01,Malaysia,MY,kimchi,54,False
+2020-10-01,Malaysia,MY,kimchi,61,False
+2020-11-01,Malaysia,MY,kimchi,65,False
+2020-12-01,Malaysia,MY,kimchi,56,False
+2021-01-01,Malaysia,MY,kimchi,69,False
+2021-02-01,Malaysia,MY,kimchi,60,False
+2021-03-01,Malaysia,MY,kimchi,51,False
+2021-04-01,Malaysia,MY,kimchi,48,False
+2021-05-01,Malaysia,MY,kimchi,66,False
+2021-06-01,Malaysia,MY,kimchi,74,False
+2021-07-01,Malaysia,MY,kimchi,65,False
+2021-08-01,Malaysia,MY,kimchi,59,False
+2021-09-01,Malaysia,MY,kimchi,49,False
+2021-10-01,Malaysia,MY,kimchi,43,False
+2021-11-01,Malaysia,MY,kimchi,38,False
+2021-12-01,Malaysia,MY,kimchi,36,False
+2022-01-01,Malaysia,MY,kimchi,39,False
+2022-02-01,Malaysia,MY,kimchi,44,False
+2022-03-01,Malaysia,MY,kimchi,43,False
+2022-04-01,Malaysia,MY,kimchi,36,False
+2022-05-01,Malaysia,MY,kimchi,35,False
+2022-06-01,Malaysia,MY,kimchi,39,False
+2022-07-01,Malaysia,MY,kimchi,36,False
+2022-08-01,Malaysia,MY,kimchi,37,False
+2022-09-01,Malaysia,MY,kimchi,36,False
+2022-10-01,Malaysia,MY,kimchi,40,False
+2022-11-01,Malaysia,MY,kimchi,38,False
+2022-12-01,Malaysia,MY,kimchi,39,False
+2023-01-01,Malaysia,MY,kimchi,41,False
+2023-02-01,Malaysia,MY,kimchi,42,False
+2023-03-01,Malaysia,MY,kimchi,43,False
+2023-04-01,Malaysia,MY,kimchi,42,False
+2023-05-01,Malaysia,MY,kimchi,44,False
+2023-06-01,Malaysia,MY,kimchi,43,False
+2023-07-01,Malaysia,MY,kimchi,42,False
+2023-08-01,Malaysia,MY,kimchi,43,False
+2023-09-01,Malaysia,MY,kimchi,44,False
+2023-10-01,Malaysia,MY,kimchi,39,False
+2023-11-01,Malaysia,MY,kimchi,39,False
+2023-12-01,Malaysia,MY,kimchi,38,False
+2024-01-01,Malaysia,MY,kimchi,39,False
+2024-02-01,Malaysia,MY,kimchi,40,False
+2024-03-01,Malaysia,MY,kimchi,39,False
+2024-04-01,Malaysia,MY,kimchi,35,False
+2024-05-01,Malaysia,MY,kimchi,43,False
+2024-06-01,Malaysia,MY,kimchi,39,False
+2024-07-01,Malaysia,MY,kimchi,38,False
+2024-08-01,Malaysia,MY,kimchi,41,False
+2024-09-01,Malaysia,MY,kimchi,39,False
+2024-10-01,Malaysia,MY,kimchi,38,False
+2024-11-01,Malaysia,MY,kimchi,40,False
+2024-12-01,Malaysia,MY,kimchi,35,False
+2019-01-01,Malaysia,MY,gochujang,41,False
+2019-02-01,Malaysia,MY,gochujang,28,False
+2019-03-01,Malaysia,MY,gochujang,22,False
+2019-04-01,Malaysia,MY,gochujang,25,False
+2019-05-01,Malaysia,MY,gochujang,47,False
+2019-06-01,Malaysia,MY,gochujang,28,False
+2019-07-01,Malaysia,MY,gochujang,32,False
+2019-08-01,Malaysia,MY,gochujang,30,False
+2019-09-01,Malaysia,MY,gochujang,29,False
+2019-10-01,Malaysia,MY,gochujang,30,False
+2019-11-01,Malaysia,MY,gochujang,30,False
+2019-12-01,Malaysia,MY,gochujang,31,False
+2020-01-01,Malaysia,MY,gochujang,29,False
+2020-02-01,Malaysia,MY,gochujang,27,False
+2020-03-01,Malaysia,MY,gochujang,46,False
+2020-04-01,Malaysia,MY,gochujang,94,False
+2020-05-01,Malaysia,MY,gochujang,100,False
+2020-06-01,Malaysia,MY,gochujang,75,False
+2020-07-01,Malaysia,MY,gochujang,50,False
+2020-08-01,Malaysia,MY,gochujang,44,False
+2020-09-01,Malaysia,MY,gochujang,39,False
+2020-10-01,Malaysia,MY,gochujang,46,False
+2020-11-01,Malaysia,MY,gochujang,56,False
+2020-12-01,Malaysia,MY,gochujang,49,False
+2021-01-01,Malaysia,MY,gochujang,56,False
+2021-02-01,Malaysia,MY,gochujang,48,False
+2021-03-01,Malaysia,MY,gochujang,40,False
+2021-04-01,Malaysia,MY,gochujang,38,False
+2021-05-01,Malaysia,MY,gochujang,51,False
+2021-06-01,Malaysia,MY,gochujang,69,False
+2021-07-01,Malaysia,MY,gochujang,59,False
+2021-08-01,Malaysia,MY,gochujang,65,False
+2021-09-01,Malaysia,MY,gochujang,43,False
+2021-10-01,Malaysia,MY,gochujang,39,False
+2021-11-01,Malaysia,MY,gochujang,34,False
+2021-12-01,Malaysia,MY,gochujang,28,False
+2022-01-01,Malaysia,MY,gochujang,32,False
+2022-02-01,Malaysia,MY,gochujang,35,False
+2022-03-01,Malaysia,MY,gochujang,39,False
+2022-04-01,Malaysia,MY,gochujang,36,False
+2022-05-01,Malaysia,MY,gochujang,27,False
+2022-06-01,Malaysia,MY,gochujang,35,False
+2022-07-01,Malaysia,MY,gochujang,29,False
+2022-08-01,Malaysia,MY,gochujang,33,False
+2022-09-01,Malaysia,MY,gochujang,38,False
+2022-10-01,Malaysia,MY,gochujang,37,False
+2022-11-01,Malaysia,MY,gochujang,31,False
+2022-12-01,Malaysia,MY,gochujang,32,False
+2023-01-01,Malaysia,MY,gochujang,34,False
+2023-02-01,Malaysia,MY,gochujang,38,False
+2023-03-01,Malaysia,MY,gochujang,44,False
+2023-04-01,Malaysia,MY,gochujang,33,False
+2023-05-01,Malaysia,MY,gochujang,36,False
+2023-06-01,Malaysia,MY,gochujang,38,False
+2023-07-01,Malaysia,MY,gochujang,43,False
+2023-08-01,Malaysia,MY,gochujang,49,False
+2023-09-01,Malaysia,MY,gochujang,44,False
+2023-10-01,Malaysia,MY,gochujang,39,False
+2023-11-01,Malaysia,MY,gochujang,41,False
+2023-12-01,Malaysia,MY,gochujang,37,False
+2024-01-01,Malaysia,MY,gochujang,36,False
+2024-02-01,Malaysia,MY,gochujang,37,False
+2024-03-01,Malaysia,MY,gochujang,39,False
+2024-04-01,Malaysia,MY,gochujang,31,False
+2024-05-01,Malaysia,MY,gochujang,38,False
+2024-06-01,Malaysia,MY,gochujang,36,False
+2024-07-01,Malaysia,MY,gochujang,36,False
+2024-08-01,Malaysia,MY,gochujang,37,False
+2024-09-01,Malaysia,MY,gochujang,36,False
+2024-10-01,Malaysia,MY,gochujang,38,False
+2024-11-01,Malaysia,MY,gochujang,36,False
+2024-12-01,Malaysia,MY,gochujang,31,False
+2019-01-01,Malaysia,MY,tteokbokki,36,False
+2019-02-01,Malaysia,MY,tteokbokki,41,False
+2019-03-01,Malaysia,MY,tteokbokki,40,False
+2019-04-01,Malaysia,MY,tteokbokki,39,False
+2019-05-01,Malaysia,MY,tteokbokki,41,False
+2019-06-01,Malaysia,MY,tteokbokki,39,False
+2019-07-01,Malaysia,MY,tteokbokki,37,False
+2019-08-01,Malaysia,MY,tteokbokki,35,False
+2019-09-01,Malaysia,MY,tteokbokki,44,False
+2019-10-01,Malaysia,MY,tteokbokki,44,False
+2019-11-01,Malaysia,MY,tteokbokki,49,False
+2019-12-01,Malaysia,MY,tteokbokki,49,False
+2020-01-01,Malaysia,MY,tteokbokki,41,False
+2020-02-01,Malaysia,MY,tteokbokki,43,False
+2020-03-01,Malaysia,MY,tteokbokki,56,False
+2020-04-01,Malaysia,MY,tteokbokki,100,False
+2020-05-01,Malaysia,MY,tteokbokki,99,False
+2020-06-01,Malaysia,MY,tteokbokki,80,False
+2020-07-01,Malaysia,MY,tteokbokki,66,False
+2020-08-01,Malaysia,MY,tteokbokki,60,False
+2020-09-01,Malaysia,MY,tteokbokki,53,False
+2020-10-01,Malaysia,MY,tteokbokki,55,False
+2020-11-01,Malaysia,MY,tteokbokki,68,False
+2020-12-01,Malaysia,MY,tteokbokki,66,False
+2021-01-01,Malaysia,MY,tteokbokki,74,False
+2021-02-01,Malaysia,MY,tteokbokki,61,False
+2021-03-01,Malaysia,MY,tteokbokki,54,False
+2021-04-01,Malaysia,MY,tteokbokki,55,False
+2021-05-01,Malaysia,MY,tteokbokki,63,False
+2021-06-01,Malaysia,MY,tteokbokki,87,False
+2021-07-01,Malaysia,MY,tteokbokki,76,False
+2021-08-01,Malaysia,MY,tteokbokki,81,False
+2021-09-01,Malaysia,MY,tteokbokki,72,False
+2021-10-01,Malaysia,MY,tteokbokki,71,False
+2021-11-01,Malaysia,MY,tteokbokki,80,False
+2021-12-01,Malaysia,MY,tteokbokki,66,False
+2022-01-01,Malaysia,MY,tteokbokki,61,False
+2022-02-01,Malaysia,MY,tteokbokki,79,False
+2022-03-01,Malaysia,MY,tteokbokki,59,False
+2022-04-01,Malaysia,MY,tteokbokki,57,False
+2022-05-01,Malaysia,MY,tteokbokki,69,False
+2022-06-01,Malaysia,MY,tteokbokki,63,False
+2022-07-01,Malaysia,MY,tteokbokki,64,False
+2022-08-01,Malaysia,MY,tteokbokki,74,False
+2022-09-01,Malaysia,MY,tteokbokki,64,False
+2022-10-01,Malaysia,MY,tteokbokki,55,False
+2022-11-01,Malaysia,MY,tteokbokki,52,False
+2022-12-01,Malaysia,MY,tteokbokki,60,False
+2023-01-01,Malaysia,MY,tteokbokki,52,False
+2023-02-01,Malaysia,MY,tteokbokki,59,False
+2023-03-01,Malaysia,MY,tteokbokki,51,False
+2023-04-01,Malaysia,MY,tteokbokki,50,False
+2023-05-01,Malaysia,MY,tteokbokki,58,False
+2023-06-01,Malaysia,MY,tteokbokki,69,False
+2023-07-01,Malaysia,MY,tteokbokki,65,False
+2023-08-01,Malaysia,MY,tteokbokki,69,False
+2023-09-01,Malaysia,MY,tteokbokki,68,False
+2023-10-01,Malaysia,MY,tteokbokki,49,False
+2023-11-01,Malaysia,MY,tteokbokki,62,False
+2023-12-01,Malaysia,MY,tteokbokki,70,False
+2024-01-01,Malaysia,MY,tteokbokki,58,False
+2024-02-01,Malaysia,MY,tteokbokki,58,False
+2024-03-01,Malaysia,MY,tteokbokki,50,False
+2024-04-01,Malaysia,MY,tteokbokki,56,False
+2024-05-01,Malaysia,MY,tteokbokki,52,False
+2024-06-01,Malaysia,MY,tteokbokki,48,False
+2024-07-01,Malaysia,MY,tteokbokki,53,False
+2024-08-01,Malaysia,MY,tteokbokki,55,False
+2024-09-01,Malaysia,MY,tteokbokki,51,False
+2024-10-01,Malaysia,MY,tteokbokki,55,False
+2024-11-01,Malaysia,MY,tteokbokki,50,False
+2024-12-01,Malaysia,MY,tteokbokki,46,False
+2019-01-01,Malaysia,MY,korean ramen,40,False
+2019-02-01,Malaysia,MY,korean ramen,38,False
+2019-03-01,Malaysia,MY,korean ramen,60,False
+2019-04-01,Malaysia,MY,korean ramen,56,False
+2019-05-01,Malaysia,MY,korean ramen,49,False
+2019-06-01,Malaysia,MY,korean ramen,52,False
+2019-07-01,Malaysia,MY,korean ramen,39,False
+2019-08-01,Malaysia,MY,korean ramen,53,False
+2019-09-01,Malaysia,MY,korean ramen,65,False
+2019-10-01,Malaysia,MY,korean ramen,62,False
+2019-11-01,Malaysia,MY,korean ramen,70,False
+2019-12-01,Malaysia,MY,korean ramen,73,False
+2020-01-01,Malaysia,MY,korean ramen,42,False
+2020-02-01,Malaysia,MY,korean ramen,45,False
+2020-03-01,Malaysia,MY,korean ramen,59,False
+2020-04-01,Malaysia,MY,korean ramen,91,False
+2020-05-01,Malaysia,MY,korean ramen,82,False
+2020-06-01,Malaysia,MY,korean ramen,75,False
+2020-07-01,Malaysia,MY,korean ramen,67,False
+2020-08-01,Malaysia,MY,korean ramen,66,False
+2020-09-01,Malaysia,MY,korean ramen,53,False
+2020-10-01,Malaysia,MY,korean ramen,75,False
+2020-11-01,Malaysia,MY,korean ramen,60,False
+2020-12-01,Malaysia,MY,korean ramen,82,False
+2021-01-01,Malaysia,MY,korean ramen,67,False
+2021-02-01,Malaysia,MY,korean ramen,67,False
+2021-03-01,Malaysia,MY,korean ramen,89,False
+2021-04-01,Malaysia,MY,korean ramen,90,False
+2021-05-01,Malaysia,MY,korean ramen,78,False
+2021-06-01,Malaysia,MY,korean ramen,82,False
+2021-07-01,Malaysia,MY,korean ramen,84,False
+2021-08-01,Malaysia,MY,korean ramen,72,False
+2021-09-01,Malaysia,MY,korean ramen,87,False
+2021-10-01,Malaysia,MY,korean ramen,78,False
+2021-11-01,Malaysia,MY,korean ramen,71,False
+2021-12-01,Malaysia,MY,korean ramen,62,False
+2022-01-01,Malaysia,MY,korean ramen,78,False
+2022-02-01,Malaysia,MY,korean ramen,79,False
+2022-03-01,Malaysia,MY,korean ramen,100,False
+2022-04-01,Malaysia,MY,korean ramen,89,False
+2022-05-01,Malaysia,MY,korean ramen,77,False
+2022-06-01,Malaysia,MY,korean ramen,87,False
+2022-07-01,Malaysia,MY,korean ramen,79,False
+2022-08-01,Malaysia,MY,korean ramen,85,False
+2022-09-01,Malaysia,MY,korean ramen,77,False
+2022-10-01,Malaysia,MY,korean ramen,73,False
+2022-11-01,Malaysia,MY,korean ramen,73,False
+2022-12-01,Malaysia,MY,korean ramen,77,False
+2023-01-01,Malaysia,MY,korean ramen,77,False
+2023-02-01,Malaysia,MY,korean ramen,81,False
+2023-03-01,Malaysia,MY,korean ramen,81,False
+2023-04-01,Malaysia,MY,korean ramen,79,False
+2023-05-01,Malaysia,MY,korean ramen,77,False
+2023-06-01,Malaysia,MY,korean ramen,75,False
+2023-07-01,Malaysia,MY,korean ramen,86,False
+2023-08-01,Malaysia,MY,korean ramen,65,False
+2023-09-01,Malaysia,MY,korean ramen,71,False
+2023-10-01,Malaysia,MY,korean ramen,67,False
+2023-11-01,Malaysia,MY,korean ramen,66,False
+2023-12-01,Malaysia,MY,korean ramen,59,False
+2024-01-01,Malaysia,MY,korean ramen,64,False
+2024-02-01,Malaysia,MY,korean ramen,60,False
+2024-03-01,Malaysia,MY,korean ramen,58,False
+2024-04-01,Malaysia,MY,korean ramen,54,False
+2024-05-01,Malaysia,MY,korean ramen,66,False
+2024-06-01,Malaysia,MY,korean ramen,78,False
+2024-07-01,Malaysia,MY,korean ramen,67,False
+2024-08-01,Malaysia,MY,korean ramen,75,False
+2024-09-01,Malaysia,MY,korean ramen,83,False
+2024-10-01,Malaysia,MY,korean ramen,67,False
+2024-11-01,Malaysia,MY,korean ramen,70,False
+2024-12-01,Malaysia,MY,korean ramen,61,False
+2019-01-01,Malaysia,MY,bibigo,0,False
+2019-02-01,Malaysia,MY,bibigo,0,False
+2019-03-01,Malaysia,MY,bibigo,0,False
+2019-04-01,Malaysia,MY,bibigo,0,False
+2019-05-01,Malaysia,MY,bibigo,0,False
+2019-06-01,Malaysia,MY,bibigo,0,False
+2019-07-01,Malaysia,MY,bibigo,0,False
+2019-08-01,Malaysia,MY,bibigo,0,False
+2019-09-01,Malaysia,MY,bibigo,0,False
+2019-10-01,Malaysia,MY,bibigo,30,False
+2019-11-01,Malaysia,MY,bibigo,0,False
+2019-12-01,Malaysia,MY,bibigo,0,False
+2020-01-01,Malaysia,MY,bibigo,0,False
+2020-02-01,Malaysia,MY,bibigo,0,False
+2020-03-01,Malaysia,MY,bibigo,0,False
+2020-04-01,Malaysia,MY,bibigo,53,False
+2020-05-01,Malaysia,MY,bibigo,49,False
+2020-06-01,Malaysia,MY,bibigo,45,False
+2020-07-01,Malaysia,MY,bibigo,57,False
+2020-08-01,Malaysia,MY,bibigo,0,False
+2020-09-01,Malaysia,MY,bibigo,38,False
+2020-10-01,Malaysia,MY,bibigo,50,False
+2020-11-01,Malaysia,MY,bibigo,51,False
+2020-12-01,Malaysia,MY,bibigo,65,False
+2021-01-01,Malaysia,MY,bibigo,68,False
+2021-02-01,Malaysia,MY,bibigo,31,False
+2021-03-01,Malaysia,MY,bibigo,36,False
+2021-04-01,Malaysia,MY,bibigo,36,False
+2021-05-01,Malaysia,MY,bibigo,64,False
+2021-06-01,Malaysia,MY,bibigo,56,False
+2021-07-01,Malaysia,MY,bibigo,43,False
+2021-08-01,Malaysia,MY,bibigo,53,False
+2021-09-01,Malaysia,MY,bibigo,66,False
+2021-10-01,Malaysia,MY,bibigo,56,False
+2021-11-01,Malaysia,MY,bibigo,42,False
+2021-12-01,Malaysia,MY,bibigo,34,False
+2022-01-01,Malaysia,MY,bibigo,0,False
+2022-02-01,Malaysia,MY,bibigo,45,False
+2022-03-01,Malaysia,MY,bibigo,75,False
+2022-04-01,Malaysia,MY,bibigo,100,False
+2022-05-01,Malaysia,MY,bibigo,49,False
+2022-06-01,Malaysia,MY,bibigo,59,False
+2022-07-01,Malaysia,MY,bibigo,53,False
+2022-08-01,Malaysia,MY,bibigo,44,False
+2022-09-01,Malaysia,MY,bibigo,0,False
+2022-10-01,Malaysia,MY,bibigo,35,False
+2022-11-01,Malaysia,MY,bibigo,51,False
+2022-12-01,Malaysia,MY,bibigo,45,False
+2023-01-01,Malaysia,MY,bibigo,47,False
+2023-02-01,Malaysia,MY,bibigo,0,False
+2023-03-01,Malaysia,MY,bibigo,30,False
+2023-04-01,Malaysia,MY,bibigo,45,False
+2023-05-01,Malaysia,MY,bibigo,38,False
+2023-06-01,Malaysia,MY,bibigo,23,False
+2023-07-01,Malaysia,MY,bibigo,33,False
+2023-08-01,Malaysia,MY,bibigo,40,False
+2023-09-01,Malaysia,MY,bibigo,31,False
+2023-10-01,Malaysia,MY,bibigo,29,False
+2023-11-01,Malaysia,MY,bibigo,54,False
+2023-12-01,Malaysia,MY,bibigo,24,False
+2024-01-01,Malaysia,MY,bibigo,44,False
+2024-02-01,Malaysia,MY,bibigo,37,False
+2024-03-01,Malaysia,MY,bibigo,0,False
+2024-04-01,Malaysia,MY,bibigo,43,False
+2024-05-01,Malaysia,MY,bibigo,33,False
+2024-06-01,Malaysia,MY,bibigo,38,False
+2024-07-01,Malaysia,MY,bibigo,37,False
+2024-08-01,Malaysia,MY,bibigo,65,False
+2024-09-01,Malaysia,MY,bibigo,0,False
+2024-10-01,Malaysia,MY,bibigo,27,False
+2024-11-01,Malaysia,MY,bibigo,58,False
+2024-12-01,Malaysia,MY,bibigo,29,False
+2019-01-01,Philippines,PH,korean food,64,False
+2019-02-01,Philippines,PH,korean food,70,False
+2019-03-01,Philippines,PH,korean food,63,False
+2019-04-01,Philippines,PH,korean food,61,False
+2019-05-01,Philippines,PH,korean food,61,False
+2019-06-01,Philippines,PH,korean food,62,False
+2019-07-01,Philippines,PH,korean food,71,False
+2019-08-01,Philippines,PH,korean food,65,False
+2019-09-01,Philippines,PH,korean food,60,False
+2019-10-01,Philippines,PH,korean food,60,False
+2019-11-01,Philippines,PH,korean food,67,False
+2019-12-01,Philippines,PH,korean food,60,False
+2020-01-01,Philippines,PH,korean food,60,False
+2020-02-01,Philippines,PH,korean food,59,False
+2020-03-01,Philippines,PH,korean food,52,False
+2020-04-01,Philippines,PH,korean food,85,False
+2020-05-01,Philippines,PH,korean food,100,False
+2020-06-01,Philippines,PH,korean food,95,False
+2020-07-01,Philippines,PH,korean food,80,False
+2020-08-01,Philippines,PH,korean food,70,False
+2020-09-01,Philippines,PH,korean food,61,False
+2020-10-01,Philippines,PH,korean food,56,False
+2020-11-01,Philippines,PH,korean food,66,False
+2020-12-01,Philippines,PH,korean food,67,False
+2021-01-01,Philippines,PH,korean food,79,False
+2021-02-01,Philippines,PH,korean food,70,False
+2021-03-01,Philippines,PH,korean food,69,False
+2021-04-01,Philippines,PH,korean food,66,False
+2021-05-01,Philippines,PH,korean food,55,False
+2021-06-01,Philippines,PH,korean food,64,False
+2021-07-01,Philippines,PH,korean food,63,False
+2021-08-01,Philippines,PH,korean food,58,False
+2021-09-01,Philippines,PH,korean food,51,False
+2021-10-01,Philippines,PH,korean food,61,False
+2021-11-01,Philippines,PH,korean food,56,False
+2021-12-01,Philippines,PH,korean food,52,False
+2022-01-01,Philippines,PH,korean food,60,False
+2022-02-01,Philippines,PH,korean food,61,False
+2022-03-01,Philippines,PH,korean food,59,False
+2022-04-01,Philippines,PH,korean food,56,False
+2022-05-01,Philippines,PH,korean food,52,False
+2022-06-01,Philippines,PH,korean food,51,False
+2022-07-01,Philippines,PH,korean food,57,False
+2022-08-01,Philippines,PH,korean food,49,False
+2022-09-01,Philippines,PH,korean food,52,False
+2022-10-01,Philippines,PH,korean food,58,False
+2022-11-01,Philippines,PH,korean food,56,False
+2022-12-01,Philippines,PH,korean food,50,False
+2023-01-01,Philippines,PH,korean food,48,False
+2023-02-01,Philippines,PH,korean food,50,False
+2023-03-01,Philippines,PH,korean food,46,False
+2023-04-01,Philippines,PH,korean food,47,False
+2023-05-01,Philippines,PH,korean food,43,False
+2023-06-01,Philippines,PH,korean food,49,False
+2023-07-01,Philippines,PH,korean food,48,False
+2023-08-01,Philippines,PH,korean food,45,False
+2023-09-01,Philippines,PH,korean food,46,False
+2023-10-01,Philippines,PH,korean food,45,False
+2023-11-01,Philippines,PH,korean food,43,False
+2023-12-01,Philippines,PH,korean food,42,False
+2024-01-01,Philippines,PH,korean food,47,False
+2024-02-01,Philippines,PH,korean food,45,False
+2024-03-01,Philippines,PH,korean food,36,False
+2024-04-01,Philippines,PH,korean food,39,False
+2024-05-01,Philippines,PH,korean food,39,False
+2024-06-01,Philippines,PH,korean food,41,False
+2024-07-01,Philippines,PH,korean food,41,False
+2024-08-01,Philippines,PH,korean food,35,False
+2024-09-01,Philippines,PH,korean food,40,False
+2024-10-01,Philippines,PH,korean food,42,False
+2024-11-01,Philippines,PH,korean food,35,False
+2024-12-01,Philippines,PH,korean food,40,False
+2019-01-01,Philippines,PH,kimchi,21,False
+2019-02-01,Philippines,PH,kimchi,22,False
+2019-03-01,Philippines,PH,kimchi,19,False
+2019-04-01,Philippines,PH,kimchi,19,False
+2019-05-01,Philippines,PH,kimchi,18,False
+2019-06-01,Philippines,PH,kimchi,19,False
+2019-07-01,Philippines,PH,kimchi,22,False
+2019-08-01,Philippines,PH,kimchi,22,False
+2019-09-01,Philippines,PH,kimchi,22,False
+2019-10-01,Philippines,PH,kimchi,22,False
+2019-11-01,Philippines,PH,kimchi,23,False
+2019-12-01,Philippines,PH,kimchi,23,False
+2020-01-01,Philippines,PH,kimchi,25,False
+2020-02-01,Philippines,PH,kimchi,28,False
+2020-03-01,Philippines,PH,kimchi,34,False
+2020-04-01,Philippines,PH,kimchi,65,False
+2020-05-01,Philippines,PH,kimchi,96,False
+2020-06-01,Philippines,PH,kimchi,100,False
+2020-07-01,Philippines,PH,kimchi,85,False
+2020-08-01,Philippines,PH,kimchi,60,False
+2020-09-01,Philippines,PH,kimchi,40,False
+2020-10-01,Philippines,PH,kimchi,31,False
+2020-11-01,Philippines,PH,kimchi,32,False
+2020-12-01,Philippines,PH,kimchi,32,False
+2021-01-01,Philippines,PH,kimchi,36,False
+2021-02-01,Philippines,PH,kimchi,33,False
+2021-03-01,Philippines,PH,kimchi,32,False
+2021-04-01,Philippines,PH,kimchi,35,False
+2021-05-01,Philippines,PH,kimchi,27,False
+2021-06-01,Philippines,PH,kimchi,28,False
+2021-07-01,Philippines,PH,kimchi,29,False
+2021-08-01,Philippines,PH,kimchi,28,False
+2021-09-01,Philippines,PH,kimchi,22,False
+2021-10-01,Philippines,PH,kimchi,24,False
+2021-11-01,Philippines,PH,kimchi,23,False
+2021-12-01,Philippines,PH,kimchi,23,False
+2022-01-01,Philippines,PH,kimchi,32,False
+2022-02-01,Philippines,PH,kimchi,32,False
+2022-03-01,Philippines,PH,kimchi,22,False
+2022-04-01,Philippines,PH,kimchi,22,False
+2022-05-01,Philippines,PH,kimchi,20,False
+2022-06-01,Philippines,PH,kimchi,24,False
+2022-07-01,Philippines,PH,kimchi,25,False
+2022-08-01,Philippines,PH,kimchi,22,False
+2022-09-01,Philippines,PH,kimchi,21,False
+2022-10-01,Philippines,PH,kimchi,22,False
+2022-11-01,Philippines,PH,kimchi,22,False
+2022-12-01,Philippines,PH,kimchi,23,False
+2023-01-01,Philippines,PH,kimchi,25,False
+2023-02-01,Philippines,PH,kimchi,22,False
+2023-03-01,Philippines,PH,kimchi,21,False
+2023-04-01,Philippines,PH,kimchi,22,False
+2023-05-01,Philippines,PH,kimchi,20,False
+2023-06-01,Philippines,PH,kimchi,22,False
+2023-07-01,Philippines,PH,kimchi,25,False
+2023-08-01,Philippines,PH,kimchi,23,False
+2023-09-01,Philippines,PH,kimchi,22,False
+2023-10-01,Philippines,PH,kimchi,22,False
+2023-11-01,Philippines,PH,kimchi,25,False
+2023-12-01,Philippines,PH,kimchi,25,False
+2024-01-01,Philippines,PH,kimchi,30,False
+2024-02-01,Philippines,PH,kimchi,25,False
+2024-03-01,Philippines,PH,kimchi,22,False
+2024-04-01,Philippines,PH,kimchi,20,False
+2024-05-01,Philippines,PH,kimchi,22,False
+2024-06-01,Philippines,PH,kimchi,23,False
+2024-07-01,Philippines,PH,kimchi,27,False
+2024-08-01,Philippines,PH,kimchi,24,False
+2024-09-01,Philippines,PH,kimchi,26,False
+2024-10-01,Philippines,PH,kimchi,22,False
+2024-11-01,Philippines,PH,kimchi,22,False
+2024-12-01,Philippines,PH,kimchi,20,False
+2019-01-01,Philippines,PH,gochujang,13,False
+2019-02-01,Philippines,PH,gochujang,11,False
+2019-03-01,Philippines,PH,gochujang,14,False
+2019-04-01,Philippines,PH,gochujang,10,False
+2019-05-01,Philippines,PH,gochujang,10,False
+2019-06-01,Philippines,PH,gochujang,11,False
+2019-07-01,Philippines,PH,gochujang,14,False
+2019-08-01,Philippines,PH,gochujang,13,False
+2019-09-01,Philippines,PH,gochujang,13,False
+2019-10-01,Philippines,PH,gochujang,11,False
+2019-11-01,Philippines,PH,gochujang,14,False
+2019-12-01,Philippines,PH,gochujang,19,False
+2020-01-01,Philippines,PH,gochujang,18,False
+2020-02-01,Philippines,PH,gochujang,16,False
+2020-03-01,Philippines,PH,gochujang,25,False
+2020-04-01,Philippines,PH,gochujang,78,False
+2020-05-01,Philippines,PH,gochujang,100,False
+2020-06-01,Philippines,PH,gochujang,94,False
+2020-07-01,Philippines,PH,gochujang,75,False
+2020-08-01,Philippines,PH,gochujang,57,False
+2020-09-01,Philippines,PH,gochujang,41,False
+2020-10-01,Philippines,PH,gochujang,32,False
+2020-11-01,Philippines,PH,gochujang,33,False
+2020-12-01,Philippines,PH,gochujang,41,False
+2021-01-01,Philippines,PH,gochujang,37,False
+2021-02-01,Philippines,PH,gochujang,29,False
+2021-03-01,Philippines,PH,gochujang,26,False
+2021-04-01,Philippines,PH,gochujang,35,False
+2021-05-01,Philippines,PH,gochujang,27,False
+2021-06-01,Philippines,PH,gochujang,26,False
+2021-07-01,Philippines,PH,gochujang,30,False
+2021-08-01,Philippines,PH,gochujang,30,False
+2021-09-01,Philippines,PH,gochujang,21,False
+2021-10-01,Philippines,PH,gochujang,21,False
+2021-11-01,Philippines,PH,gochujang,18,False
+2021-12-01,Philippines,PH,gochujang,24,False
+2022-01-01,Philippines,PH,gochujang,29,False
+2022-02-01,Philippines,PH,gochujang,26,False
+2022-03-01,Philippines,PH,gochujang,19,False
+2022-04-01,Philippines,PH,gochujang,20,False
+2022-05-01,Philippines,PH,gochujang,20,False
+2022-06-01,Philippines,PH,gochujang,21,False
+2022-07-01,Philippines,PH,gochujang,25,False
+2022-08-01,Philippines,PH,gochujang,22,False
+2022-09-01,Philippines,PH,gochujang,19,False
+2022-10-01,Philippines,PH,gochujang,20,False
+2022-11-01,Philippines,PH,gochujang,22,False
+2022-12-01,Philippines,PH,gochujang,26,False
+2023-01-01,Philippines,PH,gochujang,24,False
+2023-02-01,Philippines,PH,gochujang,19,False
+2023-03-01,Philippines,PH,gochujang,20,False
+2023-04-01,Philippines,PH,gochujang,22,False
+2023-05-01,Philippines,PH,gochujang,22,False
+2023-06-01,Philippines,PH,gochujang,24,False
+2023-07-01,Philippines,PH,gochujang,27,False
+2023-08-01,Philippines,PH,gochujang,25,False
+2023-09-01,Philippines,PH,gochujang,24,False
+2023-10-01,Philippines,PH,gochujang,21,False
+2023-11-01,Philippines,PH,gochujang,21,False
+2023-12-01,Philippines,PH,gochujang,26,False
+2024-01-01,Philippines,PH,gochujang,27,False
+2024-02-01,Philippines,PH,gochujang,24,False
+2024-03-01,Philippines,PH,gochujang,23,False
+2024-04-01,Philippines,PH,gochujang,24,False
+2024-05-01,Philippines,PH,gochujang,21,False
+2024-06-01,Philippines,PH,gochujang,27,False
+2024-07-01,Philippines,PH,gochujang,26,False
+2024-08-01,Philippines,PH,gochujang,25,False
+2024-09-01,Philippines,PH,gochujang,29,False
+2024-10-01,Philippines,PH,gochujang,26,False
+2024-11-01,Philippines,PH,gochujang,25,False
+2024-12-01,Philippines,PH,gochujang,24,False
+2019-01-01,Philippines,PH,tteokbokki,14,False
+2019-02-01,Philippines,PH,tteokbokki,16,False
+2019-03-01,Philippines,PH,tteokbokki,15,False
+2019-04-01,Philippines,PH,tteokbokki,17,False
+2019-05-01,Philippines,PH,tteokbokki,16,False
+2019-06-01,Philippines,PH,tteokbokki,17,False
+2019-07-01,Philippines,PH,tteokbokki,19,False
+2019-08-01,Philippines,PH,tteokbokki,20,False
+2019-09-01,Philippines,PH,tteokbokki,17,False
+2019-10-01,Philippines,PH,tteokbokki,17,False
+2019-11-01,Philippines,PH,tteokbokki,21,False
+2019-12-01,Philippines,PH,tteokbokki,24,False
+2020-01-01,Philippines,PH,tteokbokki,23,False
+2020-02-01,Philippines,PH,tteokbokki,24,False
+2020-03-01,Philippines,PH,tteokbokki,28,False
+2020-04-01,Philippines,PH,tteokbokki,75,False
+2020-05-01,Philippines,PH,tteokbokki,100,False
+2020-06-01,Philippines,PH,tteokbokki,96,False
+2020-07-01,Philippines,PH,tteokbokki,76,False
+2020-08-01,Philippines,PH,tteokbokki,54,False
+2020-09-01,Philippines,PH,tteokbokki,33,False
+2020-10-01,Philippines,PH,tteokbokki,30,False
+2020-11-01,Philippines,PH,tteokbokki,35,False
+2020-12-01,Philippines,PH,tteokbokki,39,False
+2021-01-01,Philippines,PH,tteokbokki,43,False
+2021-02-01,Philippines,PH,tteokbokki,42,False
+2021-03-01,Philippines,PH,tteokbokki,41,False
+2021-04-01,Philippines,PH,tteokbokki,42,False
+2021-05-01,Philippines,PH,tteokbokki,41,False
+2021-06-01,Philippines,PH,tteokbokki,39,False
+2021-07-01,Philippines,PH,tteokbokki,44,False
+2021-08-01,Philippines,PH,tteokbokki,42,False
+2021-09-01,Philippines,PH,tteokbokki,33,False
+2021-10-01,Philippines,PH,tteokbokki,37,False
+2021-11-01,Philippines,PH,tteokbokki,26,False
+2021-12-01,Philippines,PH,tteokbokki,26,False
+2022-01-01,Philippines,PH,tteokbokki,30,False
+2022-02-01,Philippines,PH,tteokbokki,29,False
+2022-03-01,Philippines,PH,tteokbokki,27,False
+2022-04-01,Philippines,PH,tteokbokki,29,False
+2022-05-01,Philippines,PH,tteokbokki,30,False
+2022-06-01,Philippines,PH,tteokbokki,28,False
+2022-07-01,Philippines,PH,tteokbokki,35,False
+2022-08-01,Philippines,PH,tteokbokki,31,False
+2022-09-01,Philippines,PH,tteokbokki,23,False
+2022-10-01,Philippines,PH,tteokbokki,26,False
+2022-11-01,Philippines,PH,tteokbokki,27,False
+2022-12-01,Philippines,PH,tteokbokki,31,False
+2023-01-01,Philippines,PH,tteokbokki,28,False
+2023-02-01,Philippines,PH,tteokbokki,25,False
+2023-03-01,Philippines,PH,tteokbokki,22,False
+2023-04-01,Philippines,PH,tteokbokki,25,False
+2023-05-01,Philippines,PH,tteokbokki,24,False
+2023-06-01,Philippines,PH,tteokbokki,27,False
+2023-07-01,Philippines,PH,tteokbokki,30,False
+2023-08-01,Philippines,PH,tteokbokki,31,False
+2023-09-01,Philippines,PH,tteokbokki,25,False
+2023-10-01,Philippines,PH,tteokbokki,23,False
+2023-11-01,Philippines,PH,tteokbokki,24,False
+2023-12-01,Philippines,PH,tteokbokki,25,False
+2024-01-01,Philippines,PH,tteokbokki,25,False
+2024-02-01,Philippines,PH,tteokbokki,23,False
+2024-03-01,Philippines,PH,tteokbokki,23,False
+2024-04-01,Philippines,PH,tteokbokki,22,False
+2024-05-01,Philippines,PH,tteokbokki,22,False
+2024-06-01,Philippines,PH,tteokbokki,28,False
+2024-07-01,Philippines,PH,tteokbokki,24,False
+2024-08-01,Philippines,PH,tteokbokki,23,False
+2024-09-01,Philippines,PH,tteokbokki,23,False
+2024-10-01,Philippines,PH,tteokbokki,20,False
+2024-11-01,Philippines,PH,tteokbokki,19,False
+2024-12-01,Philippines,PH,tteokbokki,16,False
+2019-01-01,Philippines,PH,korean ramen,34,False
+2019-02-01,Philippines,PH,korean ramen,33,False
+2019-03-01,Philippines,PH,korean ramen,33,False
+2019-04-01,Philippines,PH,korean ramen,39,False
+2019-05-01,Philippines,PH,korean ramen,31,False
+2019-06-01,Philippines,PH,korean ramen,23,False
+2019-07-01,Philippines,PH,korean ramen,34,False
+2019-08-01,Philippines,PH,korean ramen,39,False
+2019-09-01,Philippines,PH,korean ramen,33,False
+2019-10-01,Philippines,PH,korean ramen,27,False
+2019-11-01,Philippines,PH,korean ramen,36,False
+2019-12-01,Philippines,PH,korean ramen,42,False
+2020-01-01,Philippines,PH,korean ramen,45,False
+2020-02-01,Philippines,PH,korean ramen,39,False
+2020-03-01,Philippines,PH,korean ramen,46,False
+2020-04-01,Philippines,PH,korean ramen,96,False
+2020-05-01,Philippines,PH,korean ramen,100,False
+2020-06-01,Philippines,PH,korean ramen,78,False
+2020-07-01,Philippines,PH,korean ramen,71,False
+2020-08-01,Philippines,PH,korean ramen,65,False
+2020-09-01,Philippines,PH,korean ramen,49,False
+2020-10-01,Philippines,PH,korean ramen,42,False
+2020-11-01,Philippines,PH,korean ramen,44,False
+2020-12-01,Philippines,PH,korean ramen,46,False
+2021-01-01,Philippines,PH,korean ramen,53,False
+2021-02-01,Philippines,PH,korean ramen,50,False
+2021-03-01,Philippines,PH,korean ramen,46,False
+2021-04-01,Philippines,PH,korean ramen,55,False
+2021-05-01,Philippines,PH,korean ramen,47,False
+2021-06-01,Philippines,PH,korean ramen,50,False
+2021-07-01,Philippines,PH,korean ramen,54,False
+2021-08-01,Philippines,PH,korean ramen,48,False
+2021-09-01,Philippines,PH,korean ramen,41,False
+2021-10-01,Philippines,PH,korean ramen,39,False
+2021-11-01,Philippines,PH,korean ramen,39,False
+2021-12-01,Philippines,PH,korean ramen,40,False
+2022-01-01,Philippines,PH,korean ramen,54,False
+2022-02-01,Philippines,PH,korean ramen,39,False
+2022-03-01,Philippines,PH,korean ramen,44,False
+2022-04-01,Philippines,PH,korean ramen,40,False
+2022-05-01,Philippines,PH,korean ramen,36,False
+2022-06-01,Philippines,PH,korean ramen,42,False
+2022-07-01,Philippines,PH,korean ramen,51,False
+2022-08-01,Philippines,PH,korean ramen,42,False
+2022-09-01,Philippines,PH,korean ramen,36,False
+2022-10-01,Philippines,PH,korean ramen,41,False
+2022-11-01,Philippines,PH,korean ramen,37,False
+2022-12-01,Philippines,PH,korean ramen,41,False
+2023-01-01,Philippines,PH,korean ramen,43,False
+2023-02-01,Philippines,PH,korean ramen,38,False
+2023-03-01,Philippines,PH,korean ramen,37,False
+2023-04-01,Philippines,PH,korean ramen,44,False
+2023-05-01,Philippines,PH,korean ramen,40,False
+2023-06-01,Philippines,PH,korean ramen,44,False
+2023-07-01,Philippines,PH,korean ramen,55,False
+2023-08-01,Philippines,PH,korean ramen,45,False
+2023-09-01,Philippines,PH,korean ramen,39,False
+2023-10-01,Philippines,PH,korean ramen,40,False
+2023-11-01,Philippines,PH,korean ramen,32,False
+2023-12-01,Philippines,PH,korean ramen,35,False
+2024-01-01,Philippines,PH,korean ramen,50,False
+2024-02-01,Philippines,PH,korean ramen,35,False
+2024-03-01,Philippines,PH,korean ramen,34,False
+2024-04-01,Philippines,PH,korean ramen,31,False
+2024-05-01,Philippines,PH,korean ramen,41,False
+2024-06-01,Philippines,PH,korean ramen,47,False
+2024-07-01,Philippines,PH,korean ramen,47,False
+2024-08-01,Philippines,PH,korean ramen,41,False
+2024-09-01,Philippines,PH,korean ramen,35,False
+2024-10-01,Philippines,PH,korean ramen,35,False
+2024-11-01,Philippines,PH,korean ramen,26,False
+2024-12-01,Philippines,PH,korean ramen,36,False
+2019-01-01,Philippines,PH,bibigo,0,False
+2019-02-01,Philippines,PH,bibigo,0,False
+2019-03-01,Philippines,PH,bibigo,0,False
+2019-04-01,Philippines,PH,bibigo,0,False
+2019-05-01,Philippines,PH,bibigo,0,False
+2019-06-01,Philippines,PH,bibigo,0,False
+2019-07-01,Philippines,PH,bibigo,0,False
+2019-08-01,Philippines,PH,bibigo,0,False
+2019-09-01,Philippines,PH,bibigo,0,False
+2019-10-01,Philippines,PH,bibigo,0,False
+2019-11-01,Philippines,PH,bibigo,0,False
+2019-12-01,Philippines,PH,bibigo,0,False
+2020-01-01,Philippines,PH,bibigo,0,False
+2020-02-01,Philippines,PH,bibigo,0,False
+2020-03-01,Philippines,PH,bibigo,0,False
+2020-04-01,Philippines,PH,bibigo,38,False
+2020-05-01,Philippines,PH,bibigo,76,False
+2020-06-01,Philippines,PH,bibigo,96,False
+2020-07-01,Philippines,PH,bibigo,78,False
+2020-08-01,Philippines,PH,bibigo,65,False
+2020-09-01,Philippines,PH,bibigo,46,False
+2020-10-01,Philippines,PH,bibigo,29,False
+2020-11-01,Philippines,PH,bibigo,40,False
+2020-12-01,Philippines,PH,bibigo,46,False
+2021-01-01,Philippines,PH,bibigo,59,False
+2021-02-01,Philippines,PH,bibigo,60,False
+2021-03-01,Philippines,PH,bibigo,55,False
+2021-04-01,Philippines,PH,bibigo,68,False
+2021-05-01,Philippines,PH,bibigo,57,False
+2021-06-01,Philippines,PH,bibigo,42,False
+2021-07-01,Philippines,PH,bibigo,50,False
+2021-08-01,Philippines,PH,bibigo,57,False
+2021-09-01,Philippines,PH,bibigo,100,False
+2021-10-01,Philippines,PH,bibigo,55,False
+2021-11-01,Philippines,PH,bibigo,62,False
+2021-12-01,Philippines,PH,bibigo,46,False
+2022-01-01,Philippines,PH,bibigo,65,False
+2022-02-01,Philippines,PH,bibigo,41,False
+2022-03-01,Philippines,PH,bibigo,63,False
+2022-04-01,Philippines,PH,bibigo,94,False
+2022-05-01,Philippines,PH,bibigo,44,False
+2022-06-01,Philippines,PH,bibigo,49,False
+2022-07-01,Philippines,PH,bibigo,41,False
+2022-08-01,Philippines,PH,bibigo,42,False
+2022-09-01,Philippines,PH,bibigo,40,False
+2022-10-01,Philippines,PH,bibigo,34,False
+2022-11-01,Philippines,PH,bibigo,49,False
+2022-12-01,Philippines,PH,bibigo,39,False
+2023-01-01,Philippines,PH,bibigo,44,False
+2023-02-01,Philippines,PH,bibigo,42,False
+2023-03-01,Philippines,PH,bibigo,38,False
+2023-04-01,Philippines,PH,bibigo,52,False
+2023-05-01,Philippines,PH,bibigo,63,False
+2023-06-01,Philippines,PH,bibigo,36,False
+2023-07-01,Philippines,PH,bibigo,40,False
+2023-08-01,Philippines,PH,bibigo,36,False
+2023-09-01,Philippines,PH,bibigo,23,False
+2023-10-01,Philippines,PH,bibigo,33,False
+2023-11-01,Philippines,PH,bibigo,34,False
+2023-12-01,Philippines,PH,bibigo,22,False
+2024-01-01,Philippines,PH,bibigo,28,False
+2024-02-01,Philippines,PH,bibigo,31,False
+2024-03-01,Philippines,PH,bibigo,19,False
+2024-04-01,Philippines,PH,bibigo,35,False
+2024-05-01,Philippines,PH,bibigo,38,False
+2024-06-01,Philippines,PH,bibigo,25,False
+2024-07-01,Philippines,PH,bibigo,29,False
+2024-08-01,Philippines,PH,bibigo,27,False
+2024-09-01,Philippines,PH,bibigo,32,False
+2024-10-01,Philippines,PH,bibigo,36,False
+2024-11-01,Philippines,PH,bibigo,30,False
+2024-12-01,Philippines,PH,bibigo,38,False
+2019-01-01,Singapore,SG,korean food,46,False
+2019-02-01,Singapore,SG,korean food,43,False
+2019-03-01,Singapore,SG,korean food,53,False
+2019-04-01,Singapore,SG,korean food,53,False
+2019-05-01,Singapore,SG,korean food,47,False
+2019-06-01,Singapore,SG,korean food,55,False
+2019-07-01,Singapore,SG,korean food,52,False
+2019-08-01,Singapore,SG,korean food,56,False
+2019-09-01,Singapore,SG,korean food,54,False
+2019-10-01,Singapore,SG,korean food,52,False
+2019-11-01,Singapore,SG,korean food,56,False
+2019-12-01,Singapore,SG,korean food,60,False
+2020-01-01,Singapore,SG,korean food,47,False
+2020-02-01,Singapore,SG,korean food,52,False
+2020-03-01,Singapore,SG,korean food,57,False
+2020-04-01,Singapore,SG,korean food,41,False
+2020-05-01,Singapore,SG,korean food,44,False
+2020-06-01,Singapore,SG,korean food,54,False
+2020-07-01,Singapore,SG,korean food,80,False
+2020-08-01,Singapore,SG,korean food,77,False
+2020-09-01,Singapore,SG,korean food,78,False
+2020-10-01,Singapore,SG,korean food,81,False
+2020-11-01,Singapore,SG,korean food,74,False
+2020-12-01,Singapore,SG,korean food,93,False
+2021-01-01,Singapore,SG,korean food,80,False
+2021-02-01,Singapore,SG,korean food,66,False
+2021-03-01,Singapore,SG,korean food,79,False
+2021-04-01,Singapore,SG,korean food,83,False
+2021-05-01,Singapore,SG,korean food,60,False
+2021-06-01,Singapore,SG,korean food,50,False
+2021-07-01,Singapore,SG,korean food,59,False
+2021-08-01,Singapore,SG,korean food,64,False
+2021-09-01,Singapore,SG,korean food,68,False
+2021-10-01,Singapore,SG,korean food,67,False
+2021-11-01,Singapore,SG,korean food,70,False
+2021-12-01,Singapore,SG,korean food,91,False
+2022-01-01,Singapore,SG,korean food,82,False
+2022-02-01,Singapore,SG,korean food,77,False
+2022-03-01,Singapore,SG,korean food,93,False
+2022-04-01,Singapore,SG,korean food,95,False
+2022-05-01,Singapore,SG,korean food,91,False
+2022-06-01,Singapore,SG,korean food,100,False
+2022-07-01,Singapore,SG,korean food,93,False
+2022-08-01,Singapore,SG,korean food,87,False
+2022-09-01,Singapore,SG,korean food,86,False
+2022-10-01,Singapore,SG,korean food,83,False
+2022-11-01,Singapore,SG,korean food,79,False
+2022-12-01,Singapore,SG,korean food,90,False
+2023-01-01,Singapore,SG,korean food,71,False
+2023-02-01,Singapore,SG,korean food,80,False
+2023-03-01,Singapore,SG,korean food,82,False
+2023-04-01,Singapore,SG,korean food,86,False
+2023-05-01,Singapore,SG,korean food,81,False
+2023-06-01,Singapore,SG,korean food,85,False
+2023-07-01,Singapore,SG,korean food,82,False
+2023-08-01,Singapore,SG,korean food,77,False
+2023-09-01,Singapore,SG,korean food,80,False
+2023-10-01,Singapore,SG,korean food,75,False
+2023-11-01,Singapore,SG,korean food,72,False
+2023-12-01,Singapore,SG,korean food,79,False
+2024-01-01,Singapore,SG,korean food,70,False
+2024-02-01,Singapore,SG,korean food,65,False
+2024-03-01,Singapore,SG,korean food,79,False
+2024-04-01,Singapore,SG,korean food,79,False
+2024-05-01,Singapore,SG,korean food,82,False
+2024-06-01,Singapore,SG,korean food,80,False
+2024-07-01,Singapore,SG,korean food,72,False
+2024-08-01,Singapore,SG,korean food,71,False
+2024-09-01,Singapore,SG,korean food,69,False
+2024-10-01,Singapore,SG,korean food,69,False
+2024-11-01,Singapore,SG,korean food,66,False
+2024-12-01,Singapore,SG,korean food,77,False
+2019-01-01,Singapore,SG,kimchi,21,False
+2019-02-01,Singapore,SG,kimchi,22,False
+2019-03-01,Singapore,SG,kimchi,24,False
+2019-04-01,Singapore,SG,kimchi,23,False
+2019-05-01,Singapore,SG,kimchi,23,False
+2019-06-01,Singapore,SG,kimchi,26,False
+2019-07-01,Singapore,SG,kimchi,23,False
+2019-08-01,Singapore,SG,kimchi,24,False
+2019-09-01,Singapore,SG,kimchi,24,False
+2019-10-01,Singapore,SG,kimchi,28,False
+2019-11-01,Singapore,SG,kimchi,24,False
+2019-12-01,Singapore,SG,kimchi,25,False
+2020-01-01,Singapore,SG,kimchi,26,False
+2020-02-01,Singapore,SG,kimchi,30,False
+2020-03-01,Singapore,SG,kimchi,40,False
+2020-04-01,Singapore,SG,kimchi,79,False
+2020-05-01,Singapore,SG,kimchi,100,False
+2020-06-01,Singapore,SG,kimchi,83,False
+2020-07-01,Singapore,SG,kimchi,60,False
+2020-08-01,Singapore,SG,kimchi,53,False
+2020-09-01,Singapore,SG,kimchi,48,False
+2020-10-01,Singapore,SG,kimchi,47,False
+2020-11-01,Singapore,SG,kimchi,42,False
+2020-12-01,Singapore,SG,kimchi,40,False
+2021-01-01,Singapore,SG,kimchi,49,False
+2021-02-01,Singapore,SG,kimchi,37,False
+2021-03-01,Singapore,SG,kimchi,40,False
+2021-04-01,Singapore,SG,kimchi,40,False
+2021-05-01,Singapore,SG,kimchi,48,False
+2021-06-01,Singapore,SG,kimchi,51,False
+2021-07-01,Singapore,SG,kimchi,45,False
+2021-08-01,Singapore,SG,kimchi,43,False
+2021-09-01,Singapore,SG,kimchi,34,False
+2021-10-01,Singapore,SG,kimchi,41,False
+2021-11-01,Singapore,SG,kimchi,37,False
+2021-12-01,Singapore,SG,kimchi,30,False
+2022-01-01,Singapore,SG,kimchi,38,False
+2022-02-01,Singapore,SG,kimchi,34,False
+2022-03-01,Singapore,SG,kimchi,37,False
+2022-04-01,Singapore,SG,kimchi,34,False
+2022-05-01,Singapore,SG,kimchi,29,False
+2022-06-01,Singapore,SG,kimchi,32,False
+2022-07-01,Singapore,SG,kimchi,31,False
+2022-08-01,Singapore,SG,kimchi,34,False
+2022-09-01,Singapore,SG,kimchi,32,False
+2022-10-01,Singapore,SG,kimchi,31,False
+2022-11-01,Singapore,SG,kimchi,30,False
+2022-12-01,Singapore,SG,kimchi,30,False
+2023-01-01,Singapore,SG,kimchi,32,False
+2023-02-01,Singapore,SG,kimchi,33,False
+2023-03-01,Singapore,SG,kimchi,33,False
+2023-04-01,Singapore,SG,kimchi,36,False
+2023-05-01,Singapore,SG,kimchi,37,False
+2023-06-01,Singapore,SG,kimchi,37,False
+2023-07-01,Singapore,SG,kimchi,37,False
+2023-08-01,Singapore,SG,kimchi,38,False
+2023-09-01,Singapore,SG,kimchi,42,False
+2023-10-01,Singapore,SG,kimchi,36,False
+2023-11-01,Singapore,SG,kimchi,36,False
+2023-12-01,Singapore,SG,kimchi,38,False
+2024-01-01,Singapore,SG,kimchi,41,False
+2024-02-01,Singapore,SG,kimchi,35,False
+2024-03-01,Singapore,SG,kimchi,40,False
+2024-04-01,Singapore,SG,kimchi,41,False
+2024-05-01,Singapore,SG,kimchi,41,False
+2024-06-01,Singapore,SG,kimchi,37,False
+2024-07-01,Singapore,SG,kimchi,39,False
+2024-08-01,Singapore,SG,kimchi,36,False
+2024-09-01,Singapore,SG,kimchi,38,False
+2024-10-01,Singapore,SG,kimchi,34,False
+2024-11-01,Singapore,SG,kimchi,32,False
+2024-12-01,Singapore,SG,kimchi,35,False
+2019-01-01,Singapore,SG,gochujang,12,False
+2019-02-01,Singapore,SG,gochujang,17,False
+2019-03-01,Singapore,SG,gochujang,14,False
+2019-04-01,Singapore,SG,gochujang,15,False
+2019-05-01,Singapore,SG,gochujang,17,False
+2019-06-01,Singapore,SG,gochujang,14,False
+2019-07-01,Singapore,SG,gochujang,16,False
+2019-08-01,Singapore,SG,gochujang,16,False
+2019-09-01,Singapore,SG,gochujang,20,False
+2019-10-01,Singapore,SG,gochujang,16,False
+2019-11-01,Singapore,SG,gochujang,20,False
+2019-12-01,Singapore,SG,gochujang,19,False
+2020-01-01,Singapore,SG,gochujang,21,False
+2020-02-01,Singapore,SG,gochujang,24,False
+2020-03-01,Singapore,SG,gochujang,32,False
+2020-04-01,Singapore,SG,gochujang,75,False
+2020-05-01,Singapore,SG,gochujang,100,False
+2020-06-01,Singapore,SG,gochujang,71,False
+2020-07-01,Singapore,SG,gochujang,55,False
+2020-08-01,Singapore,SG,gochujang,45,False
+2020-09-01,Singapore,SG,gochujang,40,False
+2020-10-01,Singapore,SG,gochujang,33,False
+2020-11-01,Singapore,SG,gochujang,38,False
+2020-12-01,Singapore,SG,gochujang,30,False
+2021-01-01,Singapore,SG,gochujang,34,False
+2021-02-01,Singapore,SG,gochujang,28,False
+2021-03-01,Singapore,SG,gochujang,29,False
+2021-04-01,Singapore,SG,gochujang,35,False
+2021-05-01,Singapore,SG,gochujang,44,False
+2021-06-01,Singapore,SG,gochujang,48,False
+2021-07-01,Singapore,SG,gochujang,41,False
+2021-08-01,Singapore,SG,gochujang,32,False
+2021-09-01,Singapore,SG,gochujang,35,False
+2021-10-01,Singapore,SG,gochujang,34,False
+2021-11-01,Singapore,SG,gochujang,30,False
+2021-12-01,Singapore,SG,gochujang,24,False
+2022-01-01,Singapore,SG,gochujang,35,False
+2022-02-01,Singapore,SG,gochujang,34,False
+2022-03-01,Singapore,SG,gochujang,35,False
+2022-04-01,Singapore,SG,gochujang,30,False
+2022-05-01,Singapore,SG,gochujang,31,False
+2022-06-01,Singapore,SG,gochujang,27,False
+2022-07-01,Singapore,SG,gochujang,33,False
+2022-08-01,Singapore,SG,gochujang,22,False
+2022-09-01,Singapore,SG,gochujang,32,False
+2022-10-01,Singapore,SG,gochujang,33,False
+2022-11-01,Singapore,SG,gochujang,28,False
+2022-12-01,Singapore,SG,gochujang,36,False
+2023-01-01,Singapore,SG,gochujang,39,False
+2023-02-01,Singapore,SG,gochujang,33,False
+2023-03-01,Singapore,SG,gochujang,34,False
+2023-04-01,Singapore,SG,gochujang,34,False
+2023-05-01,Singapore,SG,gochujang,30,False
+2023-06-01,Singapore,SG,gochujang,31,False
+2023-07-01,Singapore,SG,gochujang,36,False
+2023-08-01,Singapore,SG,gochujang,31,False
+2023-09-01,Singapore,SG,gochujang,35,False
+2023-10-01,Singapore,SG,gochujang,34,False
+2023-11-01,Singapore,SG,gochujang,32,False
+2023-12-01,Singapore,SG,gochujang,34,False
+2024-01-01,Singapore,SG,gochujang,33,False
+2024-02-01,Singapore,SG,gochujang,32,False
+2024-03-01,Singapore,SG,gochujang,26,False
+2024-04-01,Singapore,SG,gochujang,36,False
+2024-05-01,Singapore,SG,gochujang,32,False
+2024-06-01,Singapore,SG,gochujang,32,False
+2024-07-01,Singapore,SG,gochujang,37,False
+2024-08-01,Singapore,SG,gochujang,39,False
+2024-09-01,Singapore,SG,gochujang,47,False
+2024-10-01,Singapore,SG,gochujang,48,False
+2024-11-01,Singapore,SG,gochujang,35,False
+2024-12-01,Singapore,SG,gochujang,37,False
+2019-01-01,Singapore,SG,tteokbokki,29,False
+2019-02-01,Singapore,SG,tteokbokki,30,False
+2019-03-01,Singapore,SG,tteokbokki,41,False
+2019-04-01,Singapore,SG,tteokbokki,31,False
+2019-05-01,Singapore,SG,tteokbokki,33,False
+2019-06-01,Singapore,SG,tteokbokki,33,False
+2019-07-01,Singapore,SG,tteokbokki,32,False
+2019-08-01,Singapore,SG,tteokbokki,32,False
+2019-09-01,Singapore,SG,tteokbokki,31,False
+2019-10-01,Singapore,SG,tteokbokki,31,False
+2019-11-01,Singapore,SG,tteokbokki,41,False
+2019-12-01,Singapore,SG,tteokbokki,37,False
+2020-01-01,Singapore,SG,tteokbokki,40,False
+2020-02-01,Singapore,SG,tteokbokki,39,False
+2020-03-01,Singapore,SG,tteokbokki,49,False
+2020-04-01,Singapore,SG,tteokbokki,69,False
+2020-05-01,Singapore,SG,tteokbokki,100,False
+2020-06-01,Singapore,SG,tteokbokki,78,False
+2020-07-01,Singapore,SG,tteokbokki,68,False
+2020-08-01,Singapore,SG,tteokbokki,59,False
+2020-09-01,Singapore,SG,tteokbokki,58,False
+2020-10-01,Singapore,SG,tteokbokki,49,False
+2020-11-01,Singapore,SG,tteokbokki,54,False
+2020-12-01,Singapore,SG,tteokbokki,59,False
+2021-01-01,Singapore,SG,tteokbokki,63,False
+2021-02-01,Singapore,SG,tteokbokki,55,False
+2021-03-01,Singapore,SG,tteokbokki,65,False
+2021-04-01,Singapore,SG,tteokbokki,67,False
+2021-05-01,Singapore,SG,tteokbokki,72,False
+2021-06-01,Singapore,SG,tteokbokki,87,False
+2021-07-01,Singapore,SG,tteokbokki,74,False
+2021-08-01,Singapore,SG,tteokbokki,74,False
+2021-09-01,Singapore,SG,tteokbokki,66,False
+2021-10-01,Singapore,SG,tteokbokki,90,False
+2021-11-01,Singapore,SG,tteokbokki,77,False
+2021-12-01,Singapore,SG,tteokbokki,61,False
+2022-01-01,Singapore,SG,tteokbokki,59,False
+2022-02-01,Singapore,SG,tteokbokki,67,False
+2022-03-01,Singapore,SG,tteokbokki,68,False
+2022-04-01,Singapore,SG,tteokbokki,68,False
+2022-05-01,Singapore,SG,tteokbokki,78,False
+2022-06-01,Singapore,SG,tteokbokki,68,False
+2022-07-01,Singapore,SG,tteokbokki,68,False
+2022-08-01,Singapore,SG,tteokbokki,75,False
+2022-09-01,Singapore,SG,tteokbokki,68,False
+2022-10-01,Singapore,SG,tteokbokki,69,False
+2022-11-01,Singapore,SG,tteokbokki,61,False
+2022-12-01,Singapore,SG,tteokbokki,65,False
+2023-01-01,Singapore,SG,tteokbokki,64,False
+2023-02-01,Singapore,SG,tteokbokki,64,False
+2023-03-01,Singapore,SG,tteokbokki,66,False
+2023-04-01,Singapore,SG,tteokbokki,68,False
+2023-05-01,Singapore,SG,tteokbokki,57,False
+2023-06-01,Singapore,SG,tteokbokki,63,False
+2023-07-01,Singapore,SG,tteokbokki,60,False
+2023-08-01,Singapore,SG,tteokbokki,59,False
+2023-09-01,Singapore,SG,tteokbokki,61,False
+2023-10-01,Singapore,SG,tteokbokki,65,False
+2023-11-01,Singapore,SG,tteokbokki,59,False
+2023-12-01,Singapore,SG,tteokbokki,65,False
+2024-01-01,Singapore,SG,tteokbokki,61,False
+2024-02-01,Singapore,SG,tteokbokki,55,False
+2024-03-01,Singapore,SG,tteokbokki,59,False
+2024-04-01,Singapore,SG,tteokbokki,57,False
+2024-05-01,Singapore,SG,tteokbokki,60,False
+2024-06-01,Singapore,SG,tteokbokki,61,False
+2024-07-01,Singapore,SG,tteokbokki,57,False
+2024-08-01,Singapore,SG,tteokbokki,63,False
+2024-09-01,Singapore,SG,tteokbokki,62,False
+2024-10-01,Singapore,SG,tteokbokki,58,False
+2024-11-01,Singapore,SG,tteokbokki,50,False
+2024-12-01,Singapore,SG,tteokbokki,55,False
+2019-01-01,Singapore,SG,korean ramen,53,False
+2019-02-01,Singapore,SG,korean ramen,57,False
+2019-03-01,Singapore,SG,korean ramen,53,False
+2019-04-01,Singapore,SG,korean ramen,44,False
+2019-05-01,Singapore,SG,korean ramen,46,False
+2019-06-01,Singapore,SG,korean ramen,62,False
+2019-07-01,Singapore,SG,korean ramen,63,False
+2019-08-01,Singapore,SG,korean ramen,52,False
+2019-09-01,Singapore,SG,korean ramen,59,False
+2019-10-01,Singapore,SG,korean ramen,47,False
+2019-11-01,Singapore,SG,korean ramen,56,False
+2019-12-01,Singapore,SG,korean ramen,58,False
+2020-01-01,Singapore,SG,korean ramen,39,False
+2020-02-01,Singapore,SG,korean ramen,62,False
+2020-03-01,Singapore,SG,korean ramen,79,False
+2020-04-01,Singapore,SG,korean ramen,83,False
+2020-05-01,Singapore,SG,korean ramen,84,False
+2020-06-01,Singapore,SG,korean ramen,73,False
+2020-07-01,Singapore,SG,korean ramen,64,False
+2020-08-01,Singapore,SG,korean ramen,74,False
+2020-09-01,Singapore,SG,korean ramen,72,False
+2020-10-01,Singapore,SG,korean ramen,76,False
+2020-11-01,Singapore,SG,korean ramen,76,False
+2020-12-01,Singapore,SG,korean ramen,86,False
+2021-01-01,Singapore,SG,korean ramen,71,False
+2021-02-01,Singapore,SG,korean ramen,56,False
+2021-03-01,Singapore,SG,korean ramen,77,False
+2021-04-01,Singapore,SG,korean ramen,64,False
+2021-05-01,Singapore,SG,korean ramen,79,False
+2021-06-01,Singapore,SG,korean ramen,80,False
+2021-07-01,Singapore,SG,korean ramen,69,False
+2021-08-01,Singapore,SG,korean ramen,72,False
+2021-09-01,Singapore,SG,korean ramen,85,False
+2021-10-01,Singapore,SG,korean ramen,64,False
+2021-11-01,Singapore,SG,korean ramen,57,False
+2021-12-01,Singapore,SG,korean ramen,94,False
+2022-01-01,Singapore,SG,korean ramen,83,False
+2022-02-01,Singapore,SG,korean ramen,67,False
+2022-03-01,Singapore,SG,korean ramen,79,False
+2022-04-01,Singapore,SG,korean ramen,66,False
+2022-05-01,Singapore,SG,korean ramen,81,False
+2022-06-01,Singapore,SG,korean ramen,84,False
+2022-07-01,Singapore,SG,korean ramen,80,False
+2022-08-01,Singapore,SG,korean ramen,67,False
+2022-09-01,Singapore,SG,korean ramen,64,False
+2022-10-01,Singapore,SG,korean ramen,61,False
+2022-11-01,Singapore,SG,korean ramen,64,False
+2022-12-01,Singapore,SG,korean ramen,100,False
+2023-01-01,Singapore,SG,korean ramen,74,False
+2023-02-01,Singapore,SG,korean ramen,62,False
+2023-03-01,Singapore,SG,korean ramen,71,False
+2023-04-01,Singapore,SG,korean ramen,82,False
+2023-05-01,Singapore,SG,korean ramen,65,False
+2023-06-01,Singapore,SG,korean ramen,74,False
+2023-07-01,Singapore,SG,korean ramen,60,False
+2023-08-01,Singapore,SG,korean ramen,76,False
+2023-09-01,Singapore,SG,korean ramen,57,False
+2023-10-01,Singapore,SG,korean ramen,69,False
+2023-11-01,Singapore,SG,korean ramen,64,False
+2023-12-01,Singapore,SG,korean ramen,75,False
+2024-01-01,Singapore,SG,korean ramen,44,False
+2024-02-01,Singapore,SG,korean ramen,57,False
+2024-03-01,Singapore,SG,korean ramen,65,False
+2024-04-01,Singapore,SG,korean ramen,62,False
+2024-05-01,Singapore,SG,korean ramen,47,False
+2024-06-01,Singapore,SG,korean ramen,65,False
+2024-07-01,Singapore,SG,korean ramen,61,False
+2024-08-01,Singapore,SG,korean ramen,51,False
+2024-09-01,Singapore,SG,korean ramen,68,False
+2024-10-01,Singapore,SG,korean ramen,68,False
+2024-11-01,Singapore,SG,korean ramen,53,False
+2024-12-01,Singapore,SG,korean ramen,68,False
+2019-01-01,Singapore,SG,bibigo,14,False
+2019-02-01,Singapore,SG,bibigo,15,False
+2019-03-01,Singapore,SG,bibigo,0,False
+2019-04-01,Singapore,SG,bibigo,17,False
+2019-05-01,Singapore,SG,bibigo,23,False
+2019-06-01,Singapore,SG,bibigo,18,False
+2019-07-01,Singapore,SG,bibigo,20,False
+2019-08-01,Singapore,SG,bibigo,17,False
+2019-09-01,Singapore,SG,bibigo,20,False
+2019-10-01,Singapore,SG,bibigo,16,False
+2019-11-01,Singapore,SG,bibigo,19,False
+2019-12-01,Singapore,SG,bibigo,20,False
+2020-01-01,Singapore,SG,bibigo,18,False
+2020-02-01,Singapore,SG,bibigo,23,False
+2020-03-01,Singapore,SG,bibigo,34,False
+2020-04-01,Singapore,SG,bibigo,100,False
+2020-05-01,Singapore,SG,bibigo,94,False
+2020-06-01,Singapore,SG,bibigo,68,False
+2020-07-01,Singapore,SG,bibigo,54,False
+2020-08-01,Singapore,SG,bibigo,46,False
+2020-09-01,Singapore,SG,bibigo,46,False
+2020-10-01,Singapore,SG,bibigo,43,False
+2020-11-01,Singapore,SG,bibigo,36,False
+2020-12-01,Singapore,SG,bibigo,37,False
+2021-01-01,Singapore,SG,bibigo,44,False
+2021-02-01,Singapore,SG,bibigo,49,False
+2021-03-01,Singapore,SG,bibigo,51,False
+2021-04-01,Singapore,SG,bibigo,47,False
+2021-05-01,Singapore,SG,bibigo,69,False
+2021-06-01,Singapore,SG,bibigo,77,False
+2021-07-01,Singapore,SG,bibigo,53,False
+2021-08-01,Singapore,SG,bibigo,63,False
+2021-09-01,Singapore,SG,bibigo,52,False
+2021-10-01,Singapore,SG,bibigo,53,False
+2021-11-01,Singapore,SG,bibigo,40,False
+2021-12-01,Singapore,SG,bibigo,35,False
+2022-01-01,Singapore,SG,bibigo,54,False
+2022-02-01,Singapore,SG,bibigo,51,False
+2022-03-01,Singapore,SG,bibigo,52,False
+2022-04-01,Singapore,SG,bibigo,72,False
+2022-05-01,Singapore,SG,bibigo,45,False
+2022-06-01,Singapore,SG,bibigo,46,False
+2022-07-01,Singapore,SG,bibigo,53,False
+2022-08-01,Singapore,SG,bibigo,45,False
+2022-09-01,Singapore,SG,bibigo,34,False
+2022-10-01,Singapore,SG,bibigo,46,False
+2022-11-01,Singapore,SG,bibigo,43,False
+2022-12-01,Singapore,SG,bibigo,44,False
+2023-01-01,Singapore,SG,bibigo,46,False
+2023-02-01,Singapore,SG,bibigo,53,False
+2023-03-01,Singapore,SG,bibigo,46,False
+2023-04-01,Singapore,SG,bibigo,41,False
+2023-05-01,Singapore,SG,bibigo,37,False
+2023-06-01,Singapore,SG,bibigo,44,False
+2023-07-01,Singapore,SG,bibigo,47,False
+2023-08-01,Singapore,SG,bibigo,43,False
+2023-09-01,Singapore,SG,bibigo,44,False
+2023-10-01,Singapore,SG,bibigo,27,False
+2023-11-01,Singapore,SG,bibigo,44,False
+2023-12-01,Singapore,SG,bibigo,38,False
+2024-01-01,Singapore,SG,bibigo,57,False
+2024-02-01,Singapore,SG,bibigo,50,False
+2024-03-01,Singapore,SG,bibigo,43,False
+2024-04-01,Singapore,SG,bibigo,37,False
+2024-05-01,Singapore,SG,bibigo,54,False
+2024-06-01,Singapore,SG,bibigo,43,False
+2024-07-01,Singapore,SG,bibigo,46,False
+2024-08-01,Singapore,SG,bibigo,48,False
+2024-09-01,Singapore,SG,bibigo,50,False
+2024-10-01,Singapore,SG,bibigo,48,False
+2024-11-01,Singapore,SG,bibigo,49,False
+2024-12-01,Singapore,SG,bibigo,35,False
+2019-01-01,Thailand,TH,korean food,66,False
+2019-02-01,Thailand,TH,korean food,55,False
+2019-03-01,Thailand,TH,korean food,66,False
+2019-04-01,Thailand,TH,korean food,60,False
+2019-05-01,Thailand,TH,korean food,72,False
+2019-06-01,Thailand,TH,korean food,72,False
+2019-07-01,Thailand,TH,korean food,74,False
+2019-08-01,Thailand,TH,korean food,78,False
+2019-09-01,Thailand,TH,korean food,74,False
+2019-10-01,Thailand,TH,korean food,70,False
+2019-11-01,Thailand,TH,korean food,89,False
+2019-12-01,Thailand,TH,korean food,60,False
+2020-01-01,Thailand,TH,korean food,67,False
+2020-02-01,Thailand,TH,korean food,76,False
+2020-03-01,Thailand,TH,korean food,71,False
+2020-04-01,Thailand,TH,korean food,89,False
+2020-05-01,Thailand,TH,korean food,63,False
+2020-06-01,Thailand,TH,korean food,51,False
+2020-07-01,Thailand,TH,korean food,77,False
+2020-08-01,Thailand,TH,korean food,80,False
+2020-09-01,Thailand,TH,korean food,83,False
+2020-10-01,Thailand,TH,korean food,70,False
+2020-11-01,Thailand,TH,korean food,61,False
+2020-12-01,Thailand,TH,korean food,64,False
+2021-01-01,Thailand,TH,korean food,69,False
+2021-02-01,Thailand,TH,korean food,71,False
+2021-03-01,Thailand,TH,korean food,61,False
+2021-04-01,Thailand,TH,korean food,66,False
+2021-05-01,Thailand,TH,korean food,51,False
+2021-06-01,Thailand,TH,korean food,69,False
+2021-07-01,Thailand,TH,korean food,59,False
+2021-08-01,Thailand,TH,korean food,48,False
+2021-09-01,Thailand,TH,korean food,49,False
+2021-10-01,Thailand,TH,korean food,68,False
+2021-11-01,Thailand,TH,korean food,78,False
+2021-12-01,Thailand,TH,korean food,49,False
+2022-01-01,Thailand,TH,korean food,87,False
+2022-02-01,Thailand,TH,korean food,70,False
+2022-03-01,Thailand,TH,korean food,82,False
+2022-04-01,Thailand,TH,korean food,89,False
+2022-05-01,Thailand,TH,korean food,79,False
+2022-06-01,Thailand,TH,korean food,85,False
+2022-07-01,Thailand,TH,korean food,85,False
+2022-08-01,Thailand,TH,korean food,94,False
+2022-09-01,Thailand,TH,korean food,98,False
+2022-10-01,Thailand,TH,korean food,76,False
+2022-11-01,Thailand,TH,korean food,82,False
+2022-12-01,Thailand,TH,korean food,84,False
+2023-01-01,Thailand,TH,korean food,99,False
+2023-02-01,Thailand,TH,korean food,100,False
+2023-03-01,Thailand,TH,korean food,89,False
+2023-04-01,Thailand,TH,korean food,81,False
+2023-05-01,Thailand,TH,korean food,68,False
+2023-06-01,Thailand,TH,korean food,67,False
+2023-07-01,Thailand,TH,korean food,80,False
+2023-08-01,Thailand,TH,korean food,78,False
+2023-09-01,Thailand,TH,korean food,87,False
+2023-10-01,Thailand,TH,korean food,76,False
+2023-11-01,Thailand,TH,korean food,81,False
+2023-12-01,Thailand,TH,korean food,82,False
+2024-01-01,Thailand,TH,korean food,72,False
+2024-02-01,Thailand,TH,korean food,96,False
+2024-03-01,Thailand,TH,korean food,65,False
+2024-04-01,Thailand,TH,korean food,77,False
+2024-05-01,Thailand,TH,korean food,77,False
+2024-06-01,Thailand,TH,korean food,88,False
+2024-07-01,Thailand,TH,korean food,78,False
+2024-08-01,Thailand,TH,korean food,71,False
+2024-09-01,Thailand,TH,korean food,84,False
+2024-10-01,Thailand,TH,korean food,72,False
+2024-11-01,Thailand,TH,korean food,78,False
+2024-12-01,Thailand,TH,korean food,90,False
+2019-01-01,Thailand,TH,kimchi,32,False
+2019-02-01,Thailand,TH,kimchi,33,False
+2019-03-01,Thailand,TH,kimchi,30,False
+2019-04-01,Thailand,TH,kimchi,28,False
+2019-05-01,Thailand,TH,kimchi,29,False
+2019-06-01,Thailand,TH,kimchi,39,False
+2019-07-01,Thailand,TH,kimchi,34,False
+2019-08-01,Thailand,TH,kimchi,38,False
+2019-09-01,Thailand,TH,kimchi,37,False
+2019-10-01,Thailand,TH,kimchi,40,False
+2019-11-01,Thailand,TH,kimchi,41,False
+2019-12-01,Thailand,TH,kimchi,33,False
+2020-01-01,Thailand,TH,kimchi,35,False
+2020-02-01,Thailand,TH,kimchi,35,False
+2020-03-01,Thailand,TH,kimchi,56,False
+2020-04-01,Thailand,TH,kimchi,100,False
+2020-05-01,Thailand,TH,kimchi,78,False
+2020-06-01,Thailand,TH,kimchi,61,False
+2020-07-01,Thailand,TH,kimchi,49,False
+2020-08-01,Thailand,TH,kimchi,43,False
+2020-09-01,Thailand,TH,kimchi,43,False
+2020-10-01,Thailand,TH,kimchi,34,False
+2020-11-01,Thailand,TH,kimchi,35,False
+2020-12-01,Thailand,TH,kimchi,35,False
+2021-01-01,Thailand,TH,kimchi,61,False
+2021-02-01,Thailand,TH,kimchi,52,False
+2021-03-01,Thailand,TH,kimchi,46,False
+2021-04-01,Thailand,TH,kimchi,51,False
+2021-05-01,Thailand,TH,kimchi,57,False
+2021-06-01,Thailand,TH,kimchi,50,False
+2021-07-01,Thailand,TH,kimchi,55,False
+2021-08-01,Thailand,TH,kimchi,48,False
+2021-09-01,Thailand,TH,kimchi,52,False
+2021-10-01,Thailand,TH,kimchi,44,False
+2021-11-01,Thailand,TH,kimchi,44,False
+2021-12-01,Thailand,TH,kimchi,38,False
+2022-01-01,Thailand,TH,kimchi,64,False
+2022-02-01,Thailand,TH,kimchi,60,False
+2022-03-01,Thailand,TH,kimchi,60,False
+2022-04-01,Thailand,TH,kimchi,64,False
+2022-05-01,Thailand,TH,kimchi,56,False
+2022-06-01,Thailand,TH,kimchi,55,False
+2022-07-01,Thailand,TH,kimchi,53,False
+2022-08-01,Thailand,TH,kimchi,59,False
+2022-09-01,Thailand,TH,kimchi,55,False
+2022-10-01,Thailand,TH,kimchi,57,False
+2022-11-01,Thailand,TH,kimchi,51,False
+2022-12-01,Thailand,TH,kimchi,60,False
+2023-01-01,Thailand,TH,kimchi,54,False
+2023-02-01,Thailand,TH,kimchi,63,False
+2023-03-01,Thailand,TH,kimchi,55,False
+2023-04-01,Thailand,TH,kimchi,56,False
+2023-05-01,Thailand,TH,kimchi,42,False
+2023-06-01,Thailand,TH,kimchi,36,False
+2023-07-01,Thailand,TH,kimchi,43,False
+2023-08-01,Thailand,TH,kimchi,49,False
+2023-09-01,Thailand,TH,kimchi,38,False
+2023-10-01,Thailand,TH,kimchi,41,False
+2023-11-01,Thailand,TH,kimchi,45,False
+2023-12-01,Thailand,TH,kimchi,47,False
+2024-01-01,Thailand,TH,kimchi,57,False
+2024-02-01,Thailand,TH,kimchi,54,False
+2024-03-01,Thailand,TH,kimchi,51,False
+2024-04-01,Thailand,TH,kimchi,55,False
+2024-05-01,Thailand,TH,kimchi,51,False
+2024-06-01,Thailand,TH,kimchi,44,False
+2024-07-01,Thailand,TH,kimchi,57,False
+2024-08-01,Thailand,TH,kimchi,46,False
+2024-09-01,Thailand,TH,kimchi,55,False
+2024-10-01,Thailand,TH,kimchi,57,False
+2024-11-01,Thailand,TH,kimchi,51,False
+2024-12-01,Thailand,TH,kimchi,55,False
+2019-01-01,Thailand,TH,gochujang,0,False
+2019-02-01,Thailand,TH,gochujang,0,False
+2019-03-01,Thailand,TH,gochujang,0,False
+2019-04-01,Thailand,TH,gochujang,0,False
+2019-05-01,Thailand,TH,gochujang,21,False
+2019-06-01,Thailand,TH,gochujang,0,False
+2019-07-01,Thailand,TH,gochujang,32,False
+2019-08-01,Thailand,TH,gochujang,19,False
+2019-09-01,Thailand,TH,gochujang,0,False
+2019-10-01,Thailand,TH,gochujang,0,False
+2019-11-01,Thailand,TH,gochujang,0,False
+2019-12-01,Thailand,TH,gochujang,21,False
+2020-01-01,Thailand,TH,gochujang,37,False
+2020-02-01,Thailand,TH,gochujang,24,False
+2020-03-01,Thailand,TH,gochujang,40,False
+2020-04-01,Thailand,TH,gochujang,100,False
+2020-05-01,Thailand,TH,gochujang,68,False
+2020-06-01,Thailand,TH,gochujang,51,False
+2020-07-01,Thailand,TH,gochujang,29,False
+2020-08-01,Thailand,TH,gochujang,19,False
+2020-09-01,Thailand,TH,gochujang,23,False
+2020-10-01,Thailand,TH,gochujang,0,False
+2020-11-01,Thailand,TH,gochujang,27,False
+2020-12-01,Thailand,TH,gochujang,25,False
+2021-01-01,Thailand,TH,gochujang,58,False
+2021-02-01,Thailand,TH,gochujang,29,False
+2021-03-01,Thailand,TH,gochujang,32,False
+2021-04-01,Thailand,TH,gochujang,33,False
+2021-05-01,Thailand,TH,gochujang,41,False
+2021-06-01,Thailand,TH,gochujang,26,False
+2021-07-01,Thailand,TH,gochujang,34,False
+2021-08-01,Thailand,TH,gochujang,42,False
+2021-09-01,Thailand,TH,gochujang,35,False
+2021-10-01,Thailand,TH,gochujang,31,False
+2021-11-01,Thailand,TH,gochujang,25,False
+2021-12-01,Thailand,TH,gochujang,26,False
+2022-01-01,Thailand,TH,gochujang,0,False
+2022-02-01,Thailand,TH,gochujang,26,False
+2022-03-01,Thailand,TH,gochujang,24,False
+2022-04-01,Thailand,TH,gochujang,20,False
+2022-05-01,Thailand,TH,gochujang,34,False
+2022-06-01,Thailand,TH,gochujang,30,False
+2022-07-01,Thailand,TH,gochujang,43,False
+2022-08-01,Thailand,TH,gochujang,35,False
+2022-09-01,Thailand,TH,gochujang,23,False
+2022-10-01,Thailand,TH,gochujang,18,False
+2022-11-01,Thailand,TH,gochujang,27,False
+2022-12-01,Thailand,TH,gochujang,32,False
+2023-01-01,Thailand,TH,gochujang,47,False
+2023-02-01,Thailand,TH,gochujang,35,False
+2023-03-01,Thailand,TH,gochujang,31,False
+2023-04-01,Thailand,TH,gochujang,0,False
+2023-05-01,Thailand,TH,gochujang,33,False
+2023-06-01,Thailand,TH,gochujang,33,False
+2023-07-01,Thailand,TH,gochujang,37,False
+2023-08-01,Thailand,TH,gochujang,27,False
+2023-09-01,Thailand,TH,gochujang,34,False
+2023-10-01,Thailand,TH,gochujang,41,False
+2023-11-01,Thailand,TH,gochujang,31,False
+2023-12-01,Thailand,TH,gochujang,37,False
+2024-01-01,Thailand,TH,gochujang,39,False
+2024-02-01,Thailand,TH,gochujang,52,False
+2024-03-01,Thailand,TH,gochujang,36,False
+2024-04-01,Thailand,TH,gochujang,37,False
+2024-05-01,Thailand,TH,gochujang,37,False
+2024-06-01,Thailand,TH,gochujang,27,False
+2024-07-01,Thailand,TH,gochujang,28,False
+2024-08-01,Thailand,TH,gochujang,38,False
+2024-09-01,Thailand,TH,gochujang,30,False
+2024-10-01,Thailand,TH,gochujang,36,False
+2024-11-01,Thailand,TH,gochujang,51,False
+2024-12-01,Thailand,TH,gochujang,31,False
+2019-01-01,Thailand,TH,tteokbokki,60,False
+2019-02-01,Thailand,TH,tteokbokki,44,False
+2019-03-01,Thailand,TH,tteokbokki,29,False
+2019-04-01,Thailand,TH,tteokbokki,39,False
+2019-05-01,Thailand,TH,tteokbokki,57,False
+2019-06-01,Thailand,TH,tteokbokki,49,False
+2019-07-01,Thailand,TH,tteokbokki,47,False
+2019-08-01,Thailand,TH,tteokbokki,48,False
+2019-09-01,Thailand,TH,tteokbokki,30,False
+2019-10-01,Thailand,TH,tteokbokki,26,False
+2019-11-01,Thailand,TH,tteokbokki,53,False
+2019-12-01,Thailand,TH,tteokbokki,36,False
+2020-01-01,Thailand,TH,tteokbokki,43,False
+2020-02-01,Thailand,TH,tteokbokki,35,False
+2020-03-01,Thailand,TH,tteokbokki,40,False
+2020-04-01,Thailand,TH,tteokbokki,46,False
+2020-05-01,Thailand,TH,tteokbokki,56,False
+2020-06-01,Thailand,TH,tteokbokki,57,False
+2020-07-01,Thailand,TH,tteokbokki,38,False
+2020-08-01,Thailand,TH,tteokbokki,45,False
+2020-09-01,Thailand,TH,tteokbokki,36,False
+2020-10-01,Thailand,TH,tteokbokki,43,False
+2020-11-01,Thailand,TH,tteokbokki,41,False
+2020-12-01,Thailand,TH,tteokbokki,38,False
+2021-01-01,Thailand,TH,tteokbokki,45,False
+2021-02-01,Thailand,TH,tteokbokki,27,False
+2021-03-01,Thailand,TH,tteokbokki,61,False
+2021-04-01,Thailand,TH,tteokbokki,43,False
+2021-05-01,Thailand,TH,tteokbokki,79,False
+2021-06-01,Thailand,TH,tteokbokki,55,False
+2021-07-01,Thailand,TH,tteokbokki,51,False
+2021-08-01,Thailand,TH,tteokbokki,53,False
+2021-09-01,Thailand,TH,tteokbokki,78,False
+2021-10-01,Thailand,TH,tteokbokki,72,False
+2021-11-01,Thailand,TH,tteokbokki,65,False
+2021-12-01,Thailand,TH,tteokbokki,71,False
+2022-01-01,Thailand,TH,tteokbokki,69,False
+2022-02-01,Thailand,TH,tteokbokki,62,False
+2022-03-01,Thailand,TH,tteokbokki,77,False
+2022-04-01,Thailand,TH,tteokbokki,87,False
+2022-05-01,Thailand,TH,tteokbokki,99,False
+2022-06-01,Thailand,TH,tteokbokki,92,False
+2022-07-01,Thailand,TH,tteokbokki,77,False
+2022-08-01,Thailand,TH,tteokbokki,99,False
+2022-09-01,Thailand,TH,tteokbokki,79,False
+2022-10-01,Thailand,TH,tteokbokki,69,False
+2022-11-01,Thailand,TH,tteokbokki,86,False
+2022-12-01,Thailand,TH,tteokbokki,67,False
+2023-01-01,Thailand,TH,tteokbokki,77,False
+2023-02-01,Thailand,TH,tteokbokki,74,False
+2023-03-01,Thailand,TH,tteokbokki,66,False
+2023-04-01,Thailand,TH,tteokbokki,53,False
+2023-05-01,Thailand,TH,tteokbokki,52,False
+2023-06-01,Thailand,TH,tteokbokki,60,False
+2023-07-01,Thailand,TH,tteokbokki,63,False
+2023-08-01,Thailand,TH,tteokbokki,82,False
+2023-09-01,Thailand,TH,tteokbokki,67,False
+2023-10-01,Thailand,TH,tteokbokki,81,False
+2023-11-01,Thailand,TH,tteokbokki,86,False
+2023-12-01,Thailand,TH,tteokbokki,88,False
+2024-01-01,Thailand,TH,tteokbokki,89,False
+2024-02-01,Thailand,TH,tteokbokki,77,False
+2024-03-01,Thailand,TH,tteokbokki,64,False
+2024-04-01,Thailand,TH,tteokbokki,86,False
+2024-05-01,Thailand,TH,tteokbokki,67,False
+2024-06-01,Thailand,TH,tteokbokki,100,False
+2024-07-01,Thailand,TH,tteokbokki,86,False
+2024-08-01,Thailand,TH,tteokbokki,58,False
+2024-09-01,Thailand,TH,tteokbokki,77,False
+2024-10-01,Thailand,TH,tteokbokki,66,False
+2024-11-01,Thailand,TH,tteokbokki,77,False
+2024-12-01,Thailand,TH,tteokbokki,83,False
+2019-01-01,Thailand,TH,korean ramen,0,False
+2019-02-01,Thailand,TH,korean ramen,0,False
+2019-03-01,Thailand,TH,korean ramen,0,False
+2019-04-01,Thailand,TH,korean ramen,0,False
+2019-05-01,Thailand,TH,korean ramen,0,False
+2019-06-01,Thailand,TH,korean ramen,0,False
+2019-07-01,Thailand,TH,korean ramen,0,False
+2019-08-01,Thailand,TH,korean ramen,0,False
+2019-09-01,Thailand,TH,korean ramen,0,False
+2019-10-01,Thailand,TH,korean ramen,0,False
+2019-11-01,Thailand,TH,korean ramen,90,False
+2019-12-01,Thailand,TH,korean ramen,0,False
+2020-01-01,Thailand,TH,korean ramen,0,False
+2020-02-01,Thailand,TH,korean ramen,0,False
+2020-03-01,Thailand,TH,korean ramen,0,False
+2020-04-01,Thailand,TH,korean ramen,0,False
+2020-05-01,Thailand,TH,korean ramen,0,False
+2020-06-01,Thailand,TH,korean ramen,0,False
+2020-07-01,Thailand,TH,korean ramen,0,False
+2020-08-01,Thailand,TH,korean ramen,0,False
+2020-09-01,Thailand,TH,korean ramen,0,False
+2020-10-01,Thailand,TH,korean ramen,0,False
+2020-11-01,Thailand,TH,korean ramen,0,False
+2020-12-01,Thailand,TH,korean ramen,0,False
+2021-01-01,Thailand,TH,korean ramen,0,False
+2021-02-01,Thailand,TH,korean ramen,0,False
+2021-03-01,Thailand,TH,korean ramen,0,False
+2021-04-01,Thailand,TH,korean ramen,0,False
+2021-05-01,Thailand,TH,korean ramen,0,False
+2021-06-01,Thailand,TH,korean ramen,0,False
+2021-07-01,Thailand,TH,korean ramen,0,False
+2021-08-01,Thailand,TH,korean ramen,0,False
+2021-09-01,Thailand,TH,korean ramen,0,False
+2021-10-01,Thailand,TH,korean ramen,0,False
+2021-11-01,Thailand,TH,korean ramen,0,False
+2021-12-01,Thailand,TH,korean ramen,0,False
+2022-01-01,Thailand,TH,korean ramen,82,False
+2022-02-01,Thailand,TH,korean ramen,0,False
+2022-03-01,Thailand,TH,korean ramen,92,False
+2022-04-01,Thailand,TH,korean ramen,0,False
+2022-05-01,Thailand,TH,korean ramen,65,False
+2022-06-01,Thailand,TH,korean ramen,0,False
+2022-07-01,Thailand,TH,korean ramen,91,False
+2022-08-01,Thailand,TH,korean ramen,0,False
+2022-09-01,Thailand,TH,korean ramen,0,False
+2022-10-01,Thailand,TH,korean ramen,0,False
+2022-11-01,Thailand,TH,korean ramen,0,False
+2022-12-01,Thailand,TH,korean ramen,0,False
+2023-01-01,Thailand,TH,korean ramen,0,False
+2023-02-01,Thailand,TH,korean ramen,0,False
+2023-03-01,Thailand,TH,korean ramen,0,False
+2023-04-01,Thailand,TH,korean ramen,0,False
+2023-05-01,Thailand,TH,korean ramen,68,False
+2023-06-01,Thailand,TH,korean ramen,0,False
+2023-07-01,Thailand,TH,korean ramen,0,False
+2023-08-01,Thailand,TH,korean ramen,0,False
+2023-09-01,Thailand,TH,korean ramen,0,False
+2023-10-01,Thailand,TH,korean ramen,0,False
+2023-11-01,Thailand,TH,korean ramen,0,False
+2023-12-01,Thailand,TH,korean ramen,80,False
+2024-01-01,Thailand,TH,korean ramen,0,False
+2024-02-01,Thailand,TH,korean ramen,0,False
+2024-03-01,Thailand,TH,korean ramen,0,False
+2024-04-01,Thailand,TH,korean ramen,92,False
+2024-05-01,Thailand,TH,korean ramen,0,False
+2024-06-01,Thailand,TH,korean ramen,0,False
+2024-07-01,Thailand,TH,korean ramen,0,False
+2024-08-01,Thailand,TH,korean ramen,0,False
+2024-09-01,Thailand,TH,korean ramen,0,False
+2024-10-01,Thailand,TH,korean ramen,0,False
+2024-11-01,Thailand,TH,korean ramen,0,False
+2024-12-01,Thailand,TH,korean ramen,100,False
+2019-01-01,Thailand,TH,bibigo,0,False
+2019-02-01,Thailand,TH,bibigo,0,False
+2019-03-01,Thailand,TH,bibigo,0,False
+2019-04-01,Thailand,TH,bibigo,0,False
+2019-05-01,Thailand,TH,bibigo,0,False
+2019-06-01,Thailand,TH,bibigo,0,False
+2019-07-01,Thailand,TH,bibigo,0,False
+2019-08-01,Thailand,TH,bibigo,0,False
+2019-09-01,Thailand,TH,bibigo,0,False
+2019-10-01,Thailand,TH,bibigo,0,False
+2019-11-01,Thailand,TH,bibigo,0,False
+2019-12-01,Thailand,TH,bibigo,0,False
+2020-01-01,Thailand,TH,bibigo,0,False
+2020-02-01,Thailand,TH,bibigo,0,False
+2020-03-01,Thailand,TH,bibigo,58,False
+2020-04-01,Thailand,TH,bibigo,98,False
+2020-05-01,Thailand,TH,bibigo,65,False
+2020-06-01,Thailand,TH,bibigo,0,False
+2020-07-01,Thailand,TH,bibigo,0,False
+2020-08-01,Thailand,TH,bibigo,0,False
+2020-09-01,Thailand,TH,bibigo,0,False
+2020-10-01,Thailand,TH,bibigo,0,False
+2020-11-01,Thailand,TH,bibigo,52,False
+2020-12-01,Thailand,TH,bibigo,48,False
+2021-01-01,Thailand,TH,bibigo,58,False
+2021-02-01,Thailand,TH,bibigo,0,False
+2021-03-01,Thailand,TH,bibigo,48,False
+2021-04-01,Thailand,TH,bibigo,59,False
+2021-05-01,Thailand,TH,bibigo,55,False
+2021-06-01,Thailand,TH,bibigo,56,False
+2021-07-01,Thailand,TH,bibigo,0,False
+2021-08-01,Thailand,TH,bibigo,42,False
+2021-09-01,Thailand,TH,bibigo,0,False
+2021-10-01,Thailand,TH,bibigo,0,False
+2021-11-01,Thailand,TH,bibigo,0,False
+2021-12-01,Thailand,TH,bibigo,0,False
+2022-01-01,Thailand,TH,bibigo,47,False
+2022-02-01,Thailand,TH,bibigo,55,False
+2022-03-01,Thailand,TH,bibigo,71,False
+2022-04-01,Thailand,TH,bibigo,68,False
+2022-05-01,Thailand,TH,bibigo,64,False
+2022-06-01,Thailand,TH,bibigo,0,False
+2022-07-01,Thailand,TH,bibigo,63,False
+2022-08-01,Thailand,TH,bibigo,42,False
+2022-09-01,Thailand,TH,bibigo,0,False
+2022-10-01,Thailand,TH,bibigo,0,False
+2022-11-01,Thailand,TH,bibigo,58,False
+2022-12-01,Thailand,TH,bibigo,0,False
+2023-01-01,Thailand,TH,bibigo,38,False
+2023-02-01,Thailand,TH,bibigo,81,False
+2023-03-01,Thailand,TH,bibigo,88,False
+2023-04-01,Thailand,TH,bibigo,39,False
+2023-05-01,Thailand,TH,bibigo,41,False
+2023-06-01,Thailand,TH,bibigo,52,False
+2023-07-01,Thailand,TH,bibigo,49,False
+2023-08-01,Thailand,TH,bibigo,46,False
+2023-09-01,Thailand,TH,bibigo,0,False
+2023-10-01,Thailand,TH,bibigo,0,False
+2023-11-01,Thailand,TH,bibigo,66,False
+2023-12-01,Thailand,TH,bibigo,0,False
+2024-01-01,Thailand,TH,bibigo,0,False
+2024-02-01,Thailand,TH,bibigo,51,False
+2024-03-01,Thailand,TH,bibigo,0,False
+2024-04-01,Thailand,TH,bibigo,71,False
+2024-05-01,Thailand,TH,bibigo,53,False
+2024-06-01,Thailand,TH,bibigo,82,False
+2024-07-01,Thailand,TH,bibigo,78,False
+2024-08-01,Thailand,TH,bibigo,0,False
+2024-09-01,Thailand,TH,bibigo,0,False
+2024-10-01,Thailand,TH,bibigo,0,False
+2024-11-01,Thailand,TH,bibigo,100,False
+2024-12-01,Thailand,TH,bibigo,90,False
+2019-01-01,Viet Nam,VN,korean food,48,False
+2019-02-01,Viet Nam,VN,korean food,56,False
+2019-03-01,Viet Nam,VN,korean food,53,False
+2019-04-01,Viet Nam,VN,korean food,58,False
+2019-05-01,Viet Nam,VN,korean food,68,False
+2019-06-01,Viet Nam,VN,korean food,59,False
+2019-07-01,Viet Nam,VN,korean food,63,False
+2019-08-01,Viet Nam,VN,korean food,61,False
+2019-09-01,Viet Nam,VN,korean food,54,False
+2019-10-01,Viet Nam,VN,korean food,52,False
+2019-11-01,Viet Nam,VN,korean food,76,False
+2019-12-01,Viet Nam,VN,korean food,55,False
+2020-01-01,Viet Nam,VN,korean food,70,False
+2020-02-01,Viet Nam,VN,korean food,42,False
+2020-03-01,Viet Nam,VN,korean food,41,False
+2020-04-01,Viet Nam,VN,korean food,41,False
+2020-05-01,Viet Nam,VN,korean food,51,False
+2020-06-01,Viet Nam,VN,korean food,53,False
+2020-07-01,Viet Nam,VN,korean food,58,False
+2020-08-01,Viet Nam,VN,korean food,50,False
+2020-09-01,Viet Nam,VN,korean food,58,False
+2020-10-01,Viet Nam,VN,korean food,58,False
+2020-11-01,Viet Nam,VN,korean food,51,False
+2020-12-01,Viet Nam,VN,korean food,48,False
+2021-01-01,Viet Nam,VN,korean food,40,False
+2021-02-01,Viet Nam,VN,korean food,42,False
+2021-03-01,Viet Nam,VN,korean food,41,False
+2021-04-01,Viet Nam,VN,korean food,46,False
+2021-05-01,Viet Nam,VN,korean food,40,False
+2021-06-01,Viet Nam,VN,korean food,24,False
+2021-07-01,Viet Nam,VN,korean food,16,False
+2021-08-01,Viet Nam,VN,korean food,16,False
+2021-09-01,Viet Nam,VN,korean food,18,False
+2021-10-01,Viet Nam,VN,korean food,25,False
+2021-11-01,Viet Nam,VN,korean food,40,False
+2021-12-01,Viet Nam,VN,korean food,37,False
+2022-01-01,Viet Nam,VN,korean food,56,False
+2022-02-01,Viet Nam,VN,korean food,69,False
+2022-03-01,Viet Nam,VN,korean food,59,False
+2022-04-01,Viet Nam,VN,korean food,71,False
+2022-05-01,Viet Nam,VN,korean food,65,False
+2022-06-01,Viet Nam,VN,korean food,71,False
+2022-07-01,Viet Nam,VN,korean food,75,False
+2022-08-01,Viet Nam,VN,korean food,74,False
+2022-09-01,Viet Nam,VN,korean food,78,False
+2022-10-01,Viet Nam,VN,korean food,77,False
+2022-11-01,Viet Nam,VN,korean food,72,False
+2022-12-01,Viet Nam,VN,korean food,80,False
+2023-01-01,Viet Nam,VN,korean food,80,False
+2023-02-01,Viet Nam,VN,korean food,84,False
+2023-03-01,Viet Nam,VN,korean food,75,False
+2023-04-01,Viet Nam,VN,korean food,82,False
+2023-05-01,Viet Nam,VN,korean food,91,False
+2023-06-01,Viet Nam,VN,korean food,84,False
+2023-07-01,Viet Nam,VN,korean food,81,False
+2023-08-01,Viet Nam,VN,korean food,83,False
+2023-09-01,Viet Nam,VN,korean food,93,False
+2023-10-01,Viet Nam,VN,korean food,88,False
+2023-11-01,Viet Nam,VN,korean food,82,False
+2023-12-01,Viet Nam,VN,korean food,85,False
+2024-01-01,Viet Nam,VN,korean food,86,False
+2024-02-01,Viet Nam,VN,korean food,94,False
+2024-03-01,Viet Nam,VN,korean food,93,False
+2024-04-01,Viet Nam,VN,korean food,86,False
+2024-05-01,Viet Nam,VN,korean food,96,False
+2024-06-01,Viet Nam,VN,korean food,96,False
+2024-07-01,Viet Nam,VN,korean food,94,False
+2024-08-01,Viet Nam,VN,korean food,100,False
+2024-09-01,Viet Nam,VN,korean food,95,False
+2024-10-01,Viet Nam,VN,korean food,94,False
+2024-11-01,Viet Nam,VN,korean food,97,False
+2024-12-01,Viet Nam,VN,korean food,81,False
+2019-01-01,Viet Nam,VN,kimchi,75,False
+2019-02-01,Viet Nam,VN,kimchi,73,False
+2019-03-01,Viet Nam,VN,kimchi,59,False
+2019-04-01,Viet Nam,VN,kimchi,53,False
+2019-05-01,Viet Nam,VN,kimchi,47,False
+2019-06-01,Viet Nam,VN,kimchi,55,False
+2019-07-01,Viet Nam,VN,kimchi,64,False
+2019-08-01,Viet Nam,VN,kimchi,63,False
+2019-09-01,Viet Nam,VN,kimchi,65,False
+2019-10-01,Viet Nam,VN,kimchi,69,False
+2019-11-01,Viet Nam,VN,kimchi,65,False
+2019-12-01,Viet Nam,VN,kimchi,64,False
+2020-01-01,Viet Nam,VN,kimchi,76,False
+2020-02-01,Viet Nam,VN,kimchi,65,False
+2020-03-01,Viet Nam,VN,kimchi,72,False
+2020-04-01,Viet Nam,VN,kimchi,100,False
+2020-05-01,Viet Nam,VN,kimchi,66,False
+2020-06-01,Viet Nam,VN,kimchi,66,False
+2020-07-01,Viet Nam,VN,kimchi,59,False
+2020-08-01,Viet Nam,VN,kimchi,70,False
+2020-09-01,Viet Nam,VN,kimchi,73,False
+2020-10-01,Viet Nam,VN,kimchi,73,False
+2020-11-01,Viet Nam,VN,kimchi,62,False
+2020-12-01,Viet Nam,VN,kimchi,69,False
+2021-01-01,Viet Nam,VN,kimchi,60,False
+2021-02-01,Viet Nam,VN,kimchi,90,False
+2021-03-01,Viet Nam,VN,kimchi,53,False
+2021-04-01,Viet Nam,VN,kimchi,54,False
+2021-05-01,Viet Nam,VN,kimchi,60,False
+2021-06-01,Viet Nam,VN,kimchi,68,False
+2021-07-01,Viet Nam,VN,kimchi,80,False
+2021-08-01,Viet Nam,VN,kimchi,87,False
+2021-09-01,Viet Nam,VN,kimchi,70,False
+2021-10-01,Viet Nam,VN,kimchi,67,False
+2021-11-01,Viet Nam,VN,kimchi,73,False
+2021-12-01,Viet Nam,VN,kimchi,55,False
+2022-01-01,Viet Nam,VN,kimchi,75,False
+2022-02-01,Viet Nam,VN,kimchi,53,False
+2022-03-01,Viet Nam,VN,kimchi,56,False
+2022-04-01,Viet Nam,VN,kimchi,48,False
+2022-05-01,Viet Nam,VN,kimchi,49,False
+2022-06-01,Viet Nam,VN,kimchi,49,False
+2022-07-01,Viet Nam,VN,kimchi,58,False
+2022-08-01,Viet Nam,VN,kimchi,51,False
+2022-09-01,Viet Nam,VN,kimchi,57,False
+2022-10-01,Viet Nam,VN,kimchi,55,False
+2022-11-01,Viet Nam,VN,kimchi,58,False
+2022-12-01,Viet Nam,VN,kimchi,56,False
+2023-01-01,Viet Nam,VN,kimchi,66,False
+2023-02-01,Viet Nam,VN,kimchi,55,False
+2023-03-01,Viet Nam,VN,kimchi,54,False
+2023-04-01,Viet Nam,VN,kimchi,50,False
+2023-05-01,Viet Nam,VN,kimchi,54,False
+2023-06-01,Viet Nam,VN,kimchi,57,False
+2023-07-01,Viet Nam,VN,kimchi,60,False
+2023-08-01,Viet Nam,VN,kimchi,61,False
+2023-09-01,Viet Nam,VN,kimchi,66,False
+2023-10-01,Viet Nam,VN,kimchi,73,False
+2023-11-01,Viet Nam,VN,kimchi,74,False
+2023-12-01,Viet Nam,VN,kimchi,66,False
+2024-01-01,Viet Nam,VN,kimchi,74,False
+2024-02-01,Viet Nam,VN,kimchi,85,False
+2024-03-01,Viet Nam,VN,kimchi,77,False
+2024-04-01,Viet Nam,VN,kimchi,79,False
+2024-05-01,Viet Nam,VN,kimchi,81,False
+2024-06-01,Viet Nam,VN,kimchi,69,False
+2024-07-01,Viet Nam,VN,kimchi,81,False
+2024-08-01,Viet Nam,VN,kimchi,75,False
+2024-09-01,Viet Nam,VN,kimchi,74,False
+2024-10-01,Viet Nam,VN,kimchi,81,False
+2024-11-01,Viet Nam,VN,kimchi,77,False
+2024-12-01,Viet Nam,VN,kimchi,84,False
+2019-01-01,Viet Nam,VN,gochujang,22,False
+2019-02-01,Viet Nam,VN,gochujang,14,False
+2019-03-01,Viet Nam,VN,gochujang,11,False
+2019-04-01,Viet Nam,VN,gochujang,13,False
+2019-05-01,Viet Nam,VN,gochujang,27,False
+2019-06-01,Viet Nam,VN,gochujang,25,False
+2019-07-01,Viet Nam,VN,gochujang,24,False
+2019-08-01,Viet Nam,VN,gochujang,21,False
+2019-09-01,Viet Nam,VN,gochujang,23,False
+2019-10-01,Viet Nam,VN,gochujang,20,False
+2019-11-01,Viet Nam,VN,gochujang,21,False
+2019-12-01,Viet Nam,VN,gochujang,23,False
+2020-01-01,Viet Nam,VN,gochujang,20,False
+2020-02-01,Viet Nam,VN,gochujang,44,False
+2020-03-01,Viet Nam,VN,gochujang,39,False
+2020-04-01,Viet Nam,VN,gochujang,100,False
+2020-05-01,Viet Nam,VN,gochujang,32,False
+2020-06-01,Viet Nam,VN,gochujang,32,False
+2020-07-01,Viet Nam,VN,gochujang,36,False
+2020-08-01,Viet Nam,VN,gochujang,31,False
+2020-09-01,Viet Nam,VN,gochujang,37,False
+2020-10-01,Viet Nam,VN,gochujang,37,False
+2020-11-01,Viet Nam,VN,gochujang,27,False
+2020-12-01,Viet Nam,VN,gochujang,21,False
+2021-01-01,Viet Nam,VN,gochujang,35,False
+2021-02-01,Viet Nam,VN,gochujang,25,False
+2021-03-01,Viet Nam,VN,gochujang,33,False
+2021-04-01,Viet Nam,VN,gochujang,30,False
+2021-05-01,Viet Nam,VN,gochujang,40,False
+2021-06-01,Viet Nam,VN,gochujang,54,False
+2021-07-01,Viet Nam,VN,gochujang,44,False
+2021-08-01,Viet Nam,VN,gochujang,61,False
+2021-09-01,Viet Nam,VN,gochujang,37,False
+2021-10-01,Viet Nam,VN,gochujang,34,False
+2021-11-01,Viet Nam,VN,gochujang,25,False
+2021-12-01,Viet Nam,VN,gochujang,25,False
+2022-01-01,Viet Nam,VN,gochujang,39,False
+2022-02-01,Viet Nam,VN,gochujang,33,False
+2022-03-01,Viet Nam,VN,gochujang,33,False
+2022-04-01,Viet Nam,VN,gochujang,35,False
+2022-05-01,Viet Nam,VN,gochujang,21,False
+2022-06-01,Viet Nam,VN,gochujang,39,False
+2022-07-01,Viet Nam,VN,gochujang,29,False
+2022-08-01,Viet Nam,VN,gochujang,27,False
+2022-09-01,Viet Nam,VN,gochujang,29,False
+2022-10-01,Viet Nam,VN,gochujang,33,False
+2022-11-01,Viet Nam,VN,gochujang,25,False
+2022-12-01,Viet Nam,VN,gochujang,30,False
+2023-01-01,Viet Nam,VN,gochujang,23,False
+2023-02-01,Viet Nam,VN,gochujang,33,False
+2023-03-01,Viet Nam,VN,gochujang,39,False
+2023-04-01,Viet Nam,VN,gochujang,39,False
+2023-05-01,Viet Nam,VN,gochujang,35,False
+2023-06-01,Viet Nam,VN,gochujang,47,False
+2023-07-01,Viet Nam,VN,gochujang,40,False
+2023-08-01,Viet Nam,VN,gochujang,44,False
+2023-09-01,Viet Nam,VN,gochujang,27,False
+2023-10-01,Viet Nam,VN,gochujang,24,False
+2023-11-01,Viet Nam,VN,gochujang,32,False
+2023-12-01,Viet Nam,VN,gochujang,32,False
+2024-01-01,Viet Nam,VN,gochujang,36,False
+2024-02-01,Viet Nam,VN,gochujang,44,False
+2024-03-01,Viet Nam,VN,gochujang,34,False
+2024-04-01,Viet Nam,VN,gochujang,46,False
+2024-05-01,Viet Nam,VN,gochujang,38,False
+2024-06-01,Viet Nam,VN,gochujang,33,False
+2024-07-01,Viet Nam,VN,gochujang,47,False
+2024-08-01,Viet Nam,VN,gochujang,43,False
+2024-09-01,Viet Nam,VN,gochujang,46,False
+2024-10-01,Viet Nam,VN,gochujang,45,False
+2024-11-01,Viet Nam,VN,gochujang,41,False
+2024-12-01,Viet Nam,VN,gochujang,39,False
+2019-01-01,Viet Nam,VN,tteokbokki,24,False
+2019-02-01,Viet Nam,VN,tteokbokki,29,False
+2019-03-01,Viet Nam,VN,tteokbokki,21,False
+2019-04-01,Viet Nam,VN,tteokbokki,23,False
+2019-05-01,Viet Nam,VN,tteokbokki,29,False
+2019-06-01,Viet Nam,VN,tteokbokki,26,False
+2019-07-01,Viet Nam,VN,tteokbokki,35,False
+2019-08-01,Viet Nam,VN,tteokbokki,41,False
+2019-09-01,Viet Nam,VN,tteokbokki,32,False
+2019-10-01,Viet Nam,VN,tteokbokki,31,False
+2019-11-01,Viet Nam,VN,tteokbokki,28,False
+2019-12-01,Viet Nam,VN,tteokbokki,29,False
+2020-01-01,Viet Nam,VN,tteokbokki,45,False
+2020-02-01,Viet Nam,VN,tteokbokki,47,False
+2020-03-01,Viet Nam,VN,tteokbokki,47,False
+2020-04-01,Viet Nam,VN,tteokbokki,42,False
+2020-05-01,Viet Nam,VN,tteokbokki,52,False
+2020-06-01,Viet Nam,VN,tteokbokki,52,False
+2020-07-01,Viet Nam,VN,tteokbokki,71,False
+2020-08-01,Viet Nam,VN,tteokbokki,57,False
+2020-09-01,Viet Nam,VN,tteokbokki,66,False
+2020-10-01,Viet Nam,VN,tteokbokki,54,False
+2020-11-01,Viet Nam,VN,tteokbokki,44,False
+2020-12-01,Viet Nam,VN,tteokbokki,43,False
+2021-01-01,Viet Nam,VN,tteokbokki,46,False
+2021-02-01,Viet Nam,VN,tteokbokki,31,False
+2021-03-01,Viet Nam,VN,tteokbokki,42,False
+2021-04-01,Viet Nam,VN,tteokbokki,37,False
+2021-05-01,Viet Nam,VN,tteokbokki,26,False
+2021-06-01,Viet Nam,VN,tteokbokki,31,False
+2021-07-01,Viet Nam,VN,tteokbokki,40,False
+2021-08-01,Viet Nam,VN,tteokbokki,38,False
+2021-09-01,Viet Nam,VN,tteokbokki,28,False
+2021-10-01,Viet Nam,VN,tteokbokki,36,False
+2021-11-01,Viet Nam,VN,tteokbokki,32,False
+2021-12-01,Viet Nam,VN,tteokbokki,40,False
+2022-01-01,Viet Nam,VN,tteokbokki,43,False
+2022-02-01,Viet Nam,VN,tteokbokki,56,False
+2022-03-01,Viet Nam,VN,tteokbokki,65,False
+2022-04-01,Viet Nam,VN,tteokbokki,62,False
+2022-05-01,Viet Nam,VN,tteokbokki,76,False
+2022-06-01,Viet Nam,VN,tteokbokki,64,False
+2022-07-01,Viet Nam,VN,tteokbokki,91,False
+2022-08-01,Viet Nam,VN,tteokbokki,70,False
+2022-09-01,Viet Nam,VN,tteokbokki,56,False
+2022-10-01,Viet Nam,VN,tteokbokki,48,False
+2022-11-01,Viet Nam,VN,tteokbokki,36,False
+2022-12-01,Viet Nam,VN,tteokbokki,41,False
+2023-01-01,Viet Nam,VN,tteokbokki,68,False
+2023-02-01,Viet Nam,VN,tteokbokki,57,False
+2023-03-01,Viet Nam,VN,tteokbokki,60,False
+2023-04-01,Viet Nam,VN,tteokbokki,53,False
+2023-05-01,Viet Nam,VN,tteokbokki,51,False
+2023-06-01,Viet Nam,VN,tteokbokki,100,False
+2023-07-01,Viet Nam,VN,tteokbokki,69,False
+2023-08-01,Viet Nam,VN,tteokbokki,85,False
+2023-09-01,Viet Nam,VN,tteokbokki,53,False
+2023-10-01,Viet Nam,VN,tteokbokki,67,False
+2023-11-01,Viet Nam,VN,tteokbokki,58,False
+2023-12-01,Viet Nam,VN,tteokbokki,71,False
+2024-01-01,Viet Nam,VN,tteokbokki,58,False
+2024-02-01,Viet Nam,VN,tteokbokki,66,False
+2024-03-01,Viet Nam,VN,tteokbokki,55,False
+2024-04-01,Viet Nam,VN,tteokbokki,47,False
+2024-05-01,Viet Nam,VN,tteokbokki,54,False
+2024-06-01,Viet Nam,VN,tteokbokki,74,False
+2024-07-01,Viet Nam,VN,tteokbokki,71,False
+2024-08-01,Viet Nam,VN,tteokbokki,56,False
+2024-09-01,Viet Nam,VN,tteokbokki,63,False
+2024-10-01,Viet Nam,VN,tteokbokki,57,False
+2024-11-01,Viet Nam,VN,tteokbokki,61,False
+2024-12-01,Viet Nam,VN,tteokbokki,60,False
+2019-01-01,Viet Nam,VN,korean ramen,0,False
+2019-02-01,Viet Nam,VN,korean ramen,0,False
+2019-03-01,Viet Nam,VN,korean ramen,0,False
+2019-04-01,Viet Nam,VN,korean ramen,0,False
+2019-05-01,Viet Nam,VN,korean ramen,0,False
+2019-06-01,Viet Nam,VN,korean ramen,0,False
+2019-07-01,Viet Nam,VN,korean ramen,0,False
+2019-08-01,Viet Nam,VN,korean ramen,0,False
+2019-09-01,Viet Nam,VN,korean ramen,0,False
+2019-10-01,Viet Nam,VN,korean ramen,0,False
+2019-11-01,Viet Nam,VN,korean ramen,0,False
+2019-12-01,Viet Nam,VN,korean ramen,0,False
+2020-01-01,Viet Nam,VN,korean ramen,0,False
+2020-02-01,Viet Nam,VN,korean ramen,0,False
+2020-03-01,Viet Nam,VN,korean ramen,0,False
+2020-04-01,Viet Nam,VN,korean ramen,0,False
+2020-05-01,Viet Nam,VN,korean ramen,0,False
+2020-06-01,Viet Nam,VN,korean ramen,0,False
+2020-07-01,Viet Nam,VN,korean ramen,0,False
+2020-08-01,Viet Nam,VN,korean ramen,0,False
+2020-09-01,Viet Nam,VN,korean ramen,0,False
+2020-10-01,Viet Nam,VN,korean ramen,0,False
+2020-11-01,Viet Nam,VN,korean ramen,0,False
+2020-12-01,Viet Nam,VN,korean ramen,0,False
+2021-01-01,Viet Nam,VN,korean ramen,0,False
+2021-02-01,Viet Nam,VN,korean ramen,0,False
+2021-03-01,Viet Nam,VN,korean ramen,0,False
+2021-04-01,Viet Nam,VN,korean ramen,0,False
+2021-05-01,Viet Nam,VN,korean ramen,0,False
+2021-06-01,Viet Nam,VN,korean ramen,0,False
+2021-07-01,Viet Nam,VN,korean ramen,0,False
+2021-08-01,Viet Nam,VN,korean ramen,0,False
+2021-09-01,Viet Nam,VN,korean ramen,0,False
+2021-10-01,Viet Nam,VN,korean ramen,0,False
+2021-11-01,Viet Nam,VN,korean ramen,0,False
+2021-12-01,Viet Nam,VN,korean ramen,0,False
+2022-01-01,Viet Nam,VN,korean ramen,0,False
+2022-02-01,Viet Nam,VN,korean ramen,0,False
+2022-03-01,Viet Nam,VN,korean ramen,0,False
+2022-04-01,Viet Nam,VN,korean ramen,0,False
+2022-05-01,Viet Nam,VN,korean ramen,0,False
+2022-06-01,Viet Nam,VN,korean ramen,0,False
+2022-07-01,Viet Nam,VN,korean ramen,0,False
+2022-08-01,Viet Nam,VN,korean ramen,0,False
+2022-09-01,Viet Nam,VN,korean ramen,0,False
+2022-10-01,Viet Nam,VN,korean ramen,0,False
+2022-11-01,Viet Nam,VN,korean ramen,0,False
+2022-12-01,Viet Nam,VN,korean ramen,85,False
+2023-01-01,Viet Nam,VN,korean ramen,0,False
+2023-02-01,Viet Nam,VN,korean ramen,0,False
+2023-03-01,Viet Nam,VN,korean ramen,0,False
+2023-04-01,Viet Nam,VN,korean ramen,0,False
+2023-05-01,Viet Nam,VN,korean ramen,0,False
+2023-06-01,Viet Nam,VN,korean ramen,0,False
+2023-07-01,Viet Nam,VN,korean ramen,0,False
+2023-08-01,Viet Nam,VN,korean ramen,0,False
+2023-09-01,Viet Nam,VN,korean ramen,100,False
+2023-10-01,Viet Nam,VN,korean ramen,0,False
+2023-11-01,Viet Nam,VN,korean ramen,0,False
+2023-12-01,Viet Nam,VN,korean ramen,0,False
+2024-01-01,Viet Nam,VN,korean ramen,0,False
+2024-02-01,Viet Nam,VN,korean ramen,0,False
+2024-03-01,Viet Nam,VN,korean ramen,0,False
+2024-04-01,Viet Nam,VN,korean ramen,0,False
+2024-05-01,Viet Nam,VN,korean ramen,0,False
+2024-06-01,Viet Nam,VN,korean ramen,0,False
+2024-07-01,Viet Nam,VN,korean ramen,0,False
+2024-08-01,Viet Nam,VN,korean ramen,0,False
+2024-09-01,Viet Nam,VN,korean ramen,0,False
+2024-10-01,Viet Nam,VN,korean ramen,0,False
+2024-11-01,Viet Nam,VN,korean ramen,0,False
+2024-12-01,Viet Nam,VN,korean ramen,0,False
+2019-01-01,Viet Nam,VN,bibigo,41,False
+2019-02-01,Viet Nam,VN,bibigo,34,False
+2019-03-01,Viet Nam,VN,bibigo,22,False
+2019-04-01,Viet Nam,VN,bibigo,21,False
+2019-05-01,Viet Nam,VN,bibigo,49,False
+2019-06-01,Viet Nam,VN,bibigo,67,False
+2019-07-01,Viet Nam,VN,bibigo,43,False
+2019-08-01,Viet Nam,VN,bibigo,46,False
+2019-09-01,Viet Nam,VN,bibigo,56,False
+2019-10-01,Viet Nam,VN,bibigo,40,False
+2019-11-01,Viet Nam,VN,bibigo,34,False
+2019-12-01,Viet Nam,VN,bibigo,34,False
+2020-01-01,Viet Nam,VN,bibigo,36,False
+2020-02-01,Viet Nam,VN,bibigo,42,False
+2020-03-01,Viet Nam,VN,bibigo,60,False
+2020-04-01,Viet Nam,VN,bibigo,81,False
+2020-05-01,Viet Nam,VN,bibigo,42,False
+2020-06-01,Viet Nam,VN,bibigo,55,False
+2020-07-01,Viet Nam,VN,bibigo,72,False
+2020-08-01,Viet Nam,VN,bibigo,88,False
+2020-09-01,Viet Nam,VN,bibigo,58,False
+2020-10-01,Viet Nam,VN,bibigo,48,False
+2020-11-01,Viet Nam,VN,bibigo,45,False
+2020-12-01,Viet Nam,VN,bibigo,32,False
+2021-01-01,Viet Nam,VN,bibigo,18,False
+2021-02-01,Viet Nam,VN,bibigo,28,False
+2021-03-01,Viet Nam,VN,bibigo,20,False
+2021-04-01,Viet Nam,VN,bibigo,27,False
+2021-05-01,Viet Nam,VN,bibigo,51,False
+2021-06-01,Viet Nam,VN,bibigo,51,False
+2021-07-01,Viet Nam,VN,bibigo,81,False
+2021-08-01,Viet Nam,VN,bibigo,82,False
+2021-09-01,Viet Nam,VN,bibigo,59,False
+2021-10-01,Viet Nam,VN,bibigo,48,False
+2021-11-01,Viet Nam,VN,bibigo,49,False
+2021-12-01,Viet Nam,VN,bibigo,55,False
+2022-01-01,Viet Nam,VN,bibigo,55,False
+2022-02-01,Viet Nam,VN,bibigo,52,False
+2022-03-01,Viet Nam,VN,bibigo,72,False
+2022-04-01,Viet Nam,VN,bibigo,85,False
+2022-05-01,Viet Nam,VN,bibigo,53,False
+2022-06-01,Viet Nam,VN,bibigo,57,False
+2022-07-01,Viet Nam,VN,bibigo,57,False
+2022-08-01,Viet Nam,VN,bibigo,64,False
+2022-09-01,Viet Nam,VN,bibigo,42,False
+2022-10-01,Viet Nam,VN,bibigo,42,False
+2022-11-01,Viet Nam,VN,bibigo,66,False
+2022-12-01,Viet Nam,VN,bibigo,60,False
+2023-01-01,Viet Nam,VN,bibigo,50,False
+2023-02-01,Viet Nam,VN,bibigo,55,False
+2023-03-01,Viet Nam,VN,bibigo,55,False
+2023-04-01,Viet Nam,VN,bibigo,51,False
+2023-05-01,Viet Nam,VN,bibigo,56,False
+2023-06-01,Viet Nam,VN,bibigo,60,False
+2023-07-01,Viet Nam,VN,bibigo,73,False
+2023-08-01,Viet Nam,VN,bibigo,78,False
+2023-09-01,Viet Nam,VN,bibigo,75,False
+2023-10-01,Viet Nam,VN,bibigo,71,False
+2023-11-01,Viet Nam,VN,bibigo,87,False
+2023-12-01,Viet Nam,VN,bibigo,63,False
+2024-01-01,Viet Nam,VN,bibigo,68,False
+2024-02-01,Viet Nam,VN,bibigo,64,False
+2024-03-01,Viet Nam,VN,bibigo,59,False
+2024-04-01,Viet Nam,VN,bibigo,63,False
+2024-05-01,Viet Nam,VN,bibigo,64,False
+2024-06-01,Viet Nam,VN,bibigo,62,False
+2024-07-01,Viet Nam,VN,bibigo,68,False
+2024-08-01,Viet Nam,VN,bibigo,87,False
+2024-09-01,Viet Nam,VN,bibigo,73,False
+2024-10-01,Viet Nam,VN,bibigo,77,False
+2024-11-01,Viet Nam,VN,bibigo,100,False
+2024-12-01,Viet Nam,VN,bibigo,97,False
+2019-01-01,United States,US,korean food,54,False
+2019-02-01,United States,US,korean food,60,False
+2019-03-01,United States,US,korean food,56,False
+2019-04-01,United States,US,korean food,55,False
+2019-05-01,United States,US,korean food,60,False
+2019-06-01,United States,US,korean food,59,False
+2019-07-01,United States,US,korean food,60,False
+2019-08-01,United States,US,korean food,54,False
+2019-09-01,United States,US,korean food,56,False
+2019-10-01,United States,US,korean food,54,False
+2019-11-01,United States,US,korean food,59,False
+2019-12-01,United States,US,korean food,61,False
+2020-01-01,United States,US,korean food,61,False
+2020-02-01,United States,US,korean food,61,False
+2020-03-01,United States,US,korean food,39,False
+2020-04-01,United States,US,korean food,44,False
+2020-05-01,United States,US,korean food,49,False
+2020-06-01,United States,US,korean food,53,False
+2020-07-01,United States,US,korean food,56,False
+2020-08-01,United States,US,korean food,59,False
+2020-09-01,United States,US,korean food,57,False
+2020-10-01,United States,US,korean food,60,False
+2020-11-01,United States,US,korean food,55,False
+2020-12-01,United States,US,korean food,56,False
+2021-01-01,United States,US,korean food,63,False
+2021-02-01,United States,US,korean food,68,False
+2021-03-01,United States,US,korean food,69,False
+2021-04-01,United States,US,korean food,73,False
+2021-05-01,United States,US,korean food,78,False
+2021-06-01,United States,US,korean food,80,False
+2021-07-01,United States,US,korean food,89,False
+2021-08-01,United States,US,korean food,86,False
+2021-09-01,United States,US,korean food,76,False
+2021-10-01,United States,US,korean food,91,False
+2021-11-01,United States,US,korean food,79,False
+2021-12-01,United States,US,korean food,80,False
+2022-01-01,United States,US,korean food,82,False
+2022-02-01,United States,US,korean food,88,False
+2022-03-01,United States,US,korean food,87,False
+2022-04-01,United States,US,korean food,90,False
+2022-05-01,United States,US,korean food,89,False
+2022-06-01,United States,US,korean food,85,False
+2022-07-01,United States,US,korean food,91,False
+2022-08-01,United States,US,korean food,87,False
+2022-09-01,United States,US,korean food,81,False
+2022-10-01,United States,US,korean food,82,False
+2022-11-01,United States,US,korean food,78,False
+2022-12-01,United States,US,korean food,88,False
+2023-01-01,United States,US,korean food,89,False
+2023-02-01,United States,US,korean food,87,False
+2023-03-01,United States,US,korean food,100,False
+2023-04-01,United States,US,korean food,91,False
+2023-05-01,United States,US,korean food,90,False
+2023-06-01,United States,US,korean food,92,False
+2023-07-01,United States,US,korean food,91,False
+2023-08-01,United States,US,korean food,89,False
+2023-09-01,United States,US,korean food,83,False
+2023-10-01,United States,US,korean food,83,False
+2023-11-01,United States,US,korean food,82,False
+2023-12-01,United States,US,korean food,87,False
+2024-01-01,United States,US,korean food,87,False
+2024-02-01,United States,US,korean food,82,False
+2024-03-01,United States,US,korean food,87,False
+2024-04-01,United States,US,korean food,85,False
+2024-05-01,United States,US,korean food,90,False
+2024-06-01,United States,US,korean food,84,False
+2024-07-01,United States,US,korean food,80,False
+2024-08-01,United States,US,korean food,84,False
+2024-09-01,United States,US,korean food,87,False
+2024-10-01,United States,US,korean food,77,False
+2024-11-01,United States,US,korean food,78,False
+2024-12-01,United States,US,korean food,84,False
+2019-01-01,United States,US,kimchi,54,False
+2019-02-01,United States,US,kimchi,52,False
+2019-03-01,United States,US,kimchi,51,False
+2019-04-01,United States,US,kimchi,49,False
+2019-05-01,United States,US,kimchi,47,False
+2019-06-01,United States,US,kimchi,51,False
+2019-07-01,United States,US,kimchi,51,False
+2019-08-01,United States,US,kimchi,46,False
+2019-09-01,United States,US,kimchi,47,False
+2019-10-01,United States,US,kimchi,46,False
+2019-11-01,United States,US,kimchi,47,False
+2019-12-01,United States,US,kimchi,43,False
+2020-01-01,United States,US,kimchi,58,False
+2020-02-01,United States,US,kimchi,53,False
+2020-03-01,United States,US,kimchi,57,False
+2020-04-01,United States,US,kimchi,71,False
+2020-05-01,United States,US,kimchi,72,False
+2020-06-01,United States,US,kimchi,67,False
+2020-07-01,United States,US,kimchi,71,False
+2020-08-01,United States,US,kimchi,66,False
+2020-09-01,United States,US,kimchi,60,False
+2020-10-01,United States,US,kimchi,60,False
+2020-11-01,United States,US,kimchi,55,False
+2020-12-01,United States,US,kimchi,59,False
+2021-01-01,United States,US,kimchi,70,False
+2021-02-01,United States,US,kimchi,71,False
+2021-03-01,United States,US,kimchi,61,False
+2021-04-01,United States,US,kimchi,63,False
+2021-05-01,United States,US,kimchi,62,False
+2021-06-01,United States,US,kimchi,71,False
+2021-07-01,United States,US,kimchi,67,False
+2021-08-01,United States,US,kimchi,68,False
+2021-09-01,United States,US,kimchi,70,False
+2021-10-01,United States,US,kimchi,72,False
+2021-11-01,United States,US,kimchi,64,False
+2021-12-01,United States,US,kimchi,66,False
+2022-01-01,United States,US,kimchi,84,False
+2022-02-01,United States,US,kimchi,86,False
+2022-03-01,United States,US,kimchi,76,False
+2022-04-01,United States,US,kimchi,78,False
+2022-05-01,United States,US,kimchi,72,False
+2022-06-01,United States,US,kimchi,75,False
+2022-07-01,United States,US,kimchi,79,False
+2022-08-01,United States,US,kimchi,71,False
+2022-09-01,United States,US,kimchi,65,False
+2022-10-01,United States,US,kimchi,71,False
+2022-11-01,United States,US,kimchi,73,False
+2022-12-01,United States,US,kimchi,82,False
+2023-01-01,United States,US,kimchi,96,False
+2023-02-01,United States,US,kimchi,83,False
+2023-03-01,United States,US,kimchi,80,False
+2023-04-01,United States,US,kimchi,80,False
+2023-05-01,United States,US,kimchi,78,False
+2023-06-01,United States,US,kimchi,76,False
+2023-07-01,United States,US,kimchi,92,False
+2023-08-01,United States,US,kimchi,95,False
+2023-09-01,United States,US,kimchi,91,False
+2023-10-01,United States,US,kimchi,85,False
+2023-11-01,United States,US,kimchi,83,False
+2023-12-01,United States,US,kimchi,82,False
+2024-01-01,United States,US,kimchi,100,False
+2024-02-01,United States,US,kimchi,96,False
+2024-03-01,United States,US,kimchi,88,False
+2024-04-01,United States,US,kimchi,77,False
+2024-05-01,United States,US,kimchi,84,False
+2024-06-01,United States,US,kimchi,85,False
+2024-07-01,United States,US,kimchi,88,False
+2024-08-01,United States,US,kimchi,87,False
+2024-09-01,United States,US,kimchi,82,False
+2024-10-01,United States,US,kimchi,82,False
+2024-11-01,United States,US,kimchi,78,False
+2024-12-01,United States,US,kimchi,82,False
+2019-01-01,United States,US,gochujang,32,False
+2019-02-01,United States,US,gochujang,33,False
+2019-03-01,United States,US,gochujang,32,False
+2019-04-01,United States,US,gochujang,27,False
+2019-05-01,United States,US,gochujang,29,False
+2019-06-01,United States,US,gochujang,30,False
+2019-07-01,United States,US,gochujang,33,False
+2019-08-01,United States,US,gochujang,30,False
+2019-09-01,United States,US,gochujang,31,False
+2019-10-01,United States,US,gochujang,30,False
+2019-11-01,United States,US,gochujang,26,False
+2019-12-01,United States,US,gochujang,28,False
+2020-01-01,United States,US,gochujang,40,False
+2020-02-01,United States,US,gochujang,39,False
+2020-03-01,United States,US,gochujang,41,False
+2020-04-01,United States,US,gochujang,49,False
+2020-05-01,United States,US,gochujang,52,False
+2020-06-01,United States,US,gochujang,50,False
+2020-07-01,United States,US,gochujang,47,False
+2020-08-01,United States,US,gochujang,46,False
+2020-09-01,United States,US,gochujang,40,False
+2020-10-01,United States,US,gochujang,38,False
+2020-11-01,United States,US,gochujang,37,False
+2020-12-01,United States,US,gochujang,42,False
+2021-01-01,United States,US,gochujang,54,False
+2021-02-01,United States,US,gochujang,54,False
+2021-03-01,United States,US,gochujang,50,False
+2021-04-01,United States,US,gochujang,43,False
+2021-05-01,United States,US,gochujang,46,False
+2021-06-01,United States,US,gochujang,44,False
+2021-07-01,United States,US,gochujang,44,False
+2021-08-01,United States,US,gochujang,43,False
+2021-09-01,United States,US,gochujang,41,False
+2021-10-01,United States,US,gochujang,42,False
+2021-11-01,United States,US,gochujang,39,False
+2021-12-01,United States,US,gochujang,40,False
+2022-01-01,United States,US,gochujang,66,False
+2022-02-01,United States,US,gochujang,57,False
+2022-03-01,United States,US,gochujang,54,False
+2022-04-01,United States,US,gochujang,50,False
+2022-05-01,United States,US,gochujang,51,False
+2022-06-01,United States,US,gochujang,54,False
+2022-07-01,United States,US,gochujang,60,False
+2022-08-01,United States,US,gochujang,61,False
+2022-09-01,United States,US,gochujang,55,False
+2022-10-01,United States,US,gochujang,57,False
+2022-11-01,United States,US,gochujang,52,False
+2022-12-01,United States,US,gochujang,75,False
+2023-01-01,United States,US,gochujang,79,False
+2023-02-01,United States,US,gochujang,79,False
+2023-03-01,United States,US,gochujang,74,False
+2023-04-01,United States,US,gochujang,87,False
+2023-05-01,United States,US,gochujang,74,False
+2023-06-01,United States,US,gochujang,85,False
+2023-07-01,United States,US,gochujang,84,False
+2023-08-01,United States,US,gochujang,87,False
+2023-09-01,United States,US,gochujang,73,False
+2023-10-01,United States,US,gochujang,73,False
+2023-11-01,United States,US,gochujang,70,False
+2023-12-01,United States,US,gochujang,80,False
+2024-01-01,United States,US,gochujang,100,False
+2024-02-01,United States,US,gochujang,93,False
+2024-03-01,United States,US,gochujang,89,False
+2024-04-01,United States,US,gochujang,87,False
+2024-05-01,United States,US,gochujang,80,False
+2024-06-01,United States,US,gochujang,74,False
+2024-07-01,United States,US,gochujang,74,False
+2024-08-01,United States,US,gochujang,79,False
+2024-09-01,United States,US,gochujang,92,False
+2024-10-01,United States,US,gochujang,79,False
+2024-11-01,United States,US,gochujang,77,False
+2024-12-01,United States,US,gochujang,80,False
+2019-01-01,United States,US,tteokbokki,25,False
+2019-02-01,United States,US,tteokbokki,22,False
+2019-03-01,United States,US,tteokbokki,24,False
+2019-04-01,United States,US,tteokbokki,25,False
+2019-05-01,United States,US,tteokbokki,25,False
+2019-06-01,United States,US,tteokbokki,26,False
+2019-07-01,United States,US,tteokbokki,28,False
+2019-08-01,United States,US,tteokbokki,24,False
+2019-09-01,United States,US,tteokbokki,26,False
+2019-10-01,United States,US,tteokbokki,28,False
+2019-11-01,United States,US,tteokbokki,27,False
+2019-12-01,United States,US,tteokbokki,30,False
+2020-01-01,United States,US,tteokbokki,34,False
+2020-02-01,United States,US,tteokbokki,33,False
+2020-03-01,United States,US,tteokbokki,35,False
+2020-04-01,United States,US,tteokbokki,48,False
+2020-05-01,United States,US,tteokbokki,52,False
+2020-06-01,United States,US,tteokbokki,47,False
+2020-07-01,United States,US,tteokbokki,48,False
+2020-08-01,United States,US,tteokbokki,42,False
+2020-09-01,United States,US,tteokbokki,41,False
+2020-10-01,United States,US,tteokbokki,39,False
+2020-11-01,United States,US,tteokbokki,42,False
+2020-12-01,United States,US,tteokbokki,47,False
+2021-01-01,United States,US,tteokbokki,53,False
+2021-02-01,United States,US,tteokbokki,53,False
+2021-03-01,United States,US,tteokbokki,53,False
+2021-04-01,United States,US,tteokbokki,57,False
+2021-05-01,United States,US,tteokbokki,58,False
+2021-06-01,United States,US,tteokbokki,63,False
+2021-07-01,United States,US,tteokbokki,70,False
+2021-08-01,United States,US,tteokbokki,63,False
+2021-09-01,United States,US,tteokbokki,72,False
+2021-10-01,United States,US,tteokbokki,99,False
+2021-11-01,United States,US,tteokbokki,71,False
+2021-12-01,United States,US,tteokbokki,66,False
+2022-01-01,United States,US,tteokbokki,73,False
+2022-02-01,United States,US,tteokbokki,69,False
+2022-03-01,United States,US,tteokbokki,63,False
+2022-04-01,United States,US,tteokbokki,68,False
+2022-05-01,United States,US,tteokbokki,67,False
+2022-06-01,United States,US,tteokbokki,68,False
+2022-07-01,United States,US,tteokbokki,76,False
+2022-08-01,United States,US,tteokbokki,73,False
+2022-09-01,United States,US,tteokbokki,63,False
+2022-10-01,United States,US,tteokbokki,63,False
+2022-11-01,United States,US,tteokbokki,68,False
+2022-12-01,United States,US,tteokbokki,81,False
+2023-01-01,United States,US,tteokbokki,88,False
+2023-02-01,United States,US,tteokbokki,77,False
+2023-03-01,United States,US,tteokbokki,82,False
+2023-04-01,United States,US,tteokbokki,77,False
+2023-05-01,United States,US,tteokbokki,76,False
+2023-06-01,United States,US,tteokbokki,82,False
+2023-07-01,United States,US,tteokbokki,87,False
+2023-08-01,United States,US,tteokbokki,82,False
+2023-09-01,United States,US,tteokbokki,80,False
+2023-10-01,United States,US,tteokbokki,72,False
+2023-11-01,United States,US,tteokbokki,86,False
+2023-12-01,United States,US,tteokbokki,91,False
+2024-01-01,United States,US,tteokbokki,100,False
+2024-02-01,United States,US,tteokbokki,86,False
+2024-03-01,United States,US,tteokbokki,83,False
+2024-04-01,United States,US,tteokbokki,87,False
+2024-05-01,United States,US,tteokbokki,76,False
+2024-06-01,United States,US,tteokbokki,83,False
+2024-07-01,United States,US,tteokbokki,77,False
+2024-08-01,United States,US,tteokbokki,74,False
+2024-09-01,United States,US,tteokbokki,74,False
+2024-10-01,United States,US,tteokbokki,74,False
+2024-11-01,United States,US,tteokbokki,82,False
+2024-12-01,United States,US,tteokbokki,77,False
+2019-01-01,United States,US,korean ramen,55,False
+2019-02-01,United States,US,korean ramen,52,False
+2019-03-01,United States,US,korean ramen,52,False
+2019-04-01,United States,US,korean ramen,49,False
+2019-05-01,United States,US,korean ramen,48,False
+2019-06-01,United States,US,korean ramen,53,False
+2019-07-01,United States,US,korean ramen,52,False
+2019-08-01,United States,US,korean ramen,54,False
+2019-09-01,United States,US,korean ramen,52,False
+2019-10-01,United States,US,korean ramen,51,False
+2019-11-01,United States,US,korean ramen,57,False
+2019-12-01,United States,US,korean ramen,59,False
+2020-01-01,United States,US,korean ramen,63,False
+2020-02-01,United States,US,korean ramen,62,False
+2020-03-01,United States,US,korean ramen,55,False
+2020-04-01,United States,US,korean ramen,65,False
+2020-05-01,United States,US,korean ramen,59,False
+2020-06-01,United States,US,korean ramen,66,False
+2020-07-01,United States,US,korean ramen,63,False
+2020-08-01,United States,US,korean ramen,63,False
+2020-09-01,United States,US,korean ramen,60,False
+2020-10-01,United States,US,korean ramen,63,False
+2020-11-01,United States,US,korean ramen,63,False
+2020-12-01,United States,US,korean ramen,68,False
+2021-01-01,United States,US,korean ramen,76,False
+2021-02-01,United States,US,korean ramen,72,False
+2021-03-01,United States,US,korean ramen,69,False
+2021-04-01,United States,US,korean ramen,72,False
+2021-05-01,United States,US,korean ramen,70,False
+2021-06-01,United States,US,korean ramen,75,False
+2021-07-01,United States,US,korean ramen,82,False
+2021-08-01,United States,US,korean ramen,77,False
+2021-09-01,United States,US,korean ramen,78,False
+2021-10-01,United States,US,korean ramen,88,False
+2021-11-01,United States,US,korean ramen,80,False
+2021-12-01,United States,US,korean ramen,89,False
+2022-01-01,United States,US,korean ramen,94,False
+2022-02-01,United States,US,korean ramen,86,False
+2022-03-01,United States,US,korean ramen,86,False
+2022-04-01,United States,US,korean ramen,78,False
+2022-05-01,United States,US,korean ramen,83,False
+2022-06-01,United States,US,korean ramen,76,False
+2022-07-01,United States,US,korean ramen,90,False
+2022-08-01,United States,US,korean ramen,84,False
+2022-09-01,United States,US,korean ramen,79,False
+2022-10-01,United States,US,korean ramen,83,False
+2022-11-01,United States,US,korean ramen,83,False
+2022-12-01,United States,US,korean ramen,95,False
+2023-01-01,United States,US,korean ramen,94,False
+2023-02-01,United States,US,korean ramen,84,False
+2023-03-01,United States,US,korean ramen,86,False
+2023-04-01,United States,US,korean ramen,84,False
+2023-05-01,United States,US,korean ramen,81,False
+2023-06-01,United States,US,korean ramen,88,False
+2023-07-01,United States,US,korean ramen,90,False
+2023-08-01,United States,US,korean ramen,86,False
+2023-09-01,United States,US,korean ramen,84,False
+2023-10-01,United States,US,korean ramen,81,False
+2023-11-01,United States,US,korean ramen,83,False
+2023-12-01,United States,US,korean ramen,89,False
+2024-01-01,United States,US,korean ramen,100,False
+2024-02-01,United States,US,korean ramen,90,False
+2024-03-01,United States,US,korean ramen,82,False
+2024-04-01,United States,US,korean ramen,76,False
+2024-05-01,United States,US,korean ramen,76,False
+2024-06-01,United States,US,korean ramen,88,False
+2024-07-01,United States,US,korean ramen,77,False
+2024-08-01,United States,US,korean ramen,83,False
+2024-09-01,United States,US,korean ramen,79,False
+2024-10-01,United States,US,korean ramen,76,False
+2024-11-01,United States,US,korean ramen,90,False
+2024-12-01,United States,US,korean ramen,91,False
+2019-01-01,United States,US,bibigo,14,False
+2019-02-01,United States,US,bibigo,17,False
+2019-03-01,United States,US,bibigo,15,False
+2019-04-01,United States,US,bibigo,14,False
+2019-05-01,United States,US,bibigo,13,False
+2019-06-01,United States,US,bibigo,13,False
+2019-07-01,United States,US,bibigo,15,False
+2019-08-01,United States,US,bibigo,17,False
+2019-09-01,United States,US,bibigo,15,False
+2019-10-01,United States,US,bibigo,21,False
+2019-11-01,United States,US,bibigo,15,False
+2019-12-01,United States,US,bibigo,12,False
+2020-01-01,United States,US,bibigo,16,False
+2020-02-01,United States,US,bibigo,19,False
+2020-03-01,United States,US,bibigo,15,False
+2020-04-01,United States,US,bibigo,17,False
+2020-05-01,United States,US,bibigo,16,False
+2020-06-01,United States,US,bibigo,16,False
+2020-07-01,United States,US,bibigo,16,False
+2020-08-01,United States,US,bibigo,20,False
+2020-09-01,United States,US,bibigo,17,False
+2020-10-01,United States,US,bibigo,66,False
+2020-11-01,United States,US,bibigo,18,False
+2020-12-01,United States,US,bibigo,19,False
+2021-01-01,United States,US,bibigo,24,False
+2021-02-01,United States,US,bibigo,29,False
+2021-03-01,United States,US,bibigo,26,False
+2021-04-01,United States,US,bibigo,24,False
+2021-05-01,United States,US,bibigo,20,False
+2021-06-01,United States,US,bibigo,19,False
+2021-07-01,United States,US,bibigo,18,False
+2021-08-01,United States,US,bibigo,26,False
+2021-09-01,United States,US,bibigo,67,False
+2021-10-01,United States,US,bibigo,86,False
+2021-11-01,United States,US,bibigo,45,False
+2021-12-01,United States,US,bibigo,41,False
+2022-01-01,United States,US,bibigo,45,False
+2022-02-01,United States,US,bibigo,48,False
+2022-03-01,United States,US,bibigo,40,False
+2022-04-01,United States,US,bibigo,47,False
+2022-05-01,United States,US,bibigo,33,False
+2022-06-01,United States,US,bibigo,34,False
+2022-07-01,United States,US,bibigo,36,False
+2022-08-01,United States,US,bibigo,43,False
+2022-09-01,United States,US,bibigo,37,False
+2022-10-01,United States,US,bibigo,63,False
+2022-11-01,United States,US,bibigo,46,False
+2022-12-01,United States,US,bibigo,49,False
+2023-01-01,United States,US,bibigo,57,False
+2023-02-01,United States,US,bibigo,53,False
+2023-03-01,United States,US,bibigo,49,False
+2023-04-01,United States,US,bibigo,58,False
+2023-05-01,United States,US,bibigo,80,False
+2023-06-01,United States,US,bibigo,41,False
+2023-07-01,United States,US,bibigo,42,False
+2023-08-01,United States,US,bibigo,92,False
+2023-09-01,United States,US,bibigo,100,False
+2023-10-01,United States,US,bibigo,83,False
+2023-11-01,United States,US,bibigo,68,False
+2023-12-01,United States,US,bibigo,66,False
+2024-01-01,United States,US,bibigo,81,False
+2024-02-01,United States,US,bibigo,66,False
+2024-03-01,United States,US,bibigo,56,False
+2024-04-01,United States,US,bibigo,57,False
+2024-05-01,United States,US,bibigo,96,False
+2024-06-01,United States,US,bibigo,54,False
+2024-07-01,United States,US,bibigo,55,False
+2024-08-01,United States,US,bibigo,48,False
+2024-09-01,United States,US,bibigo,50,False
+2024-10-01,United States,US,bibigo,59,False
+2024-11-01,United States,US,bibigo,61,False
+2024-12-01,United States,US,bibigo,60,False
+2019-01-01,Australia,AU,korean food,53,False
+2019-02-01,Australia,AU,korean food,47,False
+2019-03-01,Australia,AU,korean food,60,False
+2019-04-01,Australia,AU,korean food,66,False
+2019-05-01,Australia,AU,korean food,54,False
+2019-06-01,Australia,AU,korean food,57,False
+2019-07-01,Australia,AU,korean food,57,False
+2019-08-01,Australia,AU,korean food,56,False
+2019-09-01,Australia,AU,korean food,56,False
+2019-10-01,Australia,AU,korean food,58,False
+2019-11-01,Australia,AU,korean food,57,False
+2019-12-01,Australia,AU,korean food,57,False
+2020-01-01,Australia,AU,korean food,56,False
+2020-02-01,Australia,AU,korean food,56,False
+2020-03-01,Australia,AU,korean food,42,False
+2020-04-01,Australia,AU,korean food,39,False
+2020-05-01,Australia,AU,korean food,46,False
+2020-06-01,Australia,AU,korean food,58,False
+2020-07-01,Australia,AU,korean food,55,False
+2020-08-01,Australia,AU,korean food,52,False
+2020-09-01,Australia,AU,korean food,49,False
+2020-10-01,Australia,AU,korean food,49,False
+2020-11-01,Australia,AU,korean food,58,False
+2020-12-01,Australia,AU,korean food,57,False
+2021-01-01,Australia,AU,korean food,60,False
+2021-02-01,Australia,AU,korean food,57,False
+2021-03-01,Australia,AU,korean food,61,False
+2021-04-01,Australia,AU,korean food,65,False
+2021-05-01,Australia,AU,korean food,67,False
+2021-06-01,Australia,AU,korean food,65,False
+2021-07-01,Australia,AU,korean food,58,False
+2021-08-01,Australia,AU,korean food,51,False
+2021-09-01,Australia,AU,korean food,54,False
+2021-10-01,Australia,AU,korean food,66,False
+2021-11-01,Australia,AU,korean food,72,False
+2021-12-01,Australia,AU,korean food,74,False
+2022-01-01,Australia,AU,korean food,81,False
+2022-02-01,Australia,AU,korean food,79,False
+2022-03-01,Australia,AU,korean food,86,False
+2022-04-01,Australia,AU,korean food,93,False
+2022-05-01,Australia,AU,korean food,88,False
+2022-06-01,Australia,AU,korean food,86,False
+2022-07-01,Australia,AU,korean food,87,False
+2022-08-01,Australia,AU,korean food,90,False
+2022-09-01,Australia,AU,korean food,85,False
+2022-10-01,Australia,AU,korean food,85,False
+2022-11-01,Australia,AU,korean food,80,False
+2022-12-01,Australia,AU,korean food,83,False
+2023-01-01,Australia,AU,korean food,87,False
+2023-02-01,Australia,AU,korean food,87,False
+2023-03-01,Australia,AU,korean food,93,False
+2023-04-01,Australia,AU,korean food,100,False
+2023-05-01,Australia,AU,korean food,94,False
+2023-06-01,Australia,AU,korean food,95,False
+2023-07-01,Australia,AU,korean food,100,False
+2023-08-01,Australia,AU,korean food,97,False
+2023-09-01,Australia,AU,korean food,95,False
+2023-10-01,Australia,AU,korean food,86,False
+2023-11-01,Australia,AU,korean food,85,False
+2023-12-01,Australia,AU,korean food,90,False
+2024-01-01,Australia,AU,korean food,95,False
+2024-02-01,Australia,AU,korean food,89,False
+2024-03-01,Australia,AU,korean food,91,False
+2024-04-01,Australia,AU,korean food,91,False
+2024-05-01,Australia,AU,korean food,94,False
+2024-06-01,Australia,AU,korean food,99,False
+2024-07-01,Australia,AU,korean food,84,False
+2024-08-01,Australia,AU,korean food,90,False
+2024-09-01,Australia,AU,korean food,95,False
+2024-10-01,Australia,AU,korean food,91,False
+2024-11-01,Australia,AU,korean food,86,False
+2024-12-01,Australia,AU,korean food,91,False
+2019-01-01,Australia,AU,kimchi,50,False
+2019-02-01,Australia,AU,kimchi,50,False
+2019-03-01,Australia,AU,kimchi,50,False
+2019-04-01,Australia,AU,kimchi,46,False
+2019-05-01,Australia,AU,kimchi,50,False
+2019-06-01,Australia,AU,kimchi,56,False
+2019-07-01,Australia,AU,kimchi,57,False
+2019-08-01,Australia,AU,kimchi,55,False
+2019-09-01,Australia,AU,kimchi,52,False
+2019-10-01,Australia,AU,kimchi,51,False
+2019-11-01,Australia,AU,kimchi,54,False
+2019-12-01,Australia,AU,kimchi,46,False
+2020-01-01,Australia,AU,kimchi,52,False
+2020-02-01,Australia,AU,kimchi,55,False
+2020-03-01,Australia,AU,kimchi,53,False
+2020-04-01,Australia,AU,kimchi,84,False
+2020-05-01,Australia,AU,kimchi,87,False
+2020-06-01,Australia,AU,kimchi,78,False
+2020-07-01,Australia,AU,kimchi,75,False
+2020-08-01,Australia,AU,kimchi,75,False
+2020-09-01,Australia,AU,kimchi,73,False
+2020-10-01,Australia,AU,kimchi,65,False
+2020-11-01,Australia,AU,kimchi,62,False
+2020-12-01,Australia,AU,kimchi,59,False
+2021-01-01,Australia,AU,kimchi,71,False
+2021-02-01,Australia,AU,kimchi,63,False
+2021-03-01,Australia,AU,kimchi,55,False
+2021-04-01,Australia,AU,kimchi,62,False
+2021-05-01,Australia,AU,kimchi,66,False
+2021-06-01,Australia,AU,kimchi,70,False
+2021-07-01,Australia,AU,kimchi,73,False
+2021-08-01,Australia,AU,kimchi,74,False
+2021-09-01,Australia,AU,kimchi,66,False
+2021-10-01,Australia,AU,kimchi,70,False
+2021-11-01,Australia,AU,kimchi,59,False
+2021-12-01,Australia,AU,kimchi,54,False
+2022-01-01,Australia,AU,kimchi,75,False
+2022-02-01,Australia,AU,kimchi,70,False
+2022-03-01,Australia,AU,kimchi,68,False
+2022-04-01,Australia,AU,kimchi,70,False
+2022-05-01,Australia,AU,kimchi,69,False
+2022-06-01,Australia,AU,kimchi,71,False
+2022-07-01,Australia,AU,kimchi,76,False
+2022-08-01,Australia,AU,kimchi,68,False
+2022-09-01,Australia,AU,kimchi,70,False
+2022-10-01,Australia,AU,kimchi,68,False
+2022-11-01,Australia,AU,kimchi,68,False
+2022-12-01,Australia,AU,kimchi,64,False
+2023-01-01,Australia,AU,kimchi,86,False
+2023-02-01,Australia,AU,kimchi,78,False
+2023-03-01,Australia,AU,kimchi,77,False
+2023-04-01,Australia,AU,kimchi,80,False
+2023-05-01,Australia,AU,kimchi,83,False
+2023-06-01,Australia,AU,kimchi,79,False
+2023-07-01,Australia,AU,kimchi,85,False
+2023-08-01,Australia,AU,kimchi,84,False
+2023-09-01,Australia,AU,kimchi,86,False
+2023-10-01,Australia,AU,kimchi,77,False
+2023-11-01,Australia,AU,kimchi,67,False
+2023-12-01,Australia,AU,kimchi,70,False
+2024-01-01,Australia,AU,kimchi,89,False
+2024-02-01,Australia,AU,kimchi,82,False
+2024-03-01,Australia,AU,kimchi,76,False
+2024-04-01,Australia,AU,kimchi,86,False
+2024-05-01,Australia,AU,kimchi,88,False
+2024-06-01,Australia,AU,kimchi,100,False
+2024-07-01,Australia,AU,kimchi,89,False
+2024-08-01,Australia,AU,kimchi,85,False
+2024-09-01,Australia,AU,kimchi,85,False
+2024-10-01,Australia,AU,kimchi,77,False
+2024-11-01,Australia,AU,kimchi,70,False
+2024-12-01,Australia,AU,kimchi,65,False
+2019-01-01,Australia,AU,gochujang,17,False
+2019-02-01,Australia,AU,gochujang,16,False
+2019-03-01,Australia,AU,gochujang,18,False
+2019-04-01,Australia,AU,gochujang,17,False
+2019-05-01,Australia,AU,gochujang,29,False
+2019-06-01,Australia,AU,gochujang,22,False
+2019-07-01,Australia,AU,gochujang,21,False
+2019-08-01,Australia,AU,gochujang,22,False
+2019-09-01,Australia,AU,gochujang,24,False
+2019-10-01,Australia,AU,gochujang,23,False
+2019-11-01,Australia,AU,gochujang,23,False
+2019-12-01,Australia,AU,gochujang,27,False
+2020-01-01,Australia,AU,gochujang,25,False
+2020-02-01,Australia,AU,gochujang,27,False
+2020-03-01,Australia,AU,gochujang,32,False
+2020-04-01,Australia,AU,gochujang,52,False
+2020-05-01,Australia,AU,gochujang,55,False
+2020-06-01,Australia,AU,gochujang,50,False
+2020-07-01,Australia,AU,gochujang,44,False
+2020-08-01,Australia,AU,gochujang,48,False
+2020-09-01,Australia,AU,gochujang,42,False
+2020-10-01,Australia,AU,gochujang,38,False
+2020-11-01,Australia,AU,gochujang,34,False
+2020-12-01,Australia,AU,gochujang,31,False
+2021-01-01,Australia,AU,gochujang,45,False
+2021-02-01,Australia,AU,gochujang,38,False
+2021-03-01,Australia,AU,gochujang,32,False
+2021-04-01,Australia,AU,gochujang,42,False
+2021-05-01,Australia,AU,gochujang,40,False
+2021-06-01,Australia,AU,gochujang,47,False
+2021-07-01,Australia,AU,gochujang,52,False
+2021-08-01,Australia,AU,gochujang,54,False
+2021-09-01,Australia,AU,gochujang,46,False
+2021-10-01,Australia,AU,gochujang,50,False
+2021-11-01,Australia,AU,gochujang,38,False
+2021-12-01,Australia,AU,gochujang,39,False
+2022-01-01,Australia,AU,gochujang,54,False
+2022-02-01,Australia,AU,gochujang,53,False
+2022-03-01,Australia,AU,gochujang,47,False
+2022-04-01,Australia,AU,gochujang,52,False
+2022-05-01,Australia,AU,gochujang,58,False
+2022-06-01,Australia,AU,gochujang,56,False
+2022-07-01,Australia,AU,gochujang,58,False
+2022-08-01,Australia,AU,gochujang,61,False
+2022-09-01,Australia,AU,gochujang,59,False
+2022-10-01,Australia,AU,gochujang,66,False
+2022-11-01,Australia,AU,gochujang,61,False
+2022-12-01,Australia,AU,gochujang,65,False
+2023-01-01,Australia,AU,gochujang,81,False
+2023-02-01,Australia,AU,gochujang,66,False
+2023-03-01,Australia,AU,gochujang,67,False
+2023-04-01,Australia,AU,gochujang,84,False
+2023-05-01,Australia,AU,gochujang,82,False
+2023-06-01,Australia,AU,gochujang,88,False
+2023-07-01,Australia,AU,gochujang,95,False
+2023-08-01,Australia,AU,gochujang,83,False
+2023-09-01,Australia,AU,gochujang,81,False
+2023-10-01,Australia,AU,gochujang,77,False
+2023-11-01,Australia,AU,gochujang,73,False
+2023-12-01,Australia,AU,gochujang,71,False
+2024-01-01,Australia,AU,gochujang,97,False
+2024-02-01,Australia,AU,gochujang,85,False
+2024-03-01,Australia,AU,gochujang,86,False
+2024-04-01,Australia,AU,gochujang,100,False
+2024-05-01,Australia,AU,gochujang,100,False
+2024-06-01,Australia,AU,gochujang,86,False
+2024-07-01,Australia,AU,gochujang,89,False
+2024-08-01,Australia,AU,gochujang,99,False
+2024-09-01,Australia,AU,gochujang,98,False
+2024-10-01,Australia,AU,gochujang,97,False
+2024-11-01,Australia,AU,gochujang,91,False
+2024-12-01,Australia,AU,gochujang,83,False
+2019-01-01,Australia,AU,tteokbokki,22,False
+2019-02-01,Australia,AU,tteokbokki,14,False
+2019-03-01,Australia,AU,tteokbokki,26,False
+2019-04-01,Australia,AU,tteokbokki,28,False
+2019-05-01,Australia,AU,tteokbokki,25,False
+2019-06-01,Australia,AU,tteokbokki,24,False
+2019-07-01,Australia,AU,tteokbokki,27,False
+2019-08-01,Australia,AU,tteokbokki,24,False
+2019-09-01,Australia,AU,tteokbokki,27,False
+2019-10-01,Australia,AU,tteokbokki,25,False
+2019-11-01,Australia,AU,tteokbokki,27,False
+2019-12-01,Australia,AU,tteokbokki,24,False
+2020-01-01,Australia,AU,tteokbokki,32,False
+2020-02-01,Australia,AU,tteokbokki,33,False
+2020-03-01,Australia,AU,tteokbokki,29,False
+2020-04-01,Australia,AU,tteokbokki,52,False
+2020-05-01,Australia,AU,tteokbokki,49,False
+2020-06-01,Australia,AU,tteokbokki,49,False
+2020-07-01,Australia,AU,tteokbokki,49,False
+2020-08-01,Australia,AU,tteokbokki,38,False
+2020-09-01,Australia,AU,tteokbokki,41,False
+2020-10-01,Australia,AU,tteokbokki,32,False
+2020-11-01,Australia,AU,tteokbokki,33,False
+2020-12-01,Australia,AU,tteokbokki,33,False
+2021-01-01,Australia,AU,tteokbokki,43,False
+2021-02-01,Australia,AU,tteokbokki,35,False
+2021-03-01,Australia,AU,tteokbokki,36,False
+2021-04-01,Australia,AU,tteokbokki,43,False
+2021-05-01,Australia,AU,tteokbokki,47,False
+2021-06-01,Australia,AU,tteokbokki,50,False
+2021-07-01,Australia,AU,tteokbokki,56,False
+2021-08-01,Australia,AU,tteokbokki,57,False
+2021-09-01,Australia,AU,tteokbokki,69,False
+2021-10-01,Australia,AU,tteokbokki,78,False
+2021-11-01,Australia,AU,tteokbokki,53,False
+2021-12-01,Australia,AU,tteokbokki,43,False
+2022-01-01,Australia,AU,tteokbokki,58,False
+2022-02-01,Australia,AU,tteokbokki,49,False
+2022-03-01,Australia,AU,tteokbokki,52,False
+2022-04-01,Australia,AU,tteokbokki,60,False
+2022-05-01,Australia,AU,tteokbokki,56,False
+2022-06-01,Australia,AU,tteokbokki,60,False
+2022-07-01,Australia,AU,tteokbokki,65,False
+2022-08-01,Australia,AU,tteokbokki,69,False
+2022-09-01,Australia,AU,tteokbokki,66,False
+2022-10-01,Australia,AU,tteokbokki,62,False
+2022-11-01,Australia,AU,tteokbokki,58,False
+2022-12-01,Australia,AU,tteokbokki,70,False
+2023-01-01,Australia,AU,tteokbokki,86,False
+2023-02-01,Australia,AU,tteokbokki,78,False
+2023-03-01,Australia,AU,tteokbokki,80,False
+2023-04-01,Australia,AU,tteokbokki,89,False
+2023-05-01,Australia,AU,tteokbokki,93,False
+2023-06-01,Australia,AU,tteokbokki,100,False
+2023-07-01,Australia,AU,tteokbokki,93,False
+2023-08-01,Australia,AU,tteokbokki,93,False
+2023-09-01,Australia,AU,tteokbokki,87,False
+2023-10-01,Australia,AU,tteokbokki,75,False
+2023-11-01,Australia,AU,tteokbokki,81,False
+2023-12-01,Australia,AU,tteokbokki,94,False
+2024-01-01,Australia,AU,tteokbokki,89,False
+2024-02-01,Australia,AU,tteokbokki,83,False
+2024-03-01,Australia,AU,tteokbokki,84,False
+2024-04-01,Australia,AU,tteokbokki,87,False
+2024-05-01,Australia,AU,tteokbokki,83,False
+2024-06-01,Australia,AU,tteokbokki,85,False
+2024-07-01,Australia,AU,tteokbokki,77,False
+2024-08-01,Australia,AU,tteokbokki,82,False
+2024-09-01,Australia,AU,tteokbokki,83,False
+2024-10-01,Australia,AU,tteokbokki,72,False
+2024-11-01,Australia,AU,tteokbokki,68,False
+2024-12-01,Australia,AU,tteokbokki,71,False
+2019-01-01,Australia,AU,korean ramen,40,False
+2019-02-01,Australia,AU,korean ramen,37,False
+2019-03-01,Australia,AU,korean ramen,39,False
+2019-04-01,Australia,AU,korean ramen,52,False
+2019-05-01,Australia,AU,korean ramen,48,False
+2019-06-01,Australia,AU,korean ramen,49,False
+2019-07-01,Australia,AU,korean ramen,46,False
+2019-08-01,Australia,AU,korean ramen,55,False
+2019-09-01,Australia,AU,korean ramen,57,False
+2019-10-01,Australia,AU,korean ramen,48,False
+2019-11-01,Australia,AU,korean ramen,50,False
+2019-12-01,Australia,AU,korean ramen,38,False
+2020-01-01,Australia,AU,korean ramen,53,False
+2020-02-01,Australia,AU,korean ramen,44,False
+2020-03-01,Australia,AU,korean ramen,44,False
+2020-04-01,Australia,AU,korean ramen,56,False
+2020-05-01,Australia,AU,korean ramen,57,False
+2020-06-01,Australia,AU,korean ramen,72,False
+2020-07-01,Australia,AU,korean ramen,56,False
+2020-08-01,Australia,AU,korean ramen,51,False
+2020-09-01,Australia,AU,korean ramen,56,False
+2020-10-01,Australia,AU,korean ramen,46,False
+2020-11-01,Australia,AU,korean ramen,46,False
+2020-12-01,Australia,AU,korean ramen,73,False
+2021-01-01,Australia,AU,korean ramen,75,False
+2021-02-01,Australia,AU,korean ramen,49,False
+2021-03-01,Australia,AU,korean ramen,63,False
+2021-04-01,Australia,AU,korean ramen,60,False
+2021-05-01,Australia,AU,korean ramen,65,False
+2021-06-01,Australia,AU,korean ramen,73,False
+2021-07-01,Australia,AU,korean ramen,66,False
+2021-08-01,Australia,AU,korean ramen,54,False
+2021-09-01,Australia,AU,korean ramen,61,False
+2021-10-01,Australia,AU,korean ramen,64,False
+2021-11-01,Australia,AU,korean ramen,61,False
+2021-12-01,Australia,AU,korean ramen,61,False
+2022-01-01,Australia,AU,korean ramen,79,False
+2022-02-01,Australia,AU,korean ramen,80,False
+2022-03-01,Australia,AU,korean ramen,70,False
+2022-04-01,Australia,AU,korean ramen,78,False
+2022-05-01,Australia,AU,korean ramen,79,False
+2022-06-01,Australia,AU,korean ramen,89,False
+2022-07-01,Australia,AU,korean ramen,77,False
+2022-08-01,Australia,AU,korean ramen,76,False
+2022-09-01,Australia,AU,korean ramen,80,False
+2022-10-01,Australia,AU,korean ramen,74,False
+2022-11-01,Australia,AU,korean ramen,55,False
+2022-12-01,Australia,AU,korean ramen,73,False
+2023-01-01,Australia,AU,korean ramen,79,False
+2023-02-01,Australia,AU,korean ramen,70,False
+2023-03-01,Australia,AU,korean ramen,68,False
+2023-04-01,Australia,AU,korean ramen,95,False
+2023-05-01,Australia,AU,korean ramen,92,False
+2023-06-01,Australia,AU,korean ramen,90,False
+2023-07-01,Australia,AU,korean ramen,99,False
+2023-08-01,Australia,AU,korean ramen,90,False
+2023-09-01,Australia,AU,korean ramen,69,False
+2023-10-01,Australia,AU,korean ramen,63,False
+2023-11-01,Australia,AU,korean ramen,70,False
+2023-12-01,Australia,AU,korean ramen,71,False
+2024-01-01,Australia,AU,korean ramen,82,False
+2024-02-01,Australia,AU,korean ramen,62,False
+2024-03-01,Australia,AU,korean ramen,80,False
+2024-04-01,Australia,AU,korean ramen,95,False
+2024-05-01,Australia,AU,korean ramen,93,False
+2024-06-01,Australia,AU,korean ramen,100,False
+2024-07-01,Australia,AU,korean ramen,82,False
+2024-08-01,Australia,AU,korean ramen,97,False
+2024-09-01,Australia,AU,korean ramen,80,False
+2024-10-01,Australia,AU,korean ramen,77,False
+2024-11-01,Australia,AU,korean ramen,67,False
+2024-12-01,Australia,AU,korean ramen,69,False
+2019-01-01,Australia,AU,bibigo,0,False
+2019-02-01,Australia,AU,bibigo,0,False
+2019-03-01,Australia,AU,bibigo,0,False
+2019-04-01,Australia,AU,bibigo,0,False
+2019-05-01,Australia,AU,bibigo,0,False
+2019-06-01,Australia,AU,bibigo,0,False
+2019-07-01,Australia,AU,bibigo,0,False
+2019-08-01,Australia,AU,bibigo,0,False
+2019-09-01,Australia,AU,bibigo,0,False
+2019-10-01,Australia,AU,bibigo,0,False
+2019-11-01,Australia,AU,bibigo,0,False
+2019-12-01,Australia,AU,bibigo,0,False
+2020-01-01,Australia,AU,bibigo,0,False
+2020-02-01,Australia,AU,bibigo,0,False
+2020-03-01,Australia,AU,bibigo,14,False
+2020-04-01,Australia,AU,bibigo,0,False
+2020-05-01,Australia,AU,bibigo,20,False
+2020-06-01,Australia,AU,bibigo,0,False
+2020-07-01,Australia,AU,bibigo,15,False
+2020-08-01,Australia,AU,bibigo,0,False
+2020-09-01,Australia,AU,bibigo,0,False
+2020-10-01,Australia,AU,bibigo,23,False
+2020-11-01,Australia,AU,bibigo,0,False
+2020-12-01,Australia,AU,bibigo,0,False
+2021-01-01,Australia,AU,bibigo,17,False
+2021-02-01,Australia,AU,bibigo,0,False
+2021-03-01,Australia,AU,bibigo,0,False
+2021-04-01,Australia,AU,bibigo,0,False
+2021-05-01,Australia,AU,bibigo,20,False
+2021-06-01,Australia,AU,bibigo,0,False
+2021-07-01,Australia,AU,bibigo,15,False
+2021-08-01,Australia,AU,bibigo,0,False
+2021-09-01,Australia,AU,bibigo,38,False
+2021-10-01,Australia,AU,bibigo,43,False
+2021-11-01,Australia,AU,bibigo,15,False
+2021-12-01,Australia,AU,bibigo,0,False
+2022-01-01,Australia,AU,bibigo,28,False
+2022-02-01,Australia,AU,bibigo,23,False
+2022-03-01,Australia,AU,bibigo,32,False
+2022-04-01,Australia,AU,bibigo,25,False
+2022-05-01,Australia,AU,bibigo,20,False
+2022-06-01,Australia,AU,bibigo,0,False
+2022-07-01,Australia,AU,bibigo,23,False
+2022-08-01,Australia,AU,bibigo,19,False
+2022-09-01,Australia,AU,bibigo,0,False
+2022-10-01,Australia,AU,bibigo,33,False
+2022-11-01,Australia,AU,bibigo,26,False
+2022-12-01,Australia,AU,bibigo,42,False
+2023-01-01,Australia,AU,bibigo,53,False
+2023-02-01,Australia,AU,bibigo,72,False
+2023-03-01,Australia,AU,bibigo,61,False
+2023-04-01,Australia,AU,bibigo,74,False
+2023-05-01,Australia,AU,bibigo,58,False
+2023-06-01,Australia,AU,bibigo,51,False
+2023-07-01,Australia,AU,bibigo,52,False
+2023-08-01,Australia,AU,bibigo,64,False
+2023-09-01,Australia,AU,bibigo,59,False
+2023-10-01,Australia,AU,bibigo,56,False
+2023-11-01,Australia,AU,bibigo,75,False
+2023-12-01,Australia,AU,bibigo,69,False
+2024-01-01,Australia,AU,bibigo,64,False
+2024-02-01,Australia,AU,bibigo,44,False
+2024-03-01,Australia,AU,bibigo,86,False
+2024-04-01,Australia,AU,bibigo,54,False
+2024-05-01,Australia,AU,bibigo,74,False
+2024-06-01,Australia,AU,bibigo,82,False
+2024-07-01,Australia,AU,bibigo,89,False
+2024-08-01,Australia,AU,bibigo,85,False
+2024-09-01,Australia,AU,bibigo,96,False
+2024-10-01,Australia,AU,bibigo,80,False
+2024-11-01,Australia,AU,bibigo,100,False
+2024-12-01,Australia,AU,bibigo,66,False
