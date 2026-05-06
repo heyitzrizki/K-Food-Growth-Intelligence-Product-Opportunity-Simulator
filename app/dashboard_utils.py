@@ -17,6 +17,7 @@ CLUSTERS_PATH = PROCESSED_DATA_DIR / "country_category_clusters.csv"
 TREND_RAW_PATH = RAW_DATA_DIR / "google_trends_kfood.csv"
 REVIEW_TOPICS_PATH = PROCESSED_DATA_DIR / "review_topics.csv"
 REVIEW_FEATURES_PATH = PROCESSED_DATA_DIR / "review_opportunity_features.csv"
+TREND_FEATURES_PATH = PROCESSED_DATA_DIR / "trend_features.csv"
 
 COUNTRY_ISO3 = {
     "Indonesia": "IDN",
@@ -49,6 +50,7 @@ def load_dashboard_data() -> dict[str, pd.DataFrame]:
         "trend_raw": load_csv(TREND_RAW_PATH),
         "review_topics": load_csv(REVIEW_TOPICS_PATH),
         "review_features": load_csv(REVIEW_FEATURES_PATH),
+        "trend_features": load_csv(TREND_FEATURES_PATH),
     }
 
 

@@ -17,29 +17,34 @@ OUTPUT_PATH = PROCESSED_DATA_DIR / "trend_features.csv"
 
 def classify_trend_stage(
     average_interest: float,
+    recent_12m_interest: float,
     momentum_pct: float,
     trend_volatility: float,
+    peak_interest: float,
     zero_share: float,
 ) -> str:
     if zero_share >= 0.60:
-        return "Weak / Low Signal"
+        return "Minor"
 
-    if average_interest >= 50 and momentum_pct >= 0.10:
-        return "Growing"
+    if peak_interest >= 85 and trend_volatility >= 30 and recent_12m_interest < average_interest:
+        return "Fad"
 
-    if average_interest >= 50 and abs(momentum_pct) < 0.10:
-        return "Mature / Stable"
+    if average_interest >= 55 and recent_12m_interest >= 60 and momentum_pct >= 0.15:
+        return "Mega"
 
-    if average_interest < 50 and momentum_pct >= 0.25:
-        return "Emerging"
+    if average_interest >= 40 and recent_12m_interest >= 45 and momentum_pct >= 0:
+        return "Major"
 
-    if trend_volatility >= 30 and momentum_pct < 0.10:
-        return "Spike / Fad"
+    if average_interest < 35 and momentum_pct >= 0.25 and zero_share < 0.50:
+        return "Early"
 
-    if momentum_pct <= -0.20:
-        return "Declining"
+    if average_interest < 35 and recent_12m_interest < 35:
+        return "Minor"
 
-    return "Moderate / Watch"
+    if momentum_pct <= -0.20 and peak_interest >= 70:
+        return "Fad"
+
+    return "Minor"
 
 
 def prepare_trend_features(df: pd.DataFrame) -> pd.DataFrame:
@@ -73,8 +78,10 @@ def prepare_trend_features(df: pd.DataFrame) -> pd.DataFrame:
 
         trend_stage = classify_trend_stage(
             average_interest=average_interest,
+            recent_12m_interest=recent_12m_interest,
             momentum_pct=0 if pd.isna(momentum_pct) else momentum_pct,
             trend_volatility=trend_volatility,
+            peak_interest=peak_interest,
             zero_share=zero_share,
         )
 

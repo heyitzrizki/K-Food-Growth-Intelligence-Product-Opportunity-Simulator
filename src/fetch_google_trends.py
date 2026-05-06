@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import random
 import time
 from pathlib import Path
 
@@ -12,7 +13,7 @@ RAW_DATA_DIR = BASE_DIR / "data" / "raw"
 RAW_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 OUTPUT_PATH = RAW_DATA_DIR / "google_trends_kfood.csv"
-
+FAILED_PATH = RAW_DATA_DIR / "failed_google_trends_queries.csv"
 
 COUNTRIES = {
     "Indonesia": "ID",
@@ -37,16 +38,30 @@ KEYWORDS = [
 TIMEFRAME = "2019-01-01 2024-12-31"
 
 
+def wait(min_seconds: int = 12, max_seconds: int = 25) -> None:
+    delay = random.randint(min_seconds, max_seconds)
+    print(f"Waiting {delay} seconds...")
+    time.sleep(delay)
+
+
+def create_pytrends_client() -> TrendReq:
+    return TrendReq(
+        hl="en-US",
+        tz=360,
+        timeout=(10, 25),
+    )
+
+
 def fetch_keyword_trend(
-    pytrends: TrendReq,
     country: str,
     geo: str,
     keyword: str,
-    retries: int = 3,
-    sleep_seconds: int = 5,
-) -> pd.DataFrame:
+    retries: int = 4,
+) -> tuple[pd.DataFrame, dict | None]:
     for attempt in range(1, retries + 1):
         try:
+            pytrends = create_pytrends_client()
+
             pytrends.build_payload(
                 kw_list=[keyword],
                 cat=0,
@@ -58,8 +73,13 @@ def fetch_keyword_trend(
             df = pytrends.interest_over_time()
 
             if df.empty:
-                print(f"No data: {country} | {keyword}")
-                return pd.DataFrame()
+                print(f"No data returned: {country} | {keyword}")
+                return pd.DataFrame(), {
+                    "country": country,
+                    "geo": geo,
+                    "keyword": keyword,
+                    "reason": "empty_result",
+                }
 
             df = df.reset_index()
 
@@ -77,79 +97,112 @@ def fetch_keyword_trend(
             df["geo"] = geo
             df["keyword"] = keyword
 
-            return df[
-                [
-                    "date",
-                    "country",
-                    "geo",
-                    "keyword",
-                    "search_interest",
-                    "is_partial",
-                ]
-            ]
+            return (
+                df[
+                    [
+                        "date",
+                        "country",
+                        "geo",
+                        "keyword",
+                        "search_interest",
+                        "is_partial",
+                    ]
+                ],
+                None,
+            )
 
         except Exception as error:
+            error_message = str(error)
             print(
                 f"Attempt {attempt}/{retries} failed: "
-                f"{country} | {keyword} | {error}"
+                f"{country} | {keyword} | {error_message}"
             )
-            time.sleep(sleep_seconds * attempt)
 
-    print(f"Failed after retries: {country} | {keyword}")
-    return pd.DataFrame()
+            if "429" in error_message:
+                backoff = 60 * attempt
+            else:
+                backoff = 15 * attempt
+
+            print(f"Retrying after {backoff} seconds...")
+            time.sleep(backoff)
+
+    return pd.DataFrame(), {
+        "country": country,
+        "geo": geo,
+        "keyword": keyword,
+        "reason": "failed_after_retries",
+    }
 
 
-def fetch_all_trends() -> pd.DataFrame:
-    pytrends = TrendReq(
-        hl="en-US",
-        tz=360,
-        timeout=(10, 25)
-    )
-
+def fetch_all_trends() -> tuple[pd.DataFrame, pd.DataFrame]:
     all_results = []
+    failed_queries = []
 
-    total_jobs = len(COUNTRIES) * len(KEYWORDS)
-    job_number = 1
+    jobs = [
+        (country, geo, keyword)
+        for country, geo in COUNTRIES.items()
+        for keyword in KEYWORDS
+    ]
 
-    for country, geo in COUNTRIES.items():
-        for keyword in KEYWORDS:
-            print(f"[{job_number}/{total_jobs}] Fetching: {country} | {keyword}")
+    total_jobs = len(jobs)
 
-            df = fetch_keyword_trend(
-                pytrends=pytrends,
-                country=country,
-                geo=geo,
-                keyword=keyword,
-            )
+    for job_number, (country, geo, keyword) in enumerate(jobs, start=1):
+        print(f"\n[{job_number}/{total_jobs}] Fetching: {country} | {keyword}")
 
-            if not df.empty:
-                all_results.append(df)
+        df, failed_query = fetch_keyword_trend(
+            country=country,
+            geo=geo,
+            keyword=keyword,
+        )
 
-            job_number += 1
-            time.sleep(3)
+        if not df.empty:
+            all_results.append(df)
 
-    if not all_results:
-        raise RuntimeError("No Google Trends data were fetched.")
+        if failed_query is not None:
+            failed_queries.append(failed_query)
 
-    trends_df = pd.concat(all_results, ignore_index=True)
-    trends_df["date"] = pd.to_datetime(trends_df["date"])
-    trends_df["search_interest"] = pd.to_numeric(
-        trends_df["search_interest"],
-        errors="coerce",
-    )
+        wait(12, 25)
 
-    return trends_df
+    if all_results:
+        trends_df = pd.concat(all_results, ignore_index=True)
+        trends_df["date"] = pd.to_datetime(trends_df["date"])
+        trends_df["search_interest"] = pd.to_numeric(
+            trends_df["search_interest"],
+            errors="coerce",
+        )
+    else:
+        trends_df = pd.DataFrame(
+            columns=[
+                "date",
+                "country",
+                "geo",
+                "keyword",
+                "search_interest",
+                "is_partial",
+            ]
+        )
+
+    failed_df = pd.DataFrame(failed_queries)
+
+    return trends_df, failed_df
 
 
 def main() -> None:
-    trends_df = fetch_all_trends()
-    trends_df.to_csv(OUTPUT_PATH, index=False)
+    trends_df, failed_df = fetch_all_trends()
 
-    print("\nGoogle Trends data saved successfully.")
-    print(f"Shape: {trends_df.shape}")
-    print(f"Path: {OUTPUT_PATH}")
-    print("\nPreview:")
-    print(trends_df.head())
+    trends_df.to_csv(OUTPUT_PATH, index=False)
+    failed_df.to_csv(FAILED_PATH, index=False)
+
+    print("\nGoogle Trends data collection completed.")
+    print(f"Successful data shape: {trends_df.shape}")
+    print(f"Saved to: {OUTPUT_PATH}")
+
+    if not failed_df.empty:
+        print(f"\nFailed queries: {failed_df.shape[0]}")
+        print(f"Failed query log saved to: {FAILED_PATH}")
+        print(failed_df)
+    else:
+        print("\nNo failed queries.")
 
 
 if __name__ == "__main__":
