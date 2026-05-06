@@ -1,153 +1,98 @@
 # K-Food Growth Intelligence & Product Opportunity Simulator
 
-A business analytics and market intelligence prototype for identifying attractive K-Food product opportunities across selected global markets.
+A business analytics dashboard for identifying K-Food product opportunities across selected global markets. This project combines real public data, synthetic business simulation data, review intelligence, market opportunity scoring, product idea recommendation, and scenario-based business planning into one Streamlit dashboard.
 
-This project combines real public data, synthetic business simulation data, machine learning-assisted review intelligence, market opportunity scoring, product idea recommendation, and scenario-based financial simulation into an interactive Streamlit dashboard.
+The main question this project answers is:
 
-The main business question is:
+**Which K-Food product idea should be prioritized, in which market, and why?**
 
-> Which K-Food product idea should be prioritized, in which market, and why?
+## Project Overview
 
----
+International food expansion decisions often require teams to evaluate markets with incomplete data. Real company sales, distributor performance, competitor sell-out, and customer-level data are usually proprietary and unavailable for public portfolio work.
 
-## 1. Project Overview
+This project simulates how a business planning or market intelligence team can use available public signals and synthetic business data to structure product opportunity analysis. It does not attempt to predict exact sales. Instead, it creates a decision-support workflow that connects consumer interest, macro-market readiness, simulated competitor conditions, customer pain points, product ideas, and scenario-based business outcomes.
 
-Food companies expanding internationally often need to evaluate product opportunities across multiple markets using incomplete data. Real company sales data, distributor data, customer-level data, and competitor sell-out data are often proprietary or unavailable.
-
-This project simulates how a business planning or market intelligence team could build a structured decision-support system using available public signals and simulated business data.
-
-The system evaluates K-Food product opportunities across selected countries and categories by combining:
-
-- Consumer search interest
-- Macro-market readiness
-- Simulated competitor landscape
-- Simulated customer review pain points
-- Product opportunity scoring
-- Product idea recommendation
-- Scenario-based business planning and P&L simulation
-
-The project is designed as a portfolio prototype, not as a real company-specific market entry recommendation.
-
----
-
-## 2. Business Problem
-
-When evaluating new product opportunities, business teams often face questions such as:
-
-- Which countries show stronger consumer interest in K-Food?
-- Which product categories have stronger trend momentum?
-- Which markets look more attractive from a macro and consumer readiness perspective?
-- What customer pain points should guide product adaptation?
-- What product ideas can be generated from market and review signals?
-- How would different business scenarios affect revenue, margin, and break-even units?
-
-This project addresses those questions through a structured analytics workflow.
-
----
-
-## 3. Project Objectives
-
-The objectives of this project are to:
-
-1. Build a market intelligence dashboard for K-Food product opportunity analysis.
-2. Use Google Trends as a consumer interest signal.
-3. Use World Bank indicators as macro-market readiness signals.
-4. Generate synthetic competitor and review datasets to simulate unavailable proprietary data.
-5. Apply NLP-based review theme detection to identify customer pain points.
-6. Build a product opportunity scoring model.
-7. Translate opportunity signals into product ideas.
-8. Simulate business scenarios using synthetic financial assumptions.
-9. Present the results in a business-friendly Streamlit dashboard.
-
----
-
-## 4. Data Transparency
+## Data Used
 
 This project uses a hybrid data strategy.
 
-### Real Public Data
+**Real public data**
+- Google Trends: relative consumer search interest for K-Food keywords
+- World Bank WDI: macro indicators such as population, GDP per capita, urbanization, internet usage, household consumption, and inflation
 
-| Data Source | Purpose |
-|---|---|
-| Google Trends | Relative consumer search interest for selected K-Food keywords |
-| World Bank WDI | Macro-market indicators such as population, GDP per capita, urbanization, internet usage, household consumption, and inflation |
+**Synthetic data**
+- Anonymized competitor product benchmark
+- Simulated customer review corpus
+- Scenario-based financial assumptions
 
-### Synthetic Data
+Synthetic data are used to demonstrate the analytics workflow when proprietary company, marketplace, and customer-level data are unavailable. The results should not be interpreted as real company-specific recommendations, real customer sentiment, or actual financial forecasts.
 
-| Synthetic Dataset | Purpose |
-|---|---|
-| Anonymized competitor benchmark | Simulates marketplace product availability, pricing, brand type, review count, rating, and positioning |
-| Synthetic customer review corpus | Simulates product feedback themes such as price sensitivity, spiciness, halal labeling, packaging, convenience, authenticity, and health concerns |
-| Scenario-based business assumptions | Simulates price, estimated units, cost of goods sold, logistics, marketing, trade promotion, distributor margin, revenue, and contribution margin |
+## Countries and Categories
 
-Synthetic data are used because real company sales, distributor, competitor, and customer-level data are usually proprietary and unavailable for portfolio projects.
+The dashboard covers eight markets: Indonesia, Malaysia, Philippines, Singapore, Thailand, Viet Nam, United States, and Australia.
 
-The project should not be interpreted as a real company-specific recommendation or actual commercial forecast.
+The product categories include Korean ramen, kimchi, gochujang sauce, frozen mandu, ready meal, and seaweed snack.
 
----
-
-## 5. Countries and Product Categories
-
-### Target Countries
-
-The analysis covers the following markets:
-
-- Indonesia
-- Malaysia
-- Philippines
-- Singapore
-- Thailand
-- Viet Nam
-- United States
-- Australia
-
-### Product Categories
-
-The project evaluates selected K-Food-related categories:
-
-- Korean ramen
-- Kimchi
-- Gochujang sauce
-- Frozen mandu
-- Ready meal
-- Seaweed snack
-
----
-
-## 6. System Architecture
+## Analytics Workflow
 
 The project follows an end-to-end business analytics pipeline:
 
+1. Generate synthetic competitor, review, and business assumption data
+2. Fetch Google Trends search interest data
+3. Prepare Google Trends features such as average interest, recent momentum, volatility, and trend consistency
+4. Prepare World Bank macro features and macro-market readiness scores
+5. Build review intelligence using TF-IDF and NMF topic modeling
+6. Create market opportunity scores by combining trend, macro, competitor, review, and price feasibility signals
+7. Generate product idea recommendations using business rules
+8. Build scenario-based revenue, margin, and break-even outputs
+9. Cluster country-category opportunities into market segments
+10. Present the full workflow in a multi-page Streamlit dashboard
+
+## Methodology
+
+Google Trends is used as a relative consumer interest signal. A value of 100 represents the highest relative search interest within the selected query, geography, and period. It does not represent actual search volume, sales volume, market size, or purchase intent.
+
+The review intelligence module uses synthetic reviews to demonstrate how customer feedback can be translated into business themes such as taste authenticity, spiciness, price sensitivity, portion size, packaging, halal labeling, convenience, and health concerns.
+
+The product opportunity score is a 0–100 decision-support index. It combines consumer interest, trend momentum, macro-market readiness, review-based opportunity signals, competitive space, price feasibility, and trend consistency. The score is not a predictive sales model.
+
+The scenario simulator uses synthetic assumptions to estimate net revenue, contribution profit, contribution margin, and break-even units under conservative, base, and aggressive scenarios.
+
+## Dashboard Pages
+
+The Streamlit dashboard is structured as a business story:
+
+- **Executive Overview**: summarizes the strongest product-market opportunity and recommended next action
+- **Trend Radar**: shows relative K-Food search interest from Google Trends
+- **Market Opportunity**: compares countries and categories using a world map, ranking table, and segmentation chart
+- **Review Intelligence**: summarizes customer pain points and product adaptation themes
+- **Product Idea Board**: converts market signals into product concepts, target segments, and channel suggestions
+- **Scenario Simulator**: estimates revenue, margin, and break-even outcomes under different scenarios
+- **Methodology Notes**: explains data sources, assumptions, limitations, and modeling approach
+
+## Repository Structure
+
 ```text
-Real Public Data
-├── Google Trends
-└── World Bank macro indicators
-
-Synthetic Simulation Data
-├── Competitor product benchmark
-├── Customer review corpus
-└── Business assumptions
-
-Data Processing Layer
-├── Trend feature engineering
-├── Macro feature engineering
-├── Competitor feature aggregation
-├── Review text cleaning
-└── Scenario output generation
-
-ML & Analytics Layer
-├── Review topic modeling
-├── Review opportunity scoring
-├── Country-category clustering
-├── Opportunity scoring
-└── Product idea recommendation
-
-Business Planning Layer
-├── Product opportunity ranking
-├── Market segmentation
-├── Product idea board
-├── Scenario-based revenue simulation
-└── Contribution margin and break-even analysis
-
-Dashboard Layer
-└── Streamlit multi-page business dashboard
+.
+├── app/
+│   ├── streamlit_app.py
+│   ├── dashboard_utils.py
+│   └── pages/
+├── data/
+│   ├── raw/
+│   ├── synthetic/
+│   └── processed/
+├── src/
+│   ├── generate_synthetic_data.py
+│   ├── fetch_google_trends.py
+│   ├── prepare_trend_features.py
+│   ├── prepare_macro_features.py
+│   ├── build_review_nlp_features.py
+│   ├── build_market_opportunity_scores.py
+│   ├── build_product_ideas.py
+│   ├── build_scenario_outputs.py
+│   └── build_country_category_clusters.py
+├── notebooks/
+├── outputs/
+├── requirements.txt
+└── README.md
