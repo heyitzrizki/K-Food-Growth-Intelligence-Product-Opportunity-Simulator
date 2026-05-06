@@ -96,3 +96,75 @@ The Streamlit dashboard is structured as a business story:
 ├── outputs/
 ├── requirements.txt
 └── README.md
+
+## How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/heyitzrizki/K-Food-Growth-Intelligence-Product-Opportunity-Simulator.git
+cd K-Food-Growth-Intelligence-Product-Opportunity-Simulator
+```
+
+Create and activate a virtual environment:
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the data pipeline:
+
+```bash
+python src/generate_synthetic_data.py
+python src/prepare_trend_features.py
+python src/prepare_macro_features.py
+python src/build_review_nlp_features.py
+python src/build_market_opportunity_scores.py
+python src/build_product_ideas.py
+python src/build_scenario_outputs.py
+python src/build_country_category_clusters.py
+```
+
+If Google Trends data need to be collected again, run:
+
+```bash
+python src/fetch_google_trends.py
+```
+
+Launch the dashboard:
+
+```bash
+streamlit run app/streamlit_app.py
+```
+
+## Key Outputs
+
+The main processed outputs are:
+
+- `trend_features.csv`: Google Trends feature table
+- `macro_features.csv`: macro-market readiness features
+- `review_topics.csv`: review topic assignments
+- `review_opportunity_features.csv`: review-based opportunity signals
+- `market_opportunity_scores.csv`: final country-category opportunity scores
+- `product_idea_recommendations.csv`: recommended product concepts
+- `scenario_outputs.csv`: scenario-based business outcomes
+- `country_category_clusters.csv`: market segmentation output
+
+## Business Value
+
+This project demonstrates how business analytics can support market opportunity analysis when complete commercial data are not available. It connects consumer trend signals, macro readiness, competitor assumptions, customer pain points, product idea generation, and financial scenario simulation into a practical decision-support dashboard.
+
+## Limitations
+
+This project is a portfolio prototype. It does not use real company sales data, distributor data, retailer sell-out data, or real customer reviews. Synthetic data are used for demonstration purposes. The outputs should be interpreted as structured business analytics logic, not as real market research, real financial forecasting, or company-specific recommendations.
+
+## Tech Stack
+
+Python, Pandas, NumPy, Scikit-learn, Plotly, Streamlit, Pytrends, OpenPyXL, TF-IDF, NMF topic modeling, and K-Means clustering.
