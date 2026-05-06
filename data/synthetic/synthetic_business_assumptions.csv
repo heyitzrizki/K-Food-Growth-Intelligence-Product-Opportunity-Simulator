@@ -1,0 +1,145 @@
+country,category,scenario,estimated_units,estimated_price_usd,cogs_pct,logistics_pct,marketing_pct,trade_promo_pct,distributor_margin_pct,gross_revenue_usd,net_revenue_usd,contribution_profit_usd,contribution_margin_pct,data_type
+Indonesia,Korean ramen,Conservative,96139,2.45,0.433,0.119,0.085,0.085,0.148,235540.55,215519.6,46336.71,0.215,synthetic_business_assumption
+Indonesia,Korean ramen,Base,107482,2.51,0.466,0.089,0.117,0.075,0.127,269779.82,249546.33,50158.81,0.201,synthetic_business_assumption
+Indonesia,Korean ramen,Aggressive,170059,2.66,0.39,0.098,0.188,0.088,0.137,452356.94,412549.53,77146.76,0.187,synthetic_business_assumption
+Indonesia,Kimchi,Conservative,34515,7.8,0.51,0.071,0.098,0.077,0.112,269217.0,248487.29,51933.84,0.209,synthetic_business_assumption
+Indonesia,Kimchi,Base,38259,7.72,0.385,0.092,0.133,0.065,0.152,295359.48,276161.11,65726.35,0.238,synthetic_business_assumption
+Indonesia,Kimchi,Aggressive,68976,7.12,0.438,0.074,0.166,0.059,0.134,491109.12,462133.68,86881.13,0.188,synthetic_business_assumption
+Indonesia,Gochujang sauce,Conservative,51164,5.26,0.501,0.062,0.13,0.058,0.132,269122.64,253513.53,44364.87,0.175,synthetic_business_assumption
+Indonesia,Gochujang sauce,Base,54001,6.1,0.452,0.068,0.126,0.079,0.133,329406.1,303383.02,67047.65,0.221,synthetic_business_assumption
+Indonesia,Gochujang sauce,Aggressive,93373,5.51,0.421,0.061,0.151,0.078,0.11,514485.23,474355.38,121909.33,0.257,synthetic_business_assumption
+Indonesia,Frozen mandu,Conservative,36018,8.56,0.518,0.078,0.109,0.104,0.14,308314.08,276249.42,42818.66,0.155,synthetic_business_assumption
+Indonesia,Frozen mandu,Base,51233,8.95,0.502,0.061,0.115,0.066,0.111,458535.35,428272.02,90365.4,0.211,synthetic_business_assumption
+Indonesia,Frozen mandu,Aggressive,71754,9.24,0.393,0.091,0.15,0.085,0.139,663006.96,606651.37,137709.86,0.227,synthetic_business_assumption
+Indonesia,Ready meal,Conservative,50059,7.39,0.447,0.094,0.124,0.069,0.086,369936.01,344410.43,85758.2,0.249,synthetic_business_assumption
+Indonesia,Ready meal,Base,75817,6.63,0.506,0.119,0.112,0.079,0.113,502666.71,462956.04,69443.41,0.15,synthetic_business_assumption
+Indonesia,Ready meal,Aggressive,87868,7.12,0.486,0.089,0.1,0.072,0.103,625620.16,580575.51,128887.76,0.222,synthetic_business_assumption
+Indonesia,Seaweed snack,Conservative,75899,2.58,0.493,0.1,0.118,0.08,0.134,195819.42,180153.87,27923.85,0.155,synthetic_business_assumption
+Indonesia,Seaweed snack,Base,93925,3.06,0.443,0.088,0.131,0.058,0.115,287410.5,270740.69,60375.17,0.223,synthetic_business_assumption
+Indonesia,Seaweed snack,Aggressive,144436,2.55,0.424,0.079,0.157,0.057,0.13,368311.8,347318.03,72936.79,0.21,synthetic_business_assumption
+Malaysia,Korean ramen,Conservative,75421,2.31,0.482,0.079,0.134,0.053,0.116,174222.51,164988.72,31182.87,0.189,synthetic_business_assumption
+Malaysia,Korean ramen,Base,101430,2.47,0.52,0.113,0.084,0.089,0.132,250532.1,228234.74,34463.45,0.151,synthetic_business_assumption
+Malaysia,Korean ramen,Aggressive,143177,2.34,0.507,0.118,0.191,0.105,0.133,335034.18,299855.59,15292.64,0.051,synthetic_business_assumption
+Malaysia,Kimchi,Conservative,31667,6.6,0.391,0.102,0.121,0.108,0.153,209002.2,186429.96,43438.18,0.233,synthetic_business_assumption
+Malaysia,Kimchi,Base,51838,8.05,0.414,0.106,0.127,0.068,0.159,417295.9,388919.78,75450.44,0.194,synthetic_business_assumption
+Malaysia,Kimchi,Aggressive,70418,6.52,0.384,0.101,0.154,0.116,0.099,459125.36,405866.82,106337.11,0.262,synthetic_business_assumption
+Malaysia,Gochujang sauce,Conservative,37518,5.31,0.383,0.062,0.13,0.075,0.113,199220.58,184279.04,57495.06,0.312,synthetic_business_assumption
+Malaysia,Gochujang sauce,Base,48440,5.32,0.493,0.097,0.14,0.081,0.105,257700.8,236827.04,39076.46,0.165,synthetic_business_assumption
+Malaysia,Gochujang sauce,Aggressive,80443,5.39,0.497,0.078,0.159,0.06,0.135,433587.77,407572.5,53392.0,0.131,synthetic_business_assumption
+Malaysia,Frozen mandu,Conservative,48069,8.94,0.458,0.118,0.111,0.068,0.103,429736.86,400514.75,84108.1,0.21,synthetic_business_assumption
+Malaysia,Frozen mandu,Base,59516,9.21,0.422,0.081,0.159,0.057,0.112,548142.36,516898.25,116819.0,0.226,synthetic_business_assumption
+Malaysia,Frozen mandu,Aggressive,61254,9.39,0.393,0.1,0.101,0.097,0.147,575175.06,519383.08,134520.22,0.259,synthetic_business_assumption
+Malaysia,Ready meal,Conservative,50375,6.7,0.436,0.078,0.123,0.069,0.138,337512.5,314224.14,70700.43,0.225,synthetic_business_assumption
+Malaysia,Ready meal,Base,61773,6.26,0.427,0.095,0.116,0.102,0.097,386698.98,347255.68,92022.76,0.265,synthetic_business_assumption
+Malaysia,Ready meal,Aggressive,76003,7.11,0.495,0.064,0.155,0.076,0.144,540381.33,499312.35,70902.35,0.142,synthetic_business_assumption
+Malaysia,Seaweed snack,Conservative,77609,3.12,0.489,0.076,0.123,0.087,0.084,242140.08,221073.89,50404.85,0.228,synthetic_business_assumption
+Malaysia,Seaweed snack,Base,88449,3.18,0.504,0.066,0.14,0.106,0.102,281267.82,251453.43,47273.25,0.188,synthetic_business_assumption
+Malaysia,Seaweed snack,Aggressive,120120,3.02,0.441,0.067,0.164,0.114,0.132,362762.4,321407.49,62995.87,0.196,synthetic_business_assumption
+Philippines,Korean ramen,Conservative,99856,2.47,0.406,0.099,0.09,0.11,0.09,246644.32,219513.44,69146.74,0.315,synthetic_business_assumption
+Philippines,Korean ramen,Base,116806,2.5,0.511,0.069,0.081,0.067,0.146,292015.0,272449.99,52582.85,0.193,synthetic_business_assumption
+Philippines,Korean ramen,Aggressive,143164,2.4,0.398,0.103,0.103,0.073,0.103,343593.6,318511.27,93323.8,0.293,synthetic_business_assumption
+Philippines,Kimchi,Conservative,34494,7.58,0.455,0.116,0.133,0.075,0.142,261464.52,241854.68,37245.62,0.154,synthetic_business_assumption
+Philippines,Kimchi,Base,49298,7.86,0.443,0.092,0.113,0.11,0.098,387482.28,344859.23,87594.24,0.254,synthetic_business_assumption
+Philippines,Kimchi,Aggressive,54424,6.95,0.412,0.094,0.109,0.072,0.153,378246.8,351013.03,81435.02,0.232,synthetic_business_assumption
+Philippines,Gochujang sauce,Conservative,43366,5.98,0.396,0.075,0.123,0.103,0.111,259328.68,232617.83,68622.26,0.295,synthetic_business_assumption
+Philippines,Gochujang sauce,Base,70905,6.2,0.515,0.086,0.096,0.094,0.135,439611.0,398287.57,66912.31,0.168,synthetic_business_assumption
+Philippines,Gochujang sauce,Aggressive,68864,6.03,0.383,0.089,0.128,0.102,0.105,415249.92,372894.43,110003.86,0.295,synthetic_business_assumption
+Philippines,Frozen mandu,Conservative,46642,8.91,0.491,0.119,0.114,0.119,0.082,415580.22,366126.17,71028.48,0.194,synthetic_business_assumption
+Philippines,Frozen mandu,Base,51439,7.88,0.417,0.11,0.083,0.086,0.125,405339.32,370480.14,98177.24,0.265,synthetic_business_assumption
+Philippines,Frozen mandu,Aggressive,76066,8.66,0.491,0.068,0.126,0.093,0.135,658731.56,597469.52,107544.51,0.18,synthetic_business_assumption
+Philippines,Ready meal,Conservative,50487,7.27,0.438,0.084,0.07,0.089,0.137,367040.49,334373.89,90615.32,0.271,synthetic_business_assumption
+Philippines,Ready meal,Base,59204,6.35,0.489,0.082,0.099,0.097,0.096,375945.4,339478.7,79438.01,0.234,synthetic_business_assumption
+Philippines,Ready meal,Aggressive,109455,6.02,0.479,0.09,0.18,0.059,0.134,658919.1,620042.87,72545.02,0.117,synthetic_business_assumption
+Philippines,Seaweed snack,Conservative,69445,2.86,0.449,0.103,0.132,0.056,0.082,198612.7,187490.39,43872.75,0.234,synthetic_business_assumption
+Philippines,Seaweed snack,Base,101005,2.6,0.518,0.097,0.132,0.064,0.099,262613.0,245805.77,37854.09,0.154,synthetic_business_assumption
+Philippines,Seaweed snack,Aggressive,129244,3.16,0.518,0.072,0.109,0.054,0.149,408411.04,386356.84,58726.24,0.152,synthetic_business_assumption
+Singapore,Korean ramen,Conservative,82609,2.25,0.411,0.08,0.135,0.087,0.096,185870.25,169699.54,47176.47,0.278,synthetic_business_assumption
+Singapore,Korean ramen,Base,112071,2.46,0.383,0.068,0.136,0.058,0.098,275694.66,259704.37,81806.88,0.315,synthetic_business_assumption
+Singapore,Korean ramen,Aggressive,152327,2.72,0.462,0.101,0.15,0.098,0.08,414329.44,373725.15,77361.11,0.207,synthetic_business_assumption
+Singapore,Kimchi,Conservative,39567,6.49,0.437,0.106,0.098,0.116,0.117,256789.83,227002.21,54934.53,0.242,synthetic_business_assumption
+Singapore,Kimchi,Base,51748,7.72,0.517,0.116,0.152,0.101,0.109,399494.56,359145.61,38069.43,0.106,synthetic_business_assumption
+Singapore,Kimchi,Aggressive,51178,7.51,0.517,0.104,0.185,0.106,0.093,384346.78,343606.02,34704.21,0.101,synthetic_business_assumption
+Singapore,Gochujang sauce,Conservative,40485,5.42,0.404,0.095,0.134,0.103,0.114,219428.7,196827.54,49797.37,0.253,synthetic_business_assumption
+Singapore,Gochujang sauce,Base,48108,5.38,0.454,0.079,0.089,0.081,0.1,258821.04,237856.54,66124.12,0.278,synthetic_business_assumption
+Singapore,Gochujang sauce,Aggressive,94259,5.09,0.387,0.06,0.127,0.096,0.138,479778.31,433719.59,124911.24,0.288,synthetic_business_assumption
+Singapore,Frozen mandu,Conservative,40478,9.1,0.43,0.1,0.071,0.077,0.143,368349.8,339986.87,87036.64,0.256,synthetic_business_assumption
+Singapore,Frozen mandu,Base,61666,9.17,0.409,0.075,0.16,0.057,0.094,565477.22,533245.02,139710.19,0.262,synthetic_business_assumption
+Singapore,Frozen mandu,Aggressive,63261,8.35,0.409,0.09,0.142,0.113,0.083,528229.35,468539.43,129316.88,0.276,synthetic_business_assumption
+Singapore,Ready meal,Conservative,48717,6.82,0.465,0.089,0.123,0.054,0.145,332249.94,314308.44,55946.9,0.178,synthetic_business_assumption
+Singapore,Ready meal,Base,69853,6.07,0.504,0.099,0.093,0.052,0.091,424007.71,401959.31,85617.33,0.213,synthetic_business_assumption
+Singapore,Ready meal,Aggressive,98612,6.14,0.412,0.062,0.165,0.107,0.144,605477.68,540691.57,117330.07,0.217,synthetic_business_assumption
+Singapore,Seaweed snack,Conservative,57444,3.15,0.474,0.114,0.098,0.081,0.143,180948.6,166291.76,28435.89,0.171,synthetic_business_assumption
+Singapore,Seaweed snack,Base,75358,2.88,0.497,0.11,0.156,0.099,0.097,217031.04,195544.97,27376.3,0.14,synthetic_business_assumption
+Singapore,Seaweed snack,Aggressive,98185,2.86,0.452,0.074,0.108,0.091,0.141,280809.1,255255.47,57432.48,0.225,synthetic_business_assumption
+Thailand,Korean ramen,Conservative,107753,2.72,0.491,0.097,0.135,0.095,0.149,293088.16,265244.78,33951.33,0.128,synthetic_business_assumption
+Thailand,Korean ramen,Base,141397,2.83,0.433,0.065,0.094,0.054,0.088,400153.51,378545.22,121134.47,0.32,synthetic_business_assumption
+Thailand,Korean ramen,Aggressive,141565,2.46,0.456,0.103,0.116,0.097,0.136,348249.9,314469.66,59434.77,0.189,synthetic_business_assumption
+Thailand,Kimchi,Conservative,34541,7.88,0.396,0.071,0.097,0.059,0.125,272183.08,256124.28,79654.65,0.311,synthetic_business_assumption
+Thailand,Kimchi,Base,43171,6.8,0.404,0.08,0.129,0.09,0.093,293562.8,267142.15,78539.79,0.294,synthetic_business_assumption
+Thailand,Kimchi,Aggressive,51635,6.35,0.382,0.113,0.1,0.101,0.15,327882.25,294766.14,75165.37,0.255,synthetic_business_assumption
+Thailand,Gochujang sauce,Conservative,37765,5.55,0.515,0.11,0.101,0.103,0.147,209595.75,188007.39,23876.94,0.127,synthetic_business_assumption
+Thailand,Gochujang sauce,Base,56352,6.18,0.446,0.092,0.16,0.109,0.109,348255.36,310295.53,59887.04,0.193,synthetic_business_assumption
+Thailand,Gochujang sauce,Aggressive,65135,5.81,0.479,0.099,0.189,0.11,0.116,378434.35,336806.57,39406.37,0.117,synthetic_business_assumption
+Thailand,Frozen mandu,Conservative,34037,8.66,0.476,0.096,0.105,0.083,0.104,294760.42,270295.31,59194.67,0.219,synthetic_business_assumption
+Thailand,Frozen mandu,Base,50101,8.71,0.402,0.08,0.106,0.091,0.085,436379.71,396669.16,129710.81,0.327,synthetic_business_assumption
+Thailand,Frozen mandu,Aggressive,84041,8.85,0.474,0.102,0.124,0.083,0.156,743762.85,682030.53,98212.4,0.144,synthetic_business_assumption
+Thailand,Ready meal,Conservative,58100,7.43,0.484,0.071,0.072,0.09,0.109,431683.0,392831.53,103707.52,0.264,synthetic_business_assumption
+Thailand,Ready meal,Base,63712,7.16,0.431,0.079,0.148,0.109,0.109,456177.92,406454.53,94703.9,0.233,synthetic_business_assumption
+Thailand,Ready meal,Aggressive,107068,7.23,0.439,0.064,0.096,0.087,0.108,774101.64,706754.8,207079.16,0.293,synthetic_business_assumption
+Thailand,Seaweed snack,Conservative,80922,3.06,0.487,0.117,0.128,0.072,0.093,247621.32,229792.58,40213.7,0.175,synthetic_business_assumption
+Thailand,Seaweed snack,Base,98852,2.78,0.446,0.098,0.153,0.079,0.143,274808.56,253098.68,40495.79,0.16,synthetic_business_assumption
+Thailand,Seaweed snack,Aggressive,110241,3.01,0.38,0.112,0.099,0.1,0.084,331825.41,298642.87,97058.93,0.325,synthetic_business_assumption
+Viet Nam,Korean ramen,Conservative,81584,2.56,0.439,0.072,0.091,0.101,0.134,208855.04,187760.68,49568.82,0.264,synthetic_business_assumption
+Viet Nam,Korean ramen,Base,99447,2.72,0.387,0.093,0.101,0.091,0.101,270495.84,245880.72,78190.07,0.318,synthetic_business_assumption
+Viet Nam,Korean ramen,Aggressive,193425,2.44,0.414,0.077,0.182,0.095,0.138,471957.0,427121.09,80725.89,0.189,synthetic_business_assumption
+Viet Nam,Kimchi,Conservative,39393,7.9,0.483,0.072,0.125,0.064,0.139,311204.7,291287.6,52723.06,0.181,synthetic_business_assumption
+Viet Nam,Kimchi,Base,48340,7.63,0.455,0.098,0.156,0.057,0.105,368834.2,347810.65,64692.78,0.186,synthetic_business_assumption
+Viet Nam,Kimchi,Aggressive,63455,7.99,0.393,0.061,0.101,0.054,0.153,507005.45,479627.16,140051.13,0.292,synthetic_business_assumption
+Viet Nam,Gochujang sauce,Conservative,48982,5.88,0.453,0.107,0.079,0.077,0.119,288014.16,265837.07,64332.57,0.242,synthetic_business_assumption
+Viet Nam,Gochujang sauce,Base,50649,5.53,0.424,0.062,0.091,0.103,0.081,280088.97,251239.81,85924.01,0.342,synthetic_business_assumption
+Viet Nam,Gochujang sauce,Aggressive,95069,5.07,0.492,0.114,0.186,0.111,0.103,481999.83,428497.85,44992.27,0.105,synthetic_business_assumption
+Viet Nam,Frozen mandu,Conservative,38495,8.56,0.4,0.061,0.127,0.089,0.129,329517.2,300190.17,84953.82,0.283,synthetic_business_assumption
+Viet Nam,Frozen mandu,Base,64393,9.06,0.477,0.107,0.089,0.075,0.157,583400.58,539645.54,91739.74,0.17,synthetic_business_assumption
+Viet Nam,Frozen mandu,Aggressive,86811,9.53,0.443,0.111,0.101,0.06,0.113,827308.83,777670.3,180419.51,0.232,synthetic_business_assumption
+Viet Nam,Ready meal,Conservative,52151,6.28,0.43,0.07,0.101,0.106,0.133,327508.28,292792.4,77882.78,0.266,synthetic_business_assumption
+Viet Nam,Ready meal,Base,59018,6.64,0.478,0.092,0.111,0.094,0.157,391879.52,355042.85,57516.94,0.162,synthetic_business_assumption
+Viet Nam,Ready meal,Aggressive,79187,6.48,0.437,0.095,0.111,0.062,0.103,513131.76,481317.59,122254.67,0.254,synthetic_business_assumption
+Viet Nam,Seaweed snack,Conservative,79808,3.03,0.473,0.109,0.077,0.11,0.128,241818.24,215218.23,45841.48,0.213,synthetic_business_assumption
+Viet Nam,Seaweed snack,Base,84071,3.09,0.492,0.111,0.089,0.118,0.157,259779.39,229125.42,34597.94,0.151,synthetic_business_assumption
+Viet Nam,Seaweed snack,Aggressive,114573,2.57,0.403,0.12,0.15,0.075,0.103,294452.61,272368.66,61010.58,0.224,synthetic_business_assumption
+United States,Korean ramen,Conservative,81251,2.67,0.439,0.118,0.115,0.105,0.103,216940.17,194161.45,43686.33,0.225,synthetic_business_assumption
+United States,Korean ramen,Base,99800,2.55,0.424,0.072,0.156,0.081,0.094,254490.0,233876.31,59404.58,0.254,synthetic_business_assumption
+United States,Korean ramen,Aggressive,142472,2.43,0.52,0.076,0.128,0.096,0.104,346206.96,312971.09,53831.03,0.172,synthetic_business_assumption
+United States,Kimchi,Conservative,29913,6.58,0.424,0.066,0.069,0.106,0.091,196827.54,175963.82,61587.34,0.35,synthetic_business_assumption
+United States,Kimchi,Base,49967,7.7,0.455,0.079,0.092,0.102,0.128,384745.9,345501.82,84993.45,0.246,synthetic_business_assumption
+United States,Kimchi,Aggressive,64527,6.32,0.51,0.064,0.131,0.078,0.08,407810.64,376001.41,80840.3,0.215,synthetic_business_assumption
+United States,Gochujang sauce,Conservative,44947,5.99,0.495,0.113,0.101,0.094,0.086,269232.53,243924.67,50004.56,0.205,synthetic_business_assumption
+United States,Gochujang sauce,Base,59712,5.16,0.432,0.08,0.114,0.09,0.152,308113.92,280383.67,62245.17,0.222,synthetic_business_assumption
+United States,Gochujang sauce,Aggressive,77581,6.3,0.486,0.091,0.158,0.057,0.148,488760.3,460900.96,53925.41,0.117,synthetic_business_assumption
+United States,Frozen mandu,Conservative,42608,9.75,0.469,0.11,0.122,0.074,0.101,415428.0,384686.33,76167.89,0.198,synthetic_business_assumption
+United States,Frozen mandu,Base,53470,8.64,0.414,0.114,0.123,0.118,0.145,461980.8,407467.07,83123.28,0.204,synthetic_business_assumption
+United States,Frozen mandu,Aggressive,75904,9.66,0.451,0.113,0.13,0.077,0.113,733232.64,676773.73,130617.33,0.193,synthetic_business_assumption
+United States,Ready meal,Conservative,53479,6.75,0.449,0.078,0.131,0.091,0.113,360983.25,328133.77,75142.63,0.229,synthetic_business_assumption
+United States,Ready meal,Base,74232,7.1,0.515,0.09,0.089,0.081,0.118,527047.2,484356.38,91059.0,0.188,synthetic_business_assumption
+United States,Ready meal,Aggressive,109506,6.49,0.513,0.089,0.189,0.051,0.152,710693.94,674448.55,38443.57,0.057,synthetic_business_assumption
+United States,Seaweed snack,Conservative,79140,3.19,0.382,0.07,0.112,0.052,0.085,252456.6,239328.86,84004.43,0.351,synthetic_business_assumption
+United States,Seaweed snack,Base,79958,2.88,0.456,0.062,0.094,0.085,0.128,230279.04,210705.32,54783.38,0.26,synthetic_business_assumption
+United States,Seaweed snack,Aggressive,104412,2.8,0.507,0.12,0.191,0.112,0.112,292353.6,259610.0,18172.7,0.07,synthetic_business_assumption
+Australia,Korean ramen,Conservative,96716,2.51,0.471,0.079,0.109,0.087,0.082,242757.16,221637.29,57404.06,0.259,synthetic_business_assumption
+Australia,Korean ramen,Base,133953,2.26,0.421,0.06,0.11,0.054,0.153,302733.78,286386.16,73314.86,0.256,synthetic_business_assumption
+Australia,Korean ramen,Aggressive,156536,2.54,0.429,0.098,0.171,0.095,0.14,397601.44,359829.3,58292.35,0.162,synthetic_business_assumption
+Australia,Kimchi,Conservative,39230,7.81,0.474,0.073,0.111,0.085,0.137,306386.3,280343.46,57470.41,0.205,synthetic_business_assumption
+Australia,Kimchi,Base,50992,7.6,0.499,0.064,0.083,0.068,0.152,387539.2,361186.53,72959.68,0.202,synthetic_business_assumption
+Australia,Kimchi,Aggressive,68614,7.49,0.478,0.104,0.186,0.108,0.13,513918.86,458415.62,46758.39,0.102,synthetic_business_assumption
+Australia,Gochujang sauce,Conservative,47982,5.24,0.472,0.085,0.078,0.106,0.121,251425.68,224774.56,54844.99,0.244,synthetic_business_assumption
+Australia,Gochujang sauce,Base,71458,5.34,0.447,0.087,0.09,0.08,0.103,381585.72,351058.86,95839.07,0.273,synthetic_business_assumption
+Australia,Gochujang sauce,Aggressive,69994,5.34,0.413,0.104,0.099,0.093,0.141,373767.96,339007.54,82378.83,0.243,synthetic_business_assumption
+Australia,Frozen mandu,Conservative,40931,9.63,0.479,0.105,0.081,0.104,0.147,394165.53,353172.31,66396.4,0.188,synthetic_business_assumption
+Australia,Frozen mandu,Base,51947,8.1,0.434,0.104,0.113,0.102,0.089,420770.7,377852.09,98241.54,0.26,synthetic_business_assumption
+Australia,Frozen mandu,Aggressive,83338,8.19,0.415,0.095,0.103,0.052,0.101,682538.22,647046.23,185055.22,0.286,synthetic_business_assumption
+Australia,Ready meal,Conservative,53299,7.32,0.499,0.089,0.071,0.087,0.136,390148.68,356205.74,73022.18,0.205,synthetic_business_assumption
+Australia,Ready meal,Base,65496,6.03,0.419,0.106,0.108,0.107,0.106,394940.88,352682.21,92050.06,0.261,synthetic_business_assumption
+Australia,Ready meal,Aggressive,81782,6.56,0.443,0.061,0.107,0.063,0.089,536489.92,502691.06,150807.32,0.3,synthetic_business_assumption
+Australia,Seaweed snack,Conservative,63221,3.2,0.451,0.098,0.092,0.073,0.082,202307.2,187538.77,51948.24,0.277,synthetic_business_assumption
+Australia,Seaweed snack,Base,90012,2.86,0.402,0.106,0.119,0.074,0.092,257434.32,238384.18,66985.95,0.281,synthetic_business_assumption
+Australia,Seaweed snack,Aggressive,124035,3.05,0.419,0.073,0.146,0.061,0.133,378306.75,355230.04,81347.68,0.229,synthetic_business_assumption

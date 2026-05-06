@@ -1,0 +1,385 @@
+product_id,country,platform,category,brand_type,anonymous_brand,product_name,pack_size_g,price_local,currency,price_usd,price_per_100g,rating,review_count,halal_claim,product_format,positioning,data_type
+P0001,Indonesia,Shopee ID,Korean ramen,Korean Brand,Korean Brand E,Spicy Ramen - single pack,182,59365.0,IDR,3.83,2.1,4.4,51,True,single pack,mainstream,synthetic_anonymized
+P0002,Indonesia,Shopee ID,Korean ramen,Local Brand,Local Brand G,Mild Ramen - single pack,201,20305.0,IDR,1.31,0.65,4.2,135,False,single pack,value,synthetic_anonymized
+P0003,Indonesia,Shopee ID,Korean ramen,Local Brand,Local Brand T,Cheese Ramen - cup noodle,388,68200.0,IDR,4.4,1.13,4.1,146,True,cup noodle,mainstream,synthetic_anonymized
+P0004,Indonesia,Shopee ID,Korean ramen,Local Brand,Local Brand F,Cheese Ramen - single pack,356,50220.0,IDR,3.24,0.91,4.3,61,True,single pack,mainstream,synthetic_anonymized
+P0005,Indonesia,Tokopedia,Korean ramen,Korean Brand,Korean Brand D,Spicy Ramen - multi-pack,555,54560.0,IDR,3.52,0.63,4.1,27,True,multi-pack,value,synthetic_anonymized
+P0006,Indonesia,Tokopedia,Korean ramen,Korean Brand,Korean Brand J,Spicy Ramen - cup noodle,323,57195.0,IDR,3.69,1.14,4.2,60,True,cup noodle,premium,synthetic_anonymized
+P0007,Indonesia,Tokopedia,Korean ramen,Local Brand,Local Brand C,Kimchi Ramen - multi-pack,467,91915.0,IDR,5.93,1.27,4.4,43,True,multi-pack,premium,synthetic_anonymized
+P0008,Indonesia,Tokopedia,Korean ramen,Local Brand,Local Brand X,Mild Ramen - single pack,171,41075.0,IDR,2.65,1.55,4.2,34,True,single pack,mainstream,synthetic_anonymized
+P0009,Indonesia,Tokopedia,Kimchi,Premium Import Brand,Premium Import Brand N,Original Kimchi - jar,355,129425.0,IDR,8.35,2.35,4.3,151,True,jar,premium,synthetic_anonymized
+P0010,Indonesia,Tokopedia,Kimchi,Local Brand,Local Brand M,Fresh Kimchi - pouch,921,78585.0,IDR,5.07,0.55,4.5,105,True,pouch,mainstream,synthetic_anonymized
+P0011,Indonesia,Tokopedia,Kimchi,Japanese Brand,Japanese Brand V,Fresh Kimchi - jar,876,122915.0,IDR,7.93,0.91,4.3,394,False,jar,mainstream,synthetic_anonymized
+P0012,Indonesia,Shopee ID,Kimchi,Korean Brand,Korean Brand Y,Fresh Kimchi - fresh pack,366,91295.0,IDR,5.89,1.61,3.9,101,False,fresh pack,mainstream,synthetic_anonymized
+P0013,Indonesia,Tokopedia,Kimchi,Private Label,Private Label B,Original Kimchi - jar,214,74245.0,IDR,4.79,2.24,4.1,23,True,jar,premium,synthetic_anonymized
+P0014,Indonesia,Tokopedia,Kimchi,Korean Brand,Korean Brand Y,Original Kimchi - fresh pack,648,132060.0,IDR,8.52,1.31,3.7,41,False,fresh pack,value,synthetic_anonymized
+P0015,Indonesia,Shopee ID,Kimchi,Japanese Brand,Japanese Brand Q,Fresh Kimchi - fresh pack,989,113460.0,IDR,7.32,0.74,4.2,45,False,fresh pack,mainstream,synthetic_anonymized
+P0016,Indonesia,Tokopedia,Kimchi,Korean Brand,Korean Brand J,Mild Kimchi - fresh pack,954,150350.0,IDR,9.7,1.02,4.5,117,True,fresh pack,mainstream,synthetic_anonymized
+P0017,Indonesia,Tokopedia,Gochujang sauce,Korean Brand,Korean Brand S,Korean Chili Sauce - tube,812,214985.0,IDR,13.87,1.71,4.2,83,True,tube,premium,synthetic_anonymized
+P0018,Indonesia,Shopee ID,Gochujang sauce,Japanese Brand,Japanese Brand W,Gochujang Sauce - tube,994,129115.0,IDR,8.33,0.84,4.5,35,True,tube,premium,synthetic_anonymized
+P0019,Indonesia,Tokopedia,Gochujang sauce,Local Brand,Local Brand Q,Sweet Spicy Sauce - squeeze bottle,295,115630.0,IDR,7.46,2.53,4.4,35,False,squeeze bottle,mainstream,synthetic_anonymized
+P0020,Indonesia,Tokopedia,Gochujang sauce,Premium Import Brand,Premium Import Brand X,Sweet Spicy Sauce - tube,740,79360.0,IDR,5.12,0.69,4.2,29,False,tube,premium,synthetic_anonymized
+P0021,Indonesia,Shopee ID,Gochujang sauce,Japanese Brand,Japanese Brand W,Korean Chili Sauce - jar,756,74090.0,IDR,4.78,0.63,4.2,38,True,jar,mainstream,synthetic_anonymized
+P0022,Indonesia,Shopee ID,Gochujang sauce,Korean Brand,Korean Brand Z,Sweet Spicy Sauce - tube,539,116715.0,IDR,7.53,1.4,3.7,40,True,tube,value,synthetic_anonymized
+P0023,Indonesia,Tokopedia,Gochujang sauce,Premium Import Brand,Premium Import Brand D,Sweet Spicy Sauce - squeeze bottle,832,191735.0,IDR,12.37,1.49,4.5,37,True,squeeze bottle,premium,synthetic_anonymized
+P0024,Indonesia,Tokopedia,Gochujang sauce,Private Label,Private Label E,Korean Chili Sauce - tube,876,115320.0,IDR,7.44,0.85,3.9,43,True,tube,mainstream,synthetic_anonymized
+P0025,Indonesia,Shopee ID,Frozen mandu,Local Brand,Local Brand A,Vegetable Mandu - value pack,971,203825.0,IDR,13.15,1.35,4.5,42,False,value pack,premium,synthetic_anonymized
+P0026,Indonesia,Tokopedia,Frozen mandu,Korean Brand,Korean Brand H,Pork Mandu - family pack,809,243815.0,IDR,15.73,1.94,4.3,41,True,family pack,premium,synthetic_anonymized
+P0027,Indonesia,Shopee ID,Frozen mandu,Private Label,Private Label Z,Kimchi Mandu - frozen bag,684,119815.0,IDR,7.73,1.13,4.5,44,True,frozen bag,premium,synthetic_anonymized
+P0028,Indonesia,Shopee ID,Frozen mandu,Premium Import Brand,Premium Import Brand E,Kimchi Mandu - frozen bag,1135,74555.0,IDR,4.81,0.42,3.8,49,False,frozen bag,mainstream,synthetic_anonymized
+P0029,Indonesia,Shopee ID,Frozen mandu,Korean Brand,Korean Brand G,Chicken Mandu - family pack,1136,224595.0,IDR,14.49,1.28,4.2,47,False,family pack,premium,synthetic_anonymized
+P0030,Indonesia,Tokopedia,Frozen mandu,Korean Brand,Korean Brand Q,Kimchi Mandu - family pack,423,140740.0,IDR,9.08,2.15,4.5,132,True,family pack,mainstream,synthetic_anonymized
+P0031,Indonesia,Shopee ID,Frozen mandu,Korean Brand,Korean Brand U,Chicken Mandu - frozen bag,702,157015.0,IDR,10.13,1.44,3.7,42,False,frozen bag,value,synthetic_anonymized
+P0032,Indonesia,Shopee ID,Frozen mandu,Korean Brand,Korean Brand H,Pork Mandu - frozen bag,939,142290.0,IDR,9.18,0.98,4.4,207,False,frozen bag,mainstream,synthetic_anonymized
+P0033,Indonesia,Shopee ID,Ready meal,Private Label,Private Label J,Bulgogi Meal - microwave bowl,350,104160.0,IDR,6.72,1.92,3.8,34,False,microwave bowl,value,synthetic_anonymized
+P0034,Indonesia,Shopee ID,Ready meal,Local Brand,Local Brand U,Bulgogi Meal - frozen tray,259,84630.0,IDR,5.46,2.11,4.6,103,True,frozen tray,mainstream,synthetic_anonymized
+P0035,Indonesia,Shopee ID,Ready meal,Private Label,Private Label D,Bibimbap Bowl - microwave bowl,432,136555.0,IDR,8.81,2.04,4.6,118,True,microwave bowl,premium,synthetic_anonymized
+P0036,Indonesia,Tokopedia,Ready meal,Korean Brand,Korean Brand B,Bibimbap Bowl - frozen tray,303,124775.0,IDR,8.05,2.66,4.3,30,True,frozen tray,mainstream,synthetic_anonymized
+P0037,Indonesia,Shopee ID,Ready meal,Korean Brand,Korean Brand H,Tteokbokki Meal - microwave bowl,407,169880.0,IDR,10.96,2.69,3.8,87,True,microwave bowl,mainstream,synthetic_anonymized
+P0038,Indonesia,Shopee ID,Ready meal,Local Brand,Local Brand J,Bulgogi Meal - microwave bowl,591,134850.0,IDR,8.7,1.47,3.7,62,True,microwave bowl,value,synthetic_anonymized
+P0039,Indonesia,Shopee ID,Ready meal,Private Label,Private Label D,Bibimbap Bowl - frozen tray,574,72385.0,IDR,4.67,0.81,4.0,79,False,frozen tray,value,synthetic_anonymized
+P0040,Indonesia,Shopee ID,Ready meal,Premium Import Brand,Premium Import Brand F,Bulgogi Meal - microwave bowl,226,198090.0,IDR,12.78,5.65,4.4,393,True,microwave bowl,premium,synthetic_anonymized
+P0041,Indonesia,Tokopedia,Seaweed snack,Local Brand,Local Brand F,Seaweed Snack - snack pack,70,64015.0,IDR,4.13,5.9,4.4,52,True,snack pack,premium,synthetic_anonymized
+P0042,Indonesia,Shopee ID,Seaweed snack,Premium Import Brand,Premium Import Brand K,Seaweed Snack - multi-pack,15,38440.0,IDR,2.48,16.53,4.4,84,False,multi-pack,mainstream,synthetic_anonymized
+P0043,Indonesia,Tokopedia,Seaweed snack,Korean Brand,Korean Brand U,Seaweed Crisps - snack pack,72,34410.0,IDR,2.22,3.08,4.0,43,True,snack pack,mainstream,synthetic_anonymized
+P0044,Indonesia,Shopee ID,Seaweed snack,Japanese Brand,Japanese Brand R,Seaweed Crisps - tray pack,27,46810.0,IDR,3.02,11.19,4.3,266,True,tray pack,value,synthetic_anonymized
+P0045,Indonesia,Shopee ID,Seaweed snack,Korean Brand,Korean Brand C,Seaweed Crisps - snack pack,41,57040.0,IDR,3.68,8.98,3.8,45,True,snack pack,mainstream,synthetic_anonymized
+P0046,Indonesia,Shopee ID,Seaweed snack,Japanese Brand,Japanese Brand U,Roasted Seaweed - snack pack,99,54560.0,IDR,3.52,3.56,3.6,189,True,snack pack,value,synthetic_anonymized
+P0047,Indonesia,Shopee ID,Seaweed snack,Local Brand,Local Brand U,Seaweed Crisps - tray pack,35,65720.0,IDR,4.24,12.11,4.4,2885,False,tray pack,mainstream,synthetic_anonymized
+P0048,Indonesia,Tokopedia,Seaweed snack,Premium Import Brand,Premium Import Brand L,Roasted Seaweed - tray pack,74,16430.0,IDR,1.06,1.43,4.1,37,True,tray pack,value,synthetic_anonymized
+P0049,Malaysia,Lazada MY,Korean ramen,Korean Brand,Korean Brand Q,Kimchi Ramen - multi-pack,130,12.88,MYR,2.74,2.11,3.6,124,True,multi-pack,mainstream,synthetic_anonymized
+P0050,Malaysia,Shopee MY,Korean ramen,Korean Brand,Korean Brand D,Spicy Ramen - cup noodle,421,9.54,MYR,2.03,0.48,3.6,132,False,cup noodle,mainstream,synthetic_anonymized
+P0051,Malaysia,Shopee MY,Korean ramen,Local Brand,Local Brand C,Mild Ramen - multi-pack,84,11.7,MYR,2.49,2.96,3.9,17,True,multi-pack,value,synthetic_anonymized
+P0052,Malaysia,Lazada MY,Korean ramen,Korean Brand,Korean Brand Y,Kimchi Ramen - cup noodle,348,20.68,MYR,4.4,1.26,3.8,15,False,cup noodle,mainstream,synthetic_anonymized
+P0053,Malaysia,Shopee MY,Korean ramen,Japanese Brand,Japanese Brand D,Mild Ramen - cup noodle,425,6.02,MYR,1.28,0.3,4.0,401,True,cup noodle,mainstream,synthetic_anonymized
+P0054,Malaysia,Lazada MY,Korean ramen,Korean Brand,Korean Brand E,Kimchi Ramen - cup noodle,592,9.96,MYR,2.12,0.36,4.1,91,True,cup noodle,value,synthetic_anonymized
+P0055,Malaysia,Lazada MY,Korean ramen,Local Brand,Local Brand X,Kimchi Ramen - single pack,526,12.41,MYR,2.64,0.5,3.8,110,True,single pack,mainstream,synthetic_anonymized
+P0056,Malaysia,Lazada MY,Korean ramen,Korean Brand,Korean Brand C,Cheese Ramen - single pack,364,8.7,MYR,1.85,0.51,4.4,199,True,single pack,premium,synthetic_anonymized
+P0057,Malaysia,Lazada MY,Kimchi,Korean Brand,Korean Brand W,Original Kimchi - jar,581,48.69,MYR,10.36,1.78,4.1,13,False,jar,mainstream,synthetic_anonymized
+P0058,Malaysia,Shopee MY,Kimchi,Japanese Brand,Japanese Brand T,Cabbage Kimchi - pouch,911,41.03,MYR,8.73,0.96,4.1,101,True,pouch,mainstream,synthetic_anonymized
+P0059,Malaysia,Shopee MY,Kimchi,Korean Brand,Korean Brand T,Cabbage Kimchi - jar,911,72.57,MYR,15.44,1.69,4.9,62,False,jar,premium,synthetic_anonymized
+P0060,Malaysia,Lazada MY,Kimchi,Local Brand,Local Brand B,Original Kimchi - jar,485,31.82,MYR,6.77,1.4,4.3,61,False,jar,value,synthetic_anonymized
+P0061,Malaysia,Lazada MY,Kimchi,Private Label,Private Label M,Fresh Kimchi - jar,839,47.28,MYR,10.06,1.2,4.6,64,False,jar,premium,synthetic_anonymized
+P0062,Malaysia,Shopee MY,Kimchi,Japanese Brand,Japanese Brand P,Fresh Kimchi - fresh pack,726,54.85,MYR,11.67,1.61,4.1,108,True,fresh pack,mainstream,synthetic_anonymized
+P0063,Malaysia,Shopee MY,Kimchi,Private Label,Private Label P,Cabbage Kimchi - jar,751,37.69,MYR,8.02,1.07,4.9,43,True,jar,premium,synthetic_anonymized
+P0064,Malaysia,Shopee MY,Kimchi,Japanese Brand,Japanese Brand X,Fresh Kimchi - pouch,224,51.51,MYR,10.96,4.89,4.5,158,True,pouch,mainstream,synthetic_anonymized
+P0065,Malaysia,Lazada MY,Gochujang sauce,Korean Brand,Korean Brand B,Korean Chili Sauce - jar,593,26.51,MYR,5.64,0.95,4.9,411,False,jar,mainstream,synthetic_anonymized
+P0066,Malaysia,Shopee MY,Gochujang sauce,Korean Brand,Korean Brand K,Gochujang Sauce - jar,747,36.33,MYR,7.73,1.03,4.6,38,False,jar,premium,synthetic_anonymized
+P0067,Malaysia,Shopee MY,Gochujang sauce,Korean Brand,Korean Brand J,Gochujang Sauce - jar,568,31.02,MYR,6.6,1.16,3.8,16,False,jar,value,synthetic_anonymized
+P0068,Malaysia,Lazada MY,Gochujang sauce,Korean Brand,Korean Brand T,Korean Chili Sauce - squeeze bottle,795,39.2,MYR,8.34,1.05,4.5,68,True,squeeze bottle,mainstream,synthetic_anonymized
+P0069,Malaysia,Shopee MY,Gochujang sauce,Korean Brand,Korean Brand U,Korean Chili Sauce - tube,595,64.53,MYR,13.73,2.31,4.5,40,False,tube,premium,synthetic_anonymized
+P0070,Malaysia,Shopee MY,Gochujang sauce,Korean Brand,Korean Brand L,Korean Chili Sauce - squeeze bottle,763,31.21,MYR,6.64,0.87,4.0,591,True,squeeze bottle,mainstream,synthetic_anonymized
+P0071,Malaysia,Shopee MY,Gochujang sauce,Korean Brand,Korean Brand B,Sweet Spicy Sauce - jar,224,30.6,MYR,6.51,2.91,4.1,112,False,jar,mainstream,synthetic_anonymized
+P0072,Malaysia,Lazada MY,Gochujang sauce,Korean Brand,Korean Brand X,Sweet Spicy Sauce - squeeze bottle,385,20.49,MYR,4.36,1.13,4.7,39,True,squeeze bottle,premium,synthetic_anonymized
+P0073,Malaysia,Shopee MY,Frozen mandu,Korean Brand,Korean Brand L,Vegetable Mandu - value pack,957,57.11,MYR,12.15,1.27,4.1,58,False,value pack,value,synthetic_anonymized
+P0074,Malaysia,Shopee MY,Frozen mandu,Japanese Brand,Japanese Brand X,Kimchi Mandu - family pack,473,51.75,MYR,11.01,2.33,4.1,110,True,family pack,mainstream,synthetic_anonymized
+P0075,Malaysia,Lazada MY,Frozen mandu,Korean Brand,Korean Brand G,Kimchi Mandu - frozen bag,638,46.11,MYR,9.81,1.54,4.4,76,True,frozen bag,mainstream,synthetic_anonymized
+P0076,Malaysia,Lazada MY,Frozen mandu,Japanese Brand,Japanese Brand U,Vegetable Mandu - value pack,1103,43.19,MYR,9.19,0.83,4.5,145,True,value pack,premium,synthetic_anonymized
+P0077,Malaysia,Lazada MY,Frozen mandu,Local Brand,Local Brand G,Kimchi Mandu - family pack,1157,28.72,MYR,6.11,0.53,3.8,14,True,family pack,value,synthetic_anonymized
+P0078,Malaysia,Lazada MY,Frozen mandu,Local Brand,Local Brand S,Kimchi Mandu - frozen bag,959,24.39,MYR,5.19,0.54,4.4,42,False,frozen bag,mainstream,synthetic_anonymized
+P0079,Malaysia,Shopee MY,Frozen mandu,Japanese Brand,Japanese Brand W,Vegetable Mandu - value pack,647,64.01,MYR,13.62,2.11,3.7,42,False,value pack,mainstream,synthetic_anonymized
+P0080,Malaysia,Shopee MY,Frozen mandu,Private Label,Private Label K,Chicken Mandu - value pack,416,73.98,MYR,15.74,3.78,4.5,98,False,value pack,premium,synthetic_anonymized
+P0081,Malaysia,Shopee MY,Ready meal,Korean Brand,Korean Brand V,Bibimbap Bowl - meal kit,428,22.56,MYR,4.8,1.12,3.7,22,False,meal kit,value,synthetic_anonymized
+P0082,Malaysia,Lazada MY,Ready meal,Korean Brand,Korean Brand Y,Bulgogi Meal - microwave bowl,253,37.04,MYR,7.88,3.11,4.2,216,True,microwave bowl,mainstream,synthetic_anonymized
+P0083,Malaysia,Lazada MY,Ready meal,Korean Brand,Korean Brand A,Bibimbap Bowl - frozen tray,207,19.74,MYR,4.2,2.03,3.4,33,True,frozen tray,value,synthetic_anonymized
+P0084,Malaysia,Lazada MY,Ready meal,Korean Brand,Korean Brand S,Bulgogi Meal - frozen tray,556,78.44,MYR,16.69,3.0,4.5,200,True,frozen tray,premium,synthetic_anonymized
+P0085,Malaysia,Shopee MY,Ready meal,Local Brand,Local Brand Q,Tteokbokki Meal - microwave bowl,411,47.42,MYR,10.09,2.45,4.4,75,True,microwave bowl,premium,synthetic_anonymized
+P0086,Malaysia,Lazada MY,Ready meal,Japanese Brand,Japanese Brand L,Bulgogi Meal - frozen tray,209,73.84,MYR,15.71,7.52,4.7,30,False,frozen tray,premium,synthetic_anonymized
+P0087,Malaysia,Lazada MY,Ready meal,Private Label,Private Label Z,Bulgogi Meal - microwave bowl,376,29.75,MYR,6.33,1.68,4.0,327,False,microwave bowl,mainstream,synthetic_anonymized
+P0088,Malaysia,Lazada MY,Ready meal,Korean Brand,Korean Brand J,Bulgogi Meal - frozen tray,376,38.82,MYR,8.26,2.2,3.3,31,True,frozen tray,value,synthetic_anonymized
+P0089,Malaysia,Shopee MY,Seaweed snack,Korean Brand,Korean Brand H,Seaweed Snack - multi-pack,15,15.18,MYR,3.23,21.53,4.2,64,False,multi-pack,value,synthetic_anonymized
+P0090,Malaysia,Lazada MY,Seaweed snack,Korean Brand,Korean Brand E,Roasted Seaweed - snack pack,62,22.47,MYR,4.78,7.71,4.1,157,True,snack pack,mainstream,synthetic_anonymized
+P0091,Malaysia,Lazada MY,Seaweed snack,Japanese Brand,Japanese Brand P,Seaweed Snack - snack pack,10,22.65,MYR,4.82,48.2,3.8,145,False,snack pack,mainstream,synthetic_anonymized
+P0092,Malaysia,Lazada MY,Seaweed snack,Local Brand,Local Brand P,Seaweed Snack - snack pack,41,5.59,MYR,1.19,2.9,3.0,70,False,snack pack,mainstream,synthetic_anonymized
+P0093,Malaysia,Shopee MY,Seaweed snack,Private Label,Private Label R,Roasted Seaweed - multi-pack,59,28.39,MYR,6.04,10.24,4.7,51,True,multi-pack,premium,synthetic_anonymized
+P0094,Malaysia,Lazada MY,Seaweed snack,Korean Brand,Korean Brand T,Seaweed Crisps - multi-pack,56,12.6,MYR,2.68,4.79,4.5,268,False,multi-pack,mainstream,synthetic_anonymized
+P0095,Malaysia,Shopee MY,Seaweed snack,Local Brand,Local Brand A,Seaweed Snack - multi-pack,47,16.31,MYR,3.47,7.38,4.3,111,False,multi-pack,mainstream,synthetic_anonymized
+P0096,Malaysia,Lazada MY,Seaweed snack,Japanese Brand,Japanese Brand F,Seaweed Snack - tray pack,88,19.55,MYR,4.16,4.73,4.5,7,False,tray pack,premium,synthetic_anonymized
+P0097,Philippines,Shopee PH,Korean ramen,Premium Import Brand,Premium Import Brand U,Spicy Ramen - multi-pack,185,226.8,PHP,4.05,2.19,4.2,184,False,multi-pack,mainstream,synthetic_anonymized
+P0098,Philippines,Shopee PH,Korean ramen,Japanese Brand,Japanese Brand F,Spicy Ramen - multi-pack,148,210.56,PHP,3.76,2.54,4.6,14,False,multi-pack,value,synthetic_anonymized
+P0099,Philippines,Lazada PH,Korean ramen,Korean Brand,Korean Brand L,Cheese Ramen - multi-pack,190,70.56,PHP,1.26,0.66,3.6,84,False,multi-pack,value,synthetic_anonymized
+P0100,Philippines,Lazada PH,Korean ramen,Japanese Brand,Japanese Brand C,Cheese Ramen - multi-pack,274,310.24,PHP,5.54,2.02,4.5,59,False,multi-pack,premium,synthetic_anonymized
+P0101,Philippines,Shopee PH,Korean ramen,Japanese Brand,Japanese Brand H,Spicy Ramen - multi-pack,84,107.52,PHP,1.92,2.29,4.1,35,False,multi-pack,value,synthetic_anonymized
+P0102,Philippines,Shopee PH,Korean ramen,Japanese Brand,Japanese Brand A,Mild Ramen - single pack,425,279.44,PHP,4.99,1.17,4.1,17,True,single pack,premium,synthetic_anonymized
+P0103,Philippines,Shopee PH,Korean ramen,Korean Brand,Korean Brand G,Cheese Ramen - cup noodle,126,183.12,PHP,3.27,2.6,4.5,51,False,cup noodle,mainstream,synthetic_anonymized
+P0104,Philippines,Lazada PH,Korean ramen,Private Label,Private Label Z,Spicy Ramen - cup noodle,332,213.92,PHP,3.82,1.15,4.0,57,False,cup noodle,value,synthetic_anonymized
+P0105,Philippines,Shopee PH,Kimchi,Premium Import Brand,Premium Import Brand K,Mild Kimchi - jar,227,374.08,PHP,6.68,2.94,4.3,72,False,jar,value,synthetic_anonymized
+P0106,Philippines,Lazada PH,Kimchi,Premium Import Brand,Premium Import Brand Y,Fresh Kimchi - fresh pack,900,194.32,PHP,3.47,0.39,3.5,12,True,fresh pack,value,synthetic_anonymized
+P0107,Philippines,Shopee PH,Kimchi,Japanese Brand,Japanese Brand V,Cabbage Kimchi - fresh pack,780,375.76,PHP,6.71,0.86,4.0,34,True,fresh pack,mainstream,synthetic_anonymized
+P0108,Philippines,Shopee PH,Kimchi,Korean Brand,Korean Brand C,Original Kimchi - pouch,294,358.96,PHP,6.41,2.18,3.5,63,False,pouch,mainstream,synthetic_anonymized
+P0109,Philippines,Shopee PH,Kimchi,Private Label,Private Label P,Original Kimchi - jar,295,324.24,PHP,5.79,1.96,4.8,68,False,jar,premium,synthetic_anonymized
+P0110,Philippines,Lazada PH,Kimchi,Japanese Brand,Japanese Brand S,Original Kimchi - fresh pack,744,376.32,PHP,6.72,0.9,4.5,69,False,fresh pack,mainstream,synthetic_anonymized
+P0111,Philippines,Lazada PH,Kimchi,Local Brand,Local Brand J,Original Kimchi - fresh pack,592,564.48,PHP,10.08,1.7,4.1,70,True,fresh pack,premium,synthetic_anonymized
+P0112,Philippines,Shopee PH,Kimchi,Private Label,Private Label H,Mild Kimchi - pouch,859,313.6,PHP,5.6,0.65,4.4,62,True,pouch,value,synthetic_anonymized
+P0113,Philippines,Lazada PH,Gochujang sauce,Korean Brand,Korean Brand F,Korean Chili Sauce - jar,317,253.68,PHP,4.53,1.43,4.4,37,False,jar,mainstream,synthetic_anonymized
+P0114,Philippines,Shopee PH,Gochujang sauce,Korean Brand,Korean Brand V,Sweet Spicy Sauce - jar,914,371.28,PHP,6.63,0.73,4.6,45,False,jar,mainstream,synthetic_anonymized
+P0115,Philippines,Lazada PH,Gochujang sauce,Local Brand,Local Brand C,Gochujang Sauce - tube,317,423.36,PHP,7.56,2.38,4.5,43,False,tube,mainstream,synthetic_anonymized
+P0116,Philippines,Lazada PH,Gochujang sauce,Local Brand,Local Brand R,Sweet Spicy Sauce - squeeze bottle,200,488.32,PHP,8.72,4.36,4.2,55,False,squeeze bottle,premium,synthetic_anonymized
+P0117,Philippines,Lazada PH,Gochujang sauce,Local Brand,Local Brand H,Korean Chili Sauce - jar,458,143.92,PHP,2.57,0.56,3.8,108,False,jar,value,synthetic_anonymized
+P0118,Philippines,Shopee PH,Gochujang sauce,Korean Brand,Korean Brand T,Sweet Spicy Sauce - jar,984,200.48,PHP,3.58,0.36,5.0,52,False,jar,mainstream,synthetic_anonymized
+P0119,Philippines,Lazada PH,Gochujang sauce,Local Brand,Local Brand M,Sweet Spicy Sauce - jar,294,505.68,PHP,9.03,3.07,4.4,52,False,jar,mainstream,synthetic_anonymized
+P0120,Philippines,Lazada PH,Gochujang sauce,Korean Brand,Korean Brand Z,Gochujang Sauce - tube,787,299.04,PHP,5.34,0.68,4.3,123,True,tube,mainstream,synthetic_anonymized
+P0121,Philippines,Lazada PH,Frozen mandu,Korean Brand,Korean Brand F,Chicken Mandu - value pack,648,302.4,PHP,5.4,0.83,4.0,152,False,value pack,mainstream,synthetic_anonymized
+P0122,Philippines,Shopee PH,Frozen mandu,Japanese Brand,Japanese Brand S,Vegetable Mandu - value pack,1024,328.16,PHP,5.86,0.57,4.5,28,False,value pack,mainstream,synthetic_anonymized
+P0123,Philippines,Shopee PH,Frozen mandu,Private Label,Private Label F,Vegetable Mandu - family pack,900,715.12,PHP,12.77,1.42,4.7,62,False,family pack,mainstream,synthetic_anonymized
+P0124,Philippines,Shopee PH,Frozen mandu,Japanese Brand,Japanese Brand B,Vegetable Mandu - frozen bag,825,636.72,PHP,11.37,1.38,3.0,212,False,frozen bag,value,synthetic_anonymized
+P0125,Philippines,Shopee PH,Frozen mandu,Local Brand,Local Brand A,Vegetable Mandu - frozen bag,444,948.64,PHP,16.94,3.82,4.7,48,False,frozen bag,premium,synthetic_anonymized
+P0126,Philippines,Lazada PH,Frozen mandu,Local Brand,Local Brand J,Kimchi Mandu - frozen bag,497,750.4,PHP,13.4,2.7,3.7,251,True,frozen bag,mainstream,synthetic_anonymized
+P0127,Philippines,Shopee PH,Frozen mandu,Private Label,Private Label U,Pork Mandu - frozen bag,314,716.24,PHP,12.79,4.07,4.8,87,False,frozen bag,mainstream,synthetic_anonymized
+P0128,Philippines,Shopee PH,Frozen mandu,Korean Brand,Korean Brand C,Chicken Mandu - family pack,456,309.12,PHP,5.52,1.21,3.9,43,False,family pack,mainstream,synthetic_anonymized
+P0129,Philippines,Shopee PH,Ready meal,Local Brand,Local Brand V,Tteokbokki Meal - frozen tray,453,281.68,PHP,5.03,1.11,4.2,471,False,frozen tray,mainstream,synthetic_anonymized
+P0130,Philippines,Lazada PH,Ready meal,Local Brand,Local Brand P,Korean Rice Bowl - frozen tray,317,540.96,PHP,9.66,3.05,4.2,37,False,frozen tray,mainstream,synthetic_anonymized
+P0131,Philippines,Shopee PH,Ready meal,Local Brand,Local Brand W,Tteokbokki Meal - microwave bowl,460,400.4,PHP,7.15,1.55,4.7,58,True,microwave bowl,mainstream,synthetic_anonymized
+P0132,Philippines,Lazada PH,Ready meal,Japanese Brand,Japanese Brand T,Bibimbap Bowl - microwave bowl,314,418.32,PHP,7.47,2.38,3.7,17,False,microwave bowl,value,synthetic_anonymized
+P0133,Philippines,Shopee PH,Ready meal,Korean Brand,Korean Brand R,Korean Rice Bowl - frozen tray,529,339.92,PHP,6.07,1.15,4.1,24,False,frozen tray,mainstream,synthetic_anonymized
+P0134,Philippines,Shopee PH,Ready meal,Korean Brand,Korean Brand Q,Bibimbap Bowl - frozen tray,562,260.4,PHP,4.65,0.83,4.3,971,False,frozen tray,mainstream,synthetic_anonymized
+P0135,Philippines,Shopee PH,Ready meal,Premium Import Brand,Premium Import Brand U,Tteokbokki Meal - frozen tray,310,694.96,PHP,12.41,4.0,4.8,76,False,frozen tray,premium,synthetic_anonymized
+P0136,Philippines,Lazada PH,Ready meal,Korean Brand,Korean Brand J,Tteokbokki Meal - microwave bowl,592,335.44,PHP,5.99,1.01,3.6,48,False,microwave bowl,value,synthetic_anonymized
+P0137,Philippines,Shopee PH,Seaweed snack,Korean Brand,Korean Brand Z,Seaweed Crisps - tray pack,45,127.68,PHP,2.28,5.07,4.5,107,False,tray pack,premium,synthetic_anonymized
+P0138,Philippines,Lazada PH,Seaweed snack,Local Brand,Local Brand Y,Seaweed Snack - multi-pack,30,141.12,PHP,2.52,8.4,4.0,163,False,multi-pack,mainstream,synthetic_anonymized
+P0139,Philippines,Lazada PH,Seaweed snack,Local Brand,Local Brand V,Roasted Seaweed - snack pack,35,130.48,PHP,2.33,6.66,4.5,11,False,snack pack,mainstream,synthetic_anonymized
+P0140,Philippines,Lazada PH,Seaweed snack,Japanese Brand,Japanese Brand C,Roasted Seaweed - snack pack,11,160.16,PHP,2.86,26.0,4.5,86,False,snack pack,mainstream,synthetic_anonymized
+P0141,Philippines,Shopee PH,Seaweed snack,Premium Import Brand,Premium Import Brand U,Roasted Seaweed - multi-pack,68,157.36,PHP,2.81,4.13,4.2,70,False,multi-pack,mainstream,synthetic_anonymized
+P0142,Philippines,Shopee PH,Seaweed snack,Local Brand,Local Brand F,Seaweed Crisps - multi-pack,79,63.84,PHP,1.14,1.44,4.6,48,False,multi-pack,mainstream,synthetic_anonymized
+P0143,Philippines,Lazada PH,Seaweed snack,Local Brand,Local Brand R,Seaweed Snack - snack pack,35,58.8,PHP,1.05,3.0,3.9,143,False,snack pack,mainstream,synthetic_anonymized
+P0144,Philippines,Lazada PH,Seaweed snack,Korean Brand,Korean Brand L,Seaweed Snack - snack pack,58,180.88,PHP,3.23,5.57,4.3,248,False,snack pack,mainstream,synthetic_anonymized
+P0145,Singapore,Shopee SG,Korean ramen,Korean Brand,Korean Brand B,Cheese Ramen - cup noodle,406,5.02,SGD,3.72,0.92,4.3,76,False,cup noodle,premium,synthetic_anonymized
+P0146,Singapore,FairPrice Online,Korean ramen,Korean Brand,Korean Brand S,Spicy Ramen - multi-pack,111,3.71,SGD,2.75,2.48,3.7,336,False,multi-pack,mainstream,synthetic_anonymized
+P0147,Singapore,Shopee SG,Korean ramen,Korean Brand,Korean Brand V,Cheese Ramen - multi-pack,98,1.73,SGD,1.28,1.31,4.7,4,False,multi-pack,value,synthetic_anonymized
+P0148,Singapore,Shopee SG,Korean ramen,Japanese Brand,Japanese Brand E,Kimchi Ramen - cup noodle,193,3.46,SGD,2.56,1.33,3.9,28,True,cup noodle,value,synthetic_anonymized
+P0149,Singapore,Shopee SG,Korean ramen,Private Label,Private Label W,Mild Ramen - single pack,537,5.62,SGD,4.16,0.77,4.7,100,False,single pack,mainstream,synthetic_anonymized
+P0150,Singapore,FairPrice Online,Korean ramen,Korean Brand,Korean Brand C,Mild Ramen - multi-pack,257,4.56,SGD,3.38,1.32,3.3,74,False,multi-pack,value,synthetic_anonymized
+P0151,Singapore,FairPrice Online,Korean ramen,Local Brand,Local Brand R,Kimchi Ramen - single pack,407,1.89,SGD,1.4,0.34,4.3,21,False,single pack,value,synthetic_anonymized
+P0152,Singapore,Shopee SG,Korean ramen,Korean Brand,Korean Brand H,Cheese Ramen - multi-pack,497,5.21,SGD,3.86,0.78,4.3,95,False,multi-pack,mainstream,synthetic_anonymized
+P0153,Singapore,FairPrice Online,Kimchi,Korean Brand,Korean Brand Z,Fresh Kimchi - fresh pack,601,18.78,SGD,13.91,2.31,4.0,21,True,fresh pack,premium,synthetic_anonymized
+P0154,Singapore,FairPrice Online,Kimchi,Korean Brand,Korean Brand L,Original Kimchi - pouch,479,7.03,SGD,5.21,1.09,4.0,183,False,pouch,premium,synthetic_anonymized
+P0155,Singapore,FairPrice Online,Kimchi,Korean Brand,Korean Brand U,Mild Kimchi - fresh pack,964,11.89,SGD,8.81,0.91,4.6,57,False,fresh pack,mainstream,synthetic_anonymized
+P0156,Singapore,FairPrice Online,Kimchi,Local Brand,Local Brand T,Mild Kimchi - pouch,268,7.8,SGD,5.78,2.16,3.8,436,False,pouch,mainstream,synthetic_anonymized
+P0157,Singapore,Shopee SG,Kimchi,Premium Import Brand,Premium Import Brand H,Mild Kimchi - fresh pack,375,18.08,SGD,13.39,3.57,4.5,20,False,fresh pack,premium,synthetic_anonymized
+P0158,Singapore,FairPrice Online,Kimchi,Private Label,Private Label Z,Mild Kimchi - pouch,876,13.91,SGD,10.3,1.18,4.1,85,False,pouch,mainstream,synthetic_anonymized
+P0159,Singapore,Shopee SG,Kimchi,Korean Brand,Korean Brand E,Mild Kimchi - fresh pack,701,12.74,SGD,9.44,1.35,3.8,58,False,fresh pack,mainstream,synthetic_anonymized
+P0160,Singapore,FairPrice Online,Kimchi,Korean Brand,Korean Brand D,Mild Kimchi - pouch,643,21.79,SGD,16.14,2.51,4.3,23,True,pouch,premium,synthetic_anonymized
+P0161,Singapore,FairPrice Online,Gochujang sauce,Local Brand,Local Brand E,Korean Chili Sauce - squeeze bottle,345,8.57,SGD,6.35,1.84,4.2,305,True,squeeze bottle,mainstream,synthetic_anonymized
+P0162,Singapore,FairPrice Online,Gochujang sauce,Korean Brand,Korean Brand L,Sweet Spicy Sauce - jar,876,14.34,SGD,10.62,1.21,4.5,98,False,jar,premium,synthetic_anonymized
+P0163,Singapore,Shopee SG,Gochujang sauce,Japanese Brand,Japanese Brand T,Korean Chili Sauce - squeeze bottle,654,13.31,SGD,9.86,1.51,4.8,30,False,squeeze bottle,premium,synthetic_anonymized
+P0164,Singapore,Shopee SG,Gochujang sauce,Local Brand,Local Brand T,Gochujang Sauce - jar,329,7.64,SGD,5.66,1.72,4.5,24,False,jar,premium,synthetic_anonymized
+P0165,Singapore,FairPrice Online,Gochujang sauce,Korean Brand,Korean Brand H,Sweet Spicy Sauce - jar,348,11.35,SGD,8.41,2.42,4.5,80,False,jar,mainstream,synthetic_anonymized
+P0166,Singapore,FairPrice Online,Gochujang sauce,Local Brand,Local Brand Y,Gochujang Sauce - squeeze bottle,943,7.52,SGD,5.57,0.59,4.3,64,False,squeeze bottle,value,synthetic_anonymized
+P0167,Singapore,Shopee SG,Gochujang sauce,Korean Brand,Korean Brand B,Korean Chili Sauce - tube,488,6.22,SGD,4.61,0.94,3.8,102,False,tube,mainstream,synthetic_anonymized
+P0168,Singapore,FairPrice Online,Gochujang sauce,Korean Brand,Korean Brand H,Sweet Spicy Sauce - tube,706,9.18,SGD,6.8,0.96,4.7,47,True,tube,mainstream,synthetic_anonymized
+P0169,Singapore,Shopee SG,Frozen mandu,Local Brand,Local Brand F,Pork Mandu - frozen bag,1012,13.34,SGD,9.88,0.98,4.6,160,False,frozen bag,premium,synthetic_anonymized
+P0170,Singapore,Shopee SG,Frozen mandu,Local Brand,Local Brand E,Chicken Mandu - value pack,1102,14.97,SGD,11.09,1.01,3.6,126,False,value pack,value,synthetic_anonymized
+P0171,Singapore,Shopee SG,Frozen mandu,Local Brand,Local Brand A,Kimchi Mandu - value pack,574,9.65,SGD,7.15,1.25,4.5,223,False,value pack,mainstream,synthetic_anonymized
+P0172,Singapore,Shopee SG,Frozen mandu,Japanese Brand,Japanese Brand M,Vegetable Mandu - family pack,311,11.76,SGD,8.71,2.8,4.4,95,False,family pack,value,synthetic_anonymized
+P0173,Singapore,Shopee SG,Frozen mandu,Japanese Brand,Japanese Brand G,Kimchi Mandu - family pack,673,14.0,SGD,10.37,1.54,4.7,227,True,family pack,mainstream,synthetic_anonymized
+P0174,Singapore,Shopee SG,Frozen mandu,Korean Brand,Korean Brand U,Vegetable Mandu - family pack,837,5.93,SGD,4.39,0.52,4.4,108,False,family pack,mainstream,synthetic_anonymized
+P0175,Singapore,Shopee SG,Frozen mandu,Korean Brand,Korean Brand J,Pork Mandu - family pack,385,20.67,SGD,15.31,3.98,4.2,103,False,family pack,premium,synthetic_anonymized
+P0176,Singapore,FairPrice Online,Frozen mandu,Premium Import Brand,Premium Import Brand H,Vegetable Mandu - family pack,797,11.1,SGD,8.22,1.03,4.5,183,True,family pack,mainstream,synthetic_anonymized
+P0177,Singapore,FairPrice Online,Ready meal,Local Brand,Local Brand Z,Tteokbokki Meal - frozen tray,302,5.1,SGD,3.78,1.25,3.8,141,True,frozen tray,mainstream,synthetic_anonymized
+P0178,Singapore,FairPrice Online,Ready meal,Premium Import Brand,Premium Import Brand Q,Bibimbap Bowl - meal kit,297,13.69,SGD,10.14,3.41,3.4,289,False,meal kit,mainstream,synthetic_anonymized
+P0179,Singapore,Shopee SG,Ready meal,Japanese Brand,Japanese Brand L,Bulgogi Meal - meal kit,238,6.79,SGD,5.03,2.11,3.8,139,False,meal kit,value,synthetic_anonymized
+P0180,Singapore,FairPrice Online,Ready meal,Korean Brand,Korean Brand S,Korean Rice Bowl - meal kit,215,13.58,SGD,10.06,4.68,4.2,6,False,meal kit,premium,synthetic_anonymized
+P0181,Singapore,FairPrice Online,Ready meal,Korean Brand,Korean Brand K,Korean Rice Bowl - meal kit,450,18.5,SGD,13.7,3.04,4.3,138,False,meal kit,premium,synthetic_anonymized
+P0182,Singapore,FairPrice Online,Ready meal,Local Brand,Local Brand X,Bulgogi Meal - microwave bowl,384,8.53,SGD,6.32,1.65,3.7,45,False,microwave bowl,value,synthetic_anonymized
+P0183,Singapore,Shopee SG,Ready meal,Korean Brand,Korean Brand T,Bibimbap Bowl - meal kit,539,12.19,SGD,9.03,1.68,4.1,69,False,meal kit,mainstream,synthetic_anonymized
+P0184,Singapore,Shopee SG,Ready meal,Korean Brand,Korean Brand U,Bulgogi Meal - meal kit,357,13.37,SGD,9.9,2.77,4.5,384,False,meal kit,mainstream,synthetic_anonymized
+P0185,Singapore,Shopee SG,Seaweed snack,Korean Brand,Korean Brand V,Seaweed Crisps - snack pack,62,5.59,SGD,4.14,6.68,4.7,22,False,snack pack,value,synthetic_anonymized
+P0186,Singapore,Shopee SG,Seaweed snack,Premium Import Brand,Premium Import Brand W,Seaweed Snack - snack pack,46,4.29,SGD,3.18,6.91,4.5,45,False,snack pack,value,synthetic_anonymized
+P0187,Singapore,Shopee SG,Seaweed snack,Japanese Brand,Japanese Brand B,Seaweed Snack - snack pack,20,5.9,SGD,4.37,21.85,4.0,57,False,snack pack,value,synthetic_anonymized
+P0188,Singapore,Shopee SG,Seaweed snack,Korean Brand,Korean Brand E,Seaweed Snack - tray pack,72,2.38,SGD,1.76,2.44,3.9,49,False,tray pack,value,synthetic_anonymized
+P0189,Singapore,Shopee SG,Seaweed snack,Korean Brand,Korean Brand T,Seaweed Snack - tray pack,15,7.95,SGD,5.89,39.27,4.5,13,False,tray pack,premium,synthetic_anonymized
+P0190,Singapore,FairPrice Online,Seaweed snack,Private Label,Private Label V,Seaweed Snack - multi-pack,70,2.75,SGD,2.04,2.91,3.6,1557,False,multi-pack,mainstream,synthetic_anonymized
+P0191,Singapore,Shopee SG,Seaweed snack,Korean Brand,Korean Brand Q,Roasted Seaweed - multi-pack,12,5.75,SGD,4.26,35.5,4.0,47,False,multi-pack,mainstream,synthetic_anonymized
+P0192,Singapore,Shopee SG,Seaweed snack,Korean Brand,Korean Brand W,Seaweed Snack - tray pack,82,6.18,SGD,4.58,5.59,4.2,247,False,tray pack,mainstream,synthetic_anonymized
+P0193,Thailand,Shopee TH,Korean ramen,Korean Brand,Korean Brand Q,Spicy Ramen - single pack,274,144.72,THB,4.02,1.47,4.3,144,False,single pack,value,synthetic_anonymized
+P0194,Thailand,Shopee TH,Korean ramen,Japanese Brand,Japanese Brand B,Kimchi Ramen - single pack,305,91.8,THB,2.55,0.84,3.8,46,False,single pack,mainstream,synthetic_anonymized
+P0195,Thailand,Shopee TH,Korean ramen,Premium Import Brand,Premium Import Brand C,Mild Ramen - single pack,533,187.92,THB,5.22,0.98,4.7,46,False,single pack,premium,synthetic_anonymized
+P0196,Thailand,Shopee TH,Korean ramen,Private Label,Private Label V,Spicy Ramen - single pack,119,106.92,THB,2.97,2.5,4.3,39,False,single pack,value,synthetic_anonymized
+P0197,Thailand,Lazada TH,Korean ramen,Private Label,Private Label T,Kimchi Ramen - single pack,247,56.52,THB,1.57,0.64,3.8,23,False,single pack,value,synthetic_anonymized
+P0198,Thailand,Shopee TH,Korean ramen,Korean Brand,Korean Brand A,Kimchi Ramen - single pack,249,79.56,THB,2.21,0.89,4.5,39,False,single pack,premium,synthetic_anonymized
+P0199,Thailand,Shopee TH,Korean ramen,Local Brand,Local Brand B,Mild Ramen - multi-pack,110,109.8,THB,3.05,2.77,4.6,26,False,multi-pack,value,synthetic_anonymized
+P0200,Thailand,Lazada TH,Korean ramen,Local Brand,Local Brand Q,Kimchi Ramen - multi-pack,435,109.44,THB,3.04,0.7,4.0,195,False,multi-pack,mainstream,synthetic_anonymized
+P0201,Thailand,Shopee TH,Kimchi,Local Brand,Local Brand B,Original Kimchi - fresh pack,674,297.72,THB,8.27,1.23,3.4,106,False,fresh pack,value,synthetic_anonymized
+P0202,Thailand,Lazada TH,Kimchi,Japanese Brand,Japanese Brand N,Mild Kimchi - pouch,514,281.16,THB,7.81,1.52,4.2,225,False,pouch,value,synthetic_anonymized
+P0203,Thailand,Shopee TH,Kimchi,Local Brand,Local Brand C,Original Kimchi - jar,980,300.6,THB,8.35,0.85,4.6,76,False,jar,premium,synthetic_anonymized
+P0204,Thailand,Shopee TH,Kimchi,Korean Brand,Korean Brand U,Original Kimchi - fresh pack,633,146.88,THB,4.08,0.64,4.6,35,True,fresh pack,mainstream,synthetic_anonymized
+P0205,Thailand,Lazada TH,Kimchi,Premium Import Brand,Premium Import Brand S,Mild Kimchi - pouch,854,143.64,THB,3.99,0.47,5.0,46,False,pouch,mainstream,synthetic_anonymized
+P0206,Thailand,Shopee TH,Kimchi,Private Label,Private Label W,Fresh Kimchi - fresh pack,609,100.8,THB,2.8,0.46,4.0,8,False,fresh pack,value,synthetic_anonymized
+P0207,Thailand,Lazada TH,Kimchi,Local Brand,Local Brand Q,Mild Kimchi - pouch,719,98.64,THB,2.74,0.38,4.4,52,True,pouch,value,synthetic_anonymized
+P0208,Thailand,Lazada TH,Kimchi,Japanese Brand,Japanese Brand X,Original Kimchi - pouch,638,176.04,THB,4.89,0.77,4.5,218,False,pouch,mainstream,synthetic_anonymized
+P0209,Thailand,Lazada TH,Gochujang sauce,Premium Import Brand,Premium Import Brand C,Gochujang Sauce - jar,329,287.28,THB,7.98,2.43,4.1,65,False,jar,mainstream,synthetic_anonymized
+P0210,Thailand,Shopee TH,Gochujang sauce,Korean Brand,Korean Brand M,Gochujang Sauce - squeeze bottle,581,114.84,THB,3.19,0.55,4.0,96,False,squeeze bottle,value,synthetic_anonymized
+P0211,Thailand,Shopee TH,Gochujang sauce,Local Brand,Local Brand X,Gochujang Sauce - jar,973,284.04,THB,7.89,0.81,3.6,54,False,jar,mainstream,synthetic_anonymized
+P0212,Thailand,Lazada TH,Gochujang sauce,Korean Brand,Korean Brand Z,Gochujang Sauce - jar,726,280.8,THB,7.8,1.07,4.4,69,False,jar,mainstream,synthetic_anonymized
+P0213,Thailand,Lazada TH,Gochujang sauce,Local Brand,Local Brand S,Gochujang Sauce - squeeze bottle,985,309.24,THB,8.59,0.87,4.4,87,False,squeeze bottle,mainstream,synthetic_anonymized
+P0214,Thailand,Shopee TH,Gochujang sauce,Japanese Brand,Japanese Brand M,Sweet Spicy Sauce - tube,856,95.76,THB,2.66,0.31,4.8,5,True,tube,value,synthetic_anonymized
+P0215,Thailand,Lazada TH,Gochujang sauce,Korean Brand,Korean Brand P,Sweet Spicy Sauce - tube,548,132.48,THB,3.68,0.67,4.7,140,False,tube,mainstream,synthetic_anonymized
+P0216,Thailand,Shopee TH,Gochujang sauce,Local Brand,Local Brand J,Gochujang Sauce - squeeze bottle,405,245.16,THB,6.81,1.68,3.8,155,False,squeeze bottle,mainstream,synthetic_anonymized
+P0217,Thailand,Shopee TH,Frozen mandu,Korean Brand,Korean Brand M,Pork Mandu - family pack,1130,484.56,THB,13.46,1.19,4.1,215,False,family pack,premium,synthetic_anonymized
+P0218,Thailand,Shopee TH,Frozen mandu,Private Label,Private Label C,Chicken Mandu - family pack,1020,148.32,THB,4.12,0.4,4.2,48,False,family pack,mainstream,synthetic_anonymized
+P0219,Thailand,Shopee TH,Frozen mandu,Korean Brand,Korean Brand P,Kimchi Mandu - family pack,906,403.92,THB,11.22,1.24,4.7,175,False,family pack,mainstream,synthetic_anonymized
+P0220,Thailand,Lazada TH,Frozen mandu,Korean Brand,Korean Brand U,Pork Mandu - family pack,724,158.4,THB,4.4,0.61,3.9,86,False,family pack,mainstream,synthetic_anonymized
+P0221,Thailand,Shopee TH,Frozen mandu,Korean Brand,Korean Brand X,Pork Mandu - frozen bag,1188,404.64,THB,11.24,0.95,4.1,41,False,frozen bag,premium,synthetic_anonymized
+P0222,Thailand,Lazada TH,Frozen mandu,Local Brand,Local Brand Q,Kimchi Mandu - value pack,541,261.36,THB,7.26,1.34,3.9,93,False,value pack,mainstream,synthetic_anonymized
+P0223,Thailand,Lazada TH,Frozen mandu,Korean Brand,Korean Brand P,Pork Mandu - family pack,888,172.44,THB,4.79,0.54,3.9,69,False,family pack,mainstream,synthetic_anonymized
+P0224,Thailand,Lazada TH,Frozen mandu,Japanese Brand,Japanese Brand X,Vegetable Mandu - value pack,985,393.48,THB,10.93,1.11,4.4,101,True,value pack,mainstream,synthetic_anonymized
+P0225,Thailand,Shopee TH,Ready meal,Korean Brand,Korean Brand A,Tteokbokki Meal - microwave bowl,322,205.2,THB,5.7,1.77,4.5,26,False,microwave bowl,premium,synthetic_anonymized
+P0226,Thailand,Lazada TH,Ready meal,Premium Import Brand,Premium Import Brand K,Korean Rice Bowl - meal kit,463,534.6,THB,14.85,3.21,4.6,127,False,meal kit,premium,synthetic_anonymized
+P0227,Thailand,Shopee TH,Ready meal,Korean Brand,Korean Brand E,Bulgogi Meal - microwave bowl,283,275.4,THB,7.65,2.7,4.7,136,False,microwave bowl,mainstream,synthetic_anonymized
+P0228,Thailand,Shopee TH,Ready meal,Local Brand,Local Brand C,Bulgogi Meal - meal kit,326,386.64,THB,10.74,3.29,4.3,30,False,meal kit,premium,synthetic_anonymized
+P0229,Thailand,Shopee TH,Ready meal,Local Brand,Local Brand L,Bulgogi Meal - microwave bowl,321,214.92,THB,5.97,1.86,4.8,74,False,microwave bowl,mainstream,synthetic_anonymized
+P0230,Thailand,Lazada TH,Ready meal,Japanese Brand,Japanese Brand N,Bibimbap Bowl - microwave bowl,508,303.84,THB,8.44,1.66,5.0,82,False,microwave bowl,mainstream,synthetic_anonymized
+P0231,Thailand,Lazada TH,Ready meal,Korean Brand,Korean Brand Y,Korean Rice Bowl - meal kit,349,294.84,THB,8.19,2.35,4.2,44,False,meal kit,premium,synthetic_anonymized
+P0232,Thailand,Shopee TH,Ready meal,Local Brand,Local Brand U,Bulgogi Meal - meal kit,292,189.0,THB,5.25,1.8,3.9,74,False,meal kit,value,synthetic_anonymized
+P0233,Thailand,Shopee TH,Seaweed snack,Korean Brand,Korean Brand H,Seaweed Snack - multi-pack,67,142.92,THB,3.97,5.93,3.6,39,False,multi-pack,mainstream,synthetic_anonymized
+P0234,Thailand,Shopee TH,Seaweed snack,Korean Brand,Korean Brand S,Roasted Seaweed - tray pack,29,108.72,THB,3.02,10.41,4.6,1276,False,tray pack,mainstream,synthetic_anonymized
+P0235,Thailand,Lazada TH,Seaweed snack,Korean Brand,Korean Brand E,Roasted Seaweed - tray pack,75,179.28,THB,4.98,6.64,4.2,15,False,tray pack,premium,synthetic_anonymized
+P0236,Thailand,Shopee TH,Seaweed snack,Korean Brand,Korean Brand E,Seaweed Crisps - tray pack,27,113.76,THB,3.16,11.7,4.2,29,False,tray pack,value,synthetic_anonymized
+P0237,Thailand,Shopee TH,Seaweed snack,Korean Brand,Korean Brand Q,Seaweed Crisps - multi-pack,96,165.24,THB,4.59,4.78,3.8,60,True,multi-pack,premium,synthetic_anonymized
+P0238,Thailand,Lazada TH,Seaweed snack,Japanese Brand,Japanese Brand W,Seaweed Crisps - tray pack,50,107.28,THB,2.98,5.96,4.6,4,False,tray pack,premium,synthetic_anonymized
+P0239,Thailand,Lazada TH,Seaweed snack,Private Label,Private Label Q,Roasted Seaweed - snack pack,11,49.68,THB,1.38,12.55,3.8,236,False,snack pack,mainstream,synthetic_anonymized
+P0240,Thailand,Lazada TH,Seaweed snack,Local Brand,Local Brand U,Roasted Seaweed - multi-pack,44,130.68,THB,3.63,8.25,4.6,47,True,multi-pack,mainstream,synthetic_anonymized
+P0241,Viet Nam,Lazada VN,Korean ramen,Local Brand,Local Brand B,Spicy Ramen - multi-pack,380,48510.0,VND,1.98,0.52,4.4,68,False,multi-pack,mainstream,synthetic_anonymized
+P0242,Viet Nam,Lazada VN,Korean ramen,Private Label,Private Label V,Cheese Ramen - single pack,440,51450.0,VND,2.1,0.48,4.7,117,False,single pack,value,synthetic_anonymized
+P0243,Viet Nam,Lazada VN,Korean ramen,Local Brand,Local Brand B,Cheese Ramen - cup noodle,363,46795.0,VND,1.91,0.53,4.4,235,False,cup noodle,premium,synthetic_anonymized
+P0244,Viet Nam,Shopee VN,Korean ramen,Korean Brand,Korean Brand B,Cheese Ramen - single pack,235,99225.0,VND,4.05,1.72,4.8,718,True,single pack,mainstream,synthetic_anonymized
+P0245,Viet Nam,Shopee VN,Korean ramen,Private Label,Private Label C,Mild Ramen - cup noodle,413,46305.0,VND,1.89,0.46,4.4,19,False,cup noodle,premium,synthetic_anonymized
+P0246,Viet Nam,Shopee VN,Korean ramen,Korean Brand,Korean Brand S,Mild Ramen - multi-pack,240,70315.0,VND,2.87,1.2,4.6,122,False,multi-pack,mainstream,synthetic_anonymized
+P0247,Viet Nam,Lazada VN,Korean ramen,Korean Brand,Korean Brand L,Spicy Ramen - multi-pack,574,71540.0,VND,2.92,0.51,4.4,13,True,multi-pack,mainstream,synthetic_anonymized
+P0248,Viet Nam,Lazada VN,Korean ramen,Korean Brand,Korean Brand N,Kimchi Ramen - cup noodle,387,68355.0,VND,2.79,0.72,4.2,30,False,cup noodle,value,synthetic_anonymized
+P0249,Viet Nam,Lazada VN,Kimchi,Japanese Brand,Japanese Brand E,Original Kimchi - fresh pack,666,286405.0,VND,11.69,1.76,4.5,30,False,fresh pack,mainstream,synthetic_anonymized
+P0250,Viet Nam,Shopee VN,Kimchi,Local Brand,Local Brand K,Mild Kimchi - pouch,576,193795.0,VND,7.91,1.37,4.5,72,False,pouch,value,synthetic_anonymized
+P0251,Viet Nam,Shopee VN,Kimchi,Local Brand,Local Brand T,Mild Kimchi - pouch,737,160475.0,VND,6.55,0.89,4.5,81,False,pouch,premium,synthetic_anonymized
+P0252,Viet Nam,Lazada VN,Kimchi,Private Label,Private Label X,Cabbage Kimchi - fresh pack,803,167825.0,VND,6.85,0.85,4.0,117,False,fresh pack,mainstream,synthetic_anonymized
+P0253,Viet Nam,Lazada VN,Kimchi,Local Brand,Local Brand F,Fresh Kimchi - pouch,853,90650.0,VND,3.7,0.43,4.5,43,False,pouch,value,synthetic_anonymized
+P0254,Viet Nam,Lazada VN,Kimchi,Premium Import Brand,Premium Import Brand E,Fresh Kimchi - jar,738,145775.0,VND,5.95,0.81,4.4,44,False,jar,mainstream,synthetic_anonymized
+P0255,Viet Nam,Shopee VN,Kimchi,Korean Brand,Korean Brand T,Cabbage Kimchi - fresh pack,793,331240.0,VND,13.52,1.7,4.6,74,False,fresh pack,premium,synthetic_anonymized
+P0256,Viet Nam,Lazada VN,Kimchi,Private Label,Private Label N,Fresh Kimchi - fresh pack,480,163905.0,VND,6.69,1.39,4.6,27,False,fresh pack,mainstream,synthetic_anonymized
+P0257,Viet Nam,Shopee VN,Gochujang sauce,Korean Brand,Korean Brand F,Sweet Spicy Sauce - squeeze bottle,264,128870.0,VND,5.26,1.99,4.8,42,False,squeeze bottle,mainstream,synthetic_anonymized
+P0258,Viet Nam,Lazada VN,Gochujang sauce,Korean Brand,Korean Brand H,Korean Chili Sauce - squeeze bottle,672,166600.0,VND,6.8,1.01,3.5,442,True,squeeze bottle,mainstream,synthetic_anonymized
+P0259,Viet Nam,Lazada VN,Gochujang sauce,Japanese Brand,Japanese Brand T,Gochujang Sauce - tube,466,237650.0,VND,9.7,2.08,4.3,270,False,tube,premium,synthetic_anonymized
+P0260,Viet Nam,Lazada VN,Gochujang sauce,Premium Import Brand,Premium Import Brand M,Sweet Spicy Sauce - tube,993,334670.0,VND,13.66,1.38,4.0,51,False,tube,premium,synthetic_anonymized
+P0261,Viet Nam,Lazada VN,Gochujang sauce,Local Brand,Local Brand S,Sweet Spicy Sauce - jar,242,194040.0,VND,7.92,3.27,4.5,194,False,jar,mainstream,synthetic_anonymized
+P0262,Viet Nam,Lazada VN,Gochujang sauce,Premium Import Brand,Premium Import Brand E,Korean Chili Sauce - squeeze bottle,220,116130.0,VND,4.74,2.15,4.6,55,False,squeeze bottle,premium,synthetic_anonymized
+P0263,Viet Nam,Shopee VN,Gochujang sauce,Japanese Brand,Japanese Brand D,Sweet Spicy Sauce - squeeze bottle,914,160965.0,VND,6.57,0.72,4.1,41,False,squeeze bottle,premium,synthetic_anonymized
+P0264,Viet Nam,Shopee VN,Gochujang sauce,Korean Brand,Korean Brand Q,Sweet Spicy Sauce - jar,572,146755.0,VND,5.99,1.05,4.5,136,False,jar,premium,synthetic_anonymized
+P0265,Viet Nam,Shopee VN,Frozen mandu,Private Label,Private Label Q,Vegetable Mandu - frozen bag,719,227360.0,VND,9.28,1.29,3.6,57,False,frozen bag,value,synthetic_anonymized
+P0266,Viet Nam,Shopee VN,Frozen mandu,Korean Brand,Korean Brand H,Kimchi Mandu - family pack,338,226625.0,VND,9.25,2.74,4.0,120,False,family pack,mainstream,synthetic_anonymized
+P0267,Viet Nam,Shopee VN,Frozen mandu,Korean Brand,Korean Brand Y,Vegetable Mandu - frozen bag,597,269500.0,VND,11.0,1.84,4.3,7,True,frozen bag,value,synthetic_anonymized
+P0268,Viet Nam,Shopee VN,Frozen mandu,Korean Brand,Korean Brand Y,Chicken Mandu - family pack,440,245490.0,VND,10.02,2.28,4.3,93,False,family pack,mainstream,synthetic_anonymized
+P0269,Viet Nam,Lazada VN,Frozen mandu,Local Brand,Local Brand A,Vegetable Mandu - frozen bag,820,201390.0,VND,8.22,1.0,4.4,43,False,frozen bag,value,synthetic_anonymized
+P0270,Viet Nam,Shopee VN,Frozen mandu,Private Label,Private Label V,Kimchi Mandu - value pack,348,156065.0,VND,6.37,1.83,4.0,201,False,value pack,mainstream,synthetic_anonymized
+P0271,Viet Nam,Shopee VN,Frozen mandu,Private Label,Private Label B,Chicken Mandu - frozen bag,359,239365.0,VND,9.77,2.72,3.8,80,False,frozen bag,value,synthetic_anonymized
+P0272,Viet Nam,Lazada VN,Frozen mandu,Local Brand,Local Brand D,Kimchi Mandu - frozen bag,880,139160.0,VND,5.68,0.65,4.5,130,False,frozen bag,mainstream,synthetic_anonymized
+P0273,Viet Nam,Shopee VN,Ready meal,Local Brand,Local Brand E,Korean Rice Bowl - frozen tray,349,90160.0,VND,3.68,1.05,4.7,388,False,frozen tray,mainstream,synthetic_anonymized
+P0274,Viet Nam,Lazada VN,Ready meal,Korean Brand,Korean Brand P,Tteokbokki Meal - frozen tray,337,133035.0,VND,5.43,1.61,4.1,104,True,frozen tray,mainstream,synthetic_anonymized
+P0275,Viet Nam,Shopee VN,Ready meal,Local Brand,Local Brand T,Bibimbap Bowl - frozen tray,519,110740.0,VND,4.52,0.87,4.0,393,False,frozen tray,mainstream,synthetic_anonymized
+P0276,Viet Nam,Lazada VN,Ready meal,Private Label,Private Label M,Korean Rice Bowl - meal kit,366,164885.0,VND,6.73,1.84,4.5,34,False,meal kit,value,synthetic_anonymized
+P0277,Viet Nam,Shopee VN,Ready meal,Korean Brand,Korean Brand Z,Bibimbap Bowl - microwave bowl,301,154595.0,VND,6.31,2.1,3.6,28,False,microwave bowl,value,synthetic_anonymized
+P0278,Viet Nam,Lazada VN,Ready meal,Korean Brand,Korean Brand W,Tteokbokki Meal - meal kit,395,167090.0,VND,6.82,1.73,4.4,214,True,meal kit,mainstream,synthetic_anonymized
+P0279,Viet Nam,Lazada VN,Ready meal,Premium Import Brand,Premium Import Brand E,Bibimbap Bowl - microwave bowl,359,184975.0,VND,7.55,2.1,4.4,190,False,microwave bowl,mainstream,synthetic_anonymized
+P0280,Viet Nam,Lazada VN,Ready meal,Korean Brand,Korean Brand B,Korean Rice Bowl - microwave bowl,580,133770.0,VND,5.46,0.94,4.0,33,False,microwave bowl,value,synthetic_anonymized
+P0281,Viet Nam,Lazada VN,Seaweed snack,Local Brand,Local Brand R,Seaweed Snack - tray pack,44,128380.0,VND,5.24,11.91,4.5,25,False,tray pack,premium,synthetic_anonymized
+P0282,Viet Nam,Shopee VN,Seaweed snack,Japanese Brand,Japanese Brand B,Seaweed Crisps - multi-pack,86,78155.0,VND,3.19,3.71,3.9,18,False,multi-pack,value,synthetic_anonymized
+P0283,Viet Nam,Lazada VN,Seaweed snack,Korean Brand,Korean Brand N,Seaweed Crisps - multi-pack,64,127155.0,VND,5.19,8.11,4.7,72,False,multi-pack,premium,synthetic_anonymized
+P0284,Viet Nam,Lazada VN,Seaweed snack,Private Label,Private Label R,Seaweed Crisps - snack pack,32,63700.0,VND,2.6,8.12,4.3,181,False,snack pack,mainstream,synthetic_anonymized
+P0285,Viet Nam,Lazada VN,Seaweed snack,Korean Brand,Korean Brand C,Seaweed Crisps - multi-pack,30,42140.0,VND,1.72,5.73,4.6,58,False,multi-pack,premium,synthetic_anonymized
+P0286,Viet Nam,Lazada VN,Seaweed snack,Korean Brand,Korean Brand T,Seaweed Snack - snack pack,85,101185.0,VND,4.13,4.86,3.9,40,False,snack pack,mainstream,synthetic_anonymized
+P0287,Viet Nam,Lazada VN,Seaweed snack,Korean Brand,Korean Brand K,Seaweed Snack - multi-pack,94,58555.0,VND,2.39,2.54,4.3,21,False,multi-pack,mainstream,synthetic_anonymized
+P0288,Viet Nam,Lazada VN,Seaweed snack,Korean Brand,Korean Brand B,Seaweed Crisps - multi-pack,71,68355.0,VND,2.79,3.93,4.4,848,False,multi-pack,mainstream,synthetic_anonymized
+P0289,United States,Walmart,Korean ramen,Local Brand,Local Brand B,Spicy Ramen - cup noodle,222,4.47,USD,4.47,2.01,4.1,136,False,cup noodle,mainstream,synthetic_anonymized
+P0290,United States,Walmart,Korean ramen,Korean Brand,Korean Brand F,Spicy Ramen - cup noodle,121,4.18,USD,4.18,3.45,4.5,221,False,cup noodle,premium,synthetic_anonymized
+P0291,United States,Amazon US,Korean ramen,Private Label,Private Label B,Mild Ramen - multi-pack,146,3.81,USD,3.81,2.61,4.1,72,False,multi-pack,mainstream,synthetic_anonymized
+P0292,United States,Amazon US,Korean ramen,Korean Brand,Korean Brand N,Spicy Ramen - multi-pack,209,1.94,USD,1.94,0.93,4.3,147,False,multi-pack,mainstream,synthetic_anonymized
+P0293,United States,Amazon US,Korean ramen,Japanese Brand,Japanese Brand Q,Spicy Ramen - multi-pack,332,6.14,USD,6.14,1.85,5.0,35,False,multi-pack,premium,synthetic_anonymized
+P0294,United States,Amazon US,Korean ramen,Local Brand,Local Brand J,Mild Ramen - cup noodle,460,2.25,USD,2.25,0.49,4.0,123,False,cup noodle,mainstream,synthetic_anonymized
+P0295,United States,Amazon US,Korean ramen,Korean Brand,Korean Brand N,Spicy Ramen - cup noodle,158,3.76,USD,3.76,2.38,4.0,84,False,cup noodle,value,synthetic_anonymized
+P0296,United States,Walmart,Korean ramen,Private Label,Private Label V,Kimchi Ramen - single pack,526,3.31,USD,3.31,0.63,4.4,28,False,single pack,mainstream,synthetic_anonymized
+P0297,United States,Walmart,Kimchi,Korean Brand,Korean Brand Q,Fresh Kimchi - jar,616,5.85,USD,5.85,0.95,3.8,31,False,jar,value,synthetic_anonymized
+P0298,United States,Walmart,Kimchi,Premium Import Brand,Premium Import Brand X,Original Kimchi - pouch,839,5.7,USD,5.7,0.68,4.3,35,False,pouch,premium,synthetic_anonymized
+P0299,United States,Amazon US,Kimchi,Local Brand,Local Brand F,Fresh Kimchi - pouch,913,8.75,USD,8.75,0.96,3.8,158,False,pouch,mainstream,synthetic_anonymized
+P0300,United States,Walmart,Kimchi,Local Brand,Local Brand E,Fresh Kimchi - jar,529,5.34,USD,5.34,1.01,2.9,126,True,jar,value,synthetic_anonymized
+P0301,United States,Walmart,Kimchi,Korean Brand,Korean Brand Q,Fresh Kimchi - pouch,777,6.94,USD,6.94,0.89,3.8,302,False,pouch,mainstream,synthetic_anonymized
+P0302,United States,Amazon US,Kimchi,Korean Brand,Korean Brand Z,Mild Kimchi - fresh pack,675,5.0,USD,5.0,0.74,4.4,82,False,fresh pack,mainstream,synthetic_anonymized
+P0303,United States,Walmart,Kimchi,Private Label,Private Label E,Original Kimchi - jar,723,8.79,USD,8.79,1.22,4.7,23,True,jar,premium,synthetic_anonymized
+P0304,United States,Amazon US,Kimchi,Local Brand,Local Brand E,Fresh Kimchi - pouch,572,8.76,USD,8.76,1.53,4.6,57,False,pouch,mainstream,synthetic_anonymized
+P0305,United States,Amazon US,Gochujang sauce,Local Brand,Local Brand D,Sweet Spicy Sauce - tube,892,12.53,USD,12.53,1.4,4.2,43,False,tube,premium,synthetic_anonymized
+P0306,United States,Amazon US,Gochujang sauce,Korean Brand,Korean Brand H,Korean Chili Sauce - squeeze bottle,902,4.94,USD,4.94,0.55,3.9,89,False,squeeze bottle,value,synthetic_anonymized
+P0307,United States,Walmart,Gochujang sauce,Private Label,Private Label T,Korean Chili Sauce - squeeze bottle,426,5.32,USD,5.32,1.25,3.9,11,False,squeeze bottle,mainstream,synthetic_anonymized
+P0308,United States,Amazon US,Gochujang sauce,Local Brand,Local Brand S,Sweet Spicy Sauce - tube,596,3.69,USD,3.69,0.62,4.4,46,False,tube,mainstream,synthetic_anonymized
+P0309,United States,Amazon US,Gochujang sauce,Local Brand,Local Brand X,Sweet Spicy Sauce - tube,329,5.73,USD,5.73,1.74,4.5,58,True,tube,mainstream,synthetic_anonymized
+P0310,United States,Walmart,Gochujang sauce,Private Label,Private Label C,Gochujang Sauce - tube,431,5.89,USD,5.89,1.37,4.7,268,False,tube,mainstream,synthetic_anonymized
+P0311,United States,Walmart,Gochujang sauce,Japanese Brand,Japanese Brand V,Sweet Spicy Sauce - jar,399,6.51,USD,6.51,1.63,4.7,40,True,jar,premium,synthetic_anonymized
+P0312,United States,Amazon US,Gochujang sauce,Local Brand,Local Brand W,Korean Chili Sauce - jar,648,5.77,USD,5.77,0.89,4.5,271,False,jar,mainstream,synthetic_anonymized
+P0313,United States,Walmart,Frozen mandu,Korean Brand,Korean Brand K,Kimchi Mandu - family pack,782,6.32,USD,6.32,0.81,4.2,126,False,family pack,premium,synthetic_anonymized
+P0314,United States,Amazon US,Frozen mandu,Japanese Brand,Japanese Brand R,Kimchi Mandu - family pack,950,12.86,USD,12.86,1.35,3.8,159,False,family pack,value,synthetic_anonymized
+P0315,United States,Amazon US,Frozen mandu,Korean Brand,Korean Brand L,Vegetable Mandu - value pack,1072,9.57,USD,9.57,0.89,4.5,27,False,value pack,value,synthetic_anonymized
+P0316,United States,Walmart,Frozen mandu,Korean Brand,Korean Brand D,Vegetable Mandu - value pack,762,6.06,USD,6.06,0.8,4.3,39,False,value pack,mainstream,synthetic_anonymized
+P0317,United States,Amazon US,Frozen mandu,Local Brand,Local Brand E,Pork Mandu - frozen bag,468,13.6,USD,13.6,2.91,4.6,85,False,frozen bag,mainstream,synthetic_anonymized
+P0318,United States,Amazon US,Frozen mandu,Korean Brand,Korean Brand P,Chicken Mandu - value pack,975,6.93,USD,6.93,0.71,4.3,114,False,value pack,mainstream,synthetic_anonymized
+P0319,United States,Amazon US,Frozen mandu,Private Label,Private Label L,Chicken Mandu - value pack,650,12.86,USD,12.86,1.98,4.5,21,True,value pack,premium,synthetic_anonymized
+P0320,United States,Amazon US,Frozen mandu,Local Brand,Local Brand K,Kimchi Mandu - family pack,787,8.32,USD,8.32,1.06,5.0,33,False,family pack,mainstream,synthetic_anonymized
+P0321,United States,Amazon US,Ready meal,Korean Brand,Korean Brand H,Tteokbokki Meal - meal kit,412,8.57,USD,8.57,2.08,4.1,89,False,meal kit,mainstream,synthetic_anonymized
+P0322,United States,Walmart,Ready meal,Korean Brand,Korean Brand W,Bulgogi Meal - frozen tray,321,9.62,USD,9.62,3.0,4.2,116,False,frozen tray,mainstream,synthetic_anonymized
+P0323,United States,Walmart,Ready meal,Local Brand,Local Brand E,Korean Rice Bowl - meal kit,348,15.71,USD,15.71,4.51,4.1,53,True,meal kit,premium,synthetic_anonymized
+P0324,United States,Walmart,Ready meal,Private Label,Private Label B,Tteokbokki Meal - meal kit,455,7.59,USD,7.59,1.67,4.4,50,False,meal kit,mainstream,synthetic_anonymized
+P0325,United States,Walmart,Ready meal,Local Brand,Local Brand Q,Korean Rice Bowl - frozen tray,294,5.59,USD,5.59,1.9,3.6,11,False,frozen tray,value,synthetic_anonymized
+P0326,United States,Amazon US,Ready meal,Korean Brand,Korean Brand L,Korean Rice Bowl - meal kit,552,5.92,USD,5.92,1.07,4.9,95,False,meal kit,value,synthetic_anonymized
+P0327,United States,Amazon US,Ready meal,Korean Brand,Korean Brand B,Bibimbap Bowl - frozen tray,566,10.08,USD,10.08,1.78,3.8,72,False,frozen tray,mainstream,synthetic_anonymized
+P0328,United States,Amazon US,Ready meal,Korean Brand,Korean Brand S,Bulgogi Meal - meal kit,271,5.35,USD,5.35,1.97,4.2,41,False,meal kit,mainstream,synthetic_anonymized
+P0329,United States,Amazon US,Seaweed snack,Local Brand,Local Brand V,Seaweed Snack - multi-pack,98,3.22,USD,3.22,3.29,4.5,330,False,multi-pack,mainstream,synthetic_anonymized
+P0330,United States,Amazon US,Seaweed snack,Korean Brand,Korean Brand U,Seaweed Snack - multi-pack,50,2.5,USD,2.5,5.0,4.8,955,False,multi-pack,mainstream,synthetic_anonymized
+P0331,United States,Walmart,Seaweed snack,Japanese Brand,Japanese Brand M,Seaweed Snack - snack pack,67,1.14,USD,1.14,1.7,4.0,161,False,snack pack,mainstream,synthetic_anonymized
+P0332,United States,Amazon US,Seaweed snack,Premium Import Brand,Premium Import Brand Y,Seaweed Crisps - tray pack,29,2.31,USD,2.31,7.97,4.1,43,False,tray pack,mainstream,synthetic_anonymized
+P0333,United States,Amazon US,Seaweed snack,Local Brand,Local Brand U,Seaweed Crisps - tray pack,67,2.47,USD,2.47,3.69,4.9,62,False,tray pack,mainstream,synthetic_anonymized
+P0334,United States,Amazon US,Seaweed snack,Japanese Brand,Japanese Brand S,Seaweed Crisps - snack pack,35,2.57,USD,2.57,7.34,4.8,45,True,snack pack,mainstream,synthetic_anonymized
+P0335,United States,Walmart,Seaweed snack,Korean Brand,Korean Brand U,Seaweed Crisps - snack pack,47,1.67,USD,1.67,3.55,4.1,31,False,snack pack,mainstream,synthetic_anonymized
+P0336,United States,Amazon US,Seaweed snack,Korean Brand,Korean Brand E,Seaweed Snack - multi-pack,80,2.92,USD,2.92,3.65,4.1,106,False,multi-pack,mainstream,synthetic_anonymized
+P0337,Australia,Amazon AU,Korean ramen,Korean Brand,Korean Brand Z,Spicy Ramen - multi-pack,134,6.26,AUD,4.12,3.07,5.0,34,False,multi-pack,premium,synthetic_anonymized
+P0338,Australia,Amazon AU,Korean ramen,Local Brand,Local Brand R,Cheese Ramen - cup noodle,267,5.96,AUD,3.92,1.47,4.0,89,True,cup noodle,mainstream,synthetic_anonymized
+P0339,Australia,Woolworths,Korean ramen,Premium Import Brand,Premium Import Brand L,Kimchi Ramen - cup noodle,188,5.56,AUD,3.66,1.95,4.3,291,False,cup noodle,mainstream,synthetic_anonymized
+P0340,Australia,Woolworths,Korean ramen,Local Brand,Local Brand J,Kimchi Ramen - single pack,429,2.9,AUD,1.91,0.45,4.0,48,False,single pack,value,synthetic_anonymized
+P0341,Australia,Amazon AU,Korean ramen,Premium Import Brand,Premium Import Brand Y,Mild Ramen - multi-pack,382,10.41,AUD,6.85,1.79,4.2,197,False,multi-pack,premium,synthetic_anonymized
+P0342,Australia,Woolworths,Korean ramen,Korean Brand,Korean Brand J,Kimchi Ramen - cup noodle,126,2.42,AUD,1.59,1.26,4.7,68,False,cup noodle,mainstream,synthetic_anonymized
+P0343,Australia,Amazon AU,Korean ramen,Local Brand,Local Brand M,Mild Ramen - multi-pack,216,6.6,AUD,4.34,2.01,4.4,26,False,multi-pack,mainstream,synthetic_anonymized
+P0344,Australia,Woolworths,Korean ramen,Korean Brand,Korean Brand M,Cheese Ramen - single pack,333,6.81,AUD,4.48,1.35,4.3,15,False,single pack,premium,synthetic_anonymized
+P0345,Australia,Woolworths,Kimchi,Japanese Brand,Japanese Brand J,Original Kimchi - fresh pack,198,10.26,AUD,6.75,3.41,4.5,197,True,fresh pack,value,synthetic_anonymized
+P0346,Australia,Amazon AU,Kimchi,Korean Brand,Korean Brand H,Cabbage Kimchi - jar,444,11.73,AUD,7.72,1.74,4.8,59,False,jar,mainstream,synthetic_anonymized
+P0347,Australia,Amazon AU,Kimchi,Local Brand,Local Brand L,Mild Kimchi - pouch,331,6.38,AUD,4.2,1.27,4.4,46,False,pouch,value,synthetic_anonymized
+P0348,Australia,Amazon AU,Kimchi,Japanese Brand,Japanese Brand F,Mild Kimchi - fresh pack,874,4.73,AUD,3.11,0.36,3.6,24,False,fresh pack,value,synthetic_anonymized
+P0349,Australia,Woolworths,Kimchi,Local Brand,Local Brand L,Original Kimchi - pouch,369,14.64,AUD,9.63,2.61,3.6,9,False,pouch,value,synthetic_anonymized
+P0350,Australia,Amazon AU,Kimchi,Premium Import Brand,Premium Import Brand H,Cabbage Kimchi - fresh pack,731,5.23,AUD,3.44,0.47,3.0,120,False,fresh pack,value,synthetic_anonymized
+P0351,Australia,Amazon AU,Kimchi,Korean Brand,Korean Brand N,Mild Kimchi - jar,788,12.08,AUD,7.95,1.01,4.2,49,False,jar,premium,synthetic_anonymized
+P0352,Australia,Amazon AU,Kimchi,Premium Import Brand,Premium Import Brand B,Cabbage Kimchi - pouch,575,23.47,AUD,15.44,2.69,4.4,294,False,pouch,premium,synthetic_anonymized
+P0353,Australia,Woolworths,Gochujang sauce,Local Brand,Local Brand K,Korean Chili Sauce - jar,780,8.62,AUD,5.67,0.73,3.5,479,False,jar,value,synthetic_anonymized
+P0354,Australia,Woolworths,Gochujang sauce,Private Label,Private Label Q,Korean Chili Sauce - squeeze bottle,583,11.1,AUD,7.3,1.25,3.7,47,False,squeeze bottle,value,synthetic_anonymized
+P0355,Australia,Amazon AU,Gochujang sauce,Private Label,Private Label Q,Sweet Spicy Sauce - squeeze bottle,488,9.59,AUD,6.31,1.29,4.1,103,False,squeeze bottle,mainstream,synthetic_anonymized
+P0356,Australia,Woolworths,Gochujang sauce,Japanese Brand,Japanese Brand K,Sweet Spicy Sauce - jar,728,8.34,AUD,5.49,0.75,3.9,153,True,jar,value,synthetic_anonymized
+P0357,Australia,Amazon AU,Gochujang sauce,Korean Brand,Korean Brand P,Sweet Spicy Sauce - jar,221,18.3,AUD,12.04,5.45,3.9,19,False,jar,premium,synthetic_anonymized
+P0358,Australia,Woolworths,Gochujang sauce,Korean Brand,Korean Brand E,Korean Chili Sauce - tube,285,7.22,AUD,4.75,1.67,4.1,110,False,tube,mainstream,synthetic_anonymized
+P0359,Australia,Woolworths,Gochujang sauce,Premium Import Brand,Premium Import Brand H,Korean Chili Sauce - jar,810,4.35,AUD,2.86,0.35,3.8,26,False,jar,value,synthetic_anonymized
+P0360,Australia,Woolworths,Gochujang sauce,Premium Import Brand,Premium Import Brand U,Gochujang Sauce - squeeze bottle,582,11.98,AUD,7.88,1.35,4.4,42,False,squeeze bottle,mainstream,synthetic_anonymized
+P0361,Australia,Woolworths,Frozen mandu,Japanese Brand,Japanese Brand X,Pork Mandu - frozen bag,1081,9.71,AUD,6.39,0.59,4.4,87,False,frozen bag,mainstream,synthetic_anonymized
+P0362,Australia,Woolworths,Frozen mandu,Korean Brand,Korean Brand Y,Vegetable Mandu - value pack,746,14.49,AUD,9.53,1.28,4.2,48,False,value pack,mainstream,synthetic_anonymized
+P0363,Australia,Amazon AU,Frozen mandu,Local Brand,Local Brand V,Chicken Mandu - family pack,853,16.26,AUD,10.7,1.25,4.7,66,False,family pack,premium,synthetic_anonymized
+P0364,Australia,Amazon AU,Frozen mandu,Premium Import Brand,Premium Import Brand Z,Vegetable Mandu - family pack,1008,20.73,AUD,13.64,1.35,4.3,24,False,family pack,mainstream,synthetic_anonymized
+P0365,Australia,Woolworths,Frozen mandu,Japanese Brand,Japanese Brand X,Chicken Mandu - value pack,775,22.18,AUD,14.59,1.88,4.7,14,False,value pack,premium,synthetic_anonymized
+P0366,Australia,Amazon AU,Frozen mandu,Japanese Brand,Japanese Brand S,Kimchi Mandu - frozen bag,537,14.18,AUD,9.33,1.74,4.4,42,False,frozen bag,mainstream,synthetic_anonymized
+P0367,Australia,Woolworths,Frozen mandu,Korean Brand,Korean Brand T,Chicken Mandu - frozen bag,1074,15.4,AUD,10.13,0.94,4.5,70,False,frozen bag,mainstream,synthetic_anonymized
+P0368,Australia,Amazon AU,Frozen mandu,Korean Brand,Korean Brand D,Chicken Mandu - family pack,785,10.12,AUD,6.66,0.85,4.2,62,False,family pack,premium,synthetic_anonymized
+P0369,Australia,Woolworths,Ready meal,Korean Brand,Korean Brand Q,Tteokbokki Meal - microwave bowl,565,6.28,AUD,4.13,0.73,4.3,111,False,microwave bowl,mainstream,synthetic_anonymized
+P0370,Australia,Woolworths,Ready meal,Local Brand,Local Brand X,Korean Rice Bowl - meal kit,215,14.04,AUD,9.24,4.3,4.2,31,False,meal kit,value,synthetic_anonymized
+P0371,Australia,Amazon AU,Ready meal,Korean Brand,Korean Brand G,Bibimbap Bowl - frozen tray,301,23.29,AUD,15.32,5.09,4.5,24,True,frozen tray,premium,synthetic_anonymized
+P0372,Australia,Amazon AU,Ready meal,Local Brand,Local Brand B,Bibimbap Bowl - frozen tray,395,13.53,AUD,8.9,2.25,4.0,153,False,frozen tray,mainstream,synthetic_anonymized
+P0373,Australia,Woolworths,Ready meal,Korean Brand,Korean Brand W,Bulgogi Meal - microwave bowl,571,15.79,AUD,10.39,1.82,4.4,61,False,microwave bowl,mainstream,synthetic_anonymized
+P0374,Australia,Woolworths,Ready meal,Premium Import Brand,Premium Import Brand N,Bibimbap Bowl - meal kit,563,10.55,AUD,6.94,1.23,4.2,11,False,meal kit,mainstream,synthetic_anonymized
+P0375,Australia,Amazon AU,Ready meal,Japanese Brand,Japanese Brand T,Bulgogi Meal - microwave bowl,485,7.3,AUD,4.8,0.99,4.5,147,True,microwave bowl,mainstream,synthetic_anonymized
+P0376,Australia,Amazon AU,Ready meal,Japanese Brand,Japanese Brand A,Korean Rice Bowl - microwave bowl,362,5.68,AUD,3.74,1.03,4.8,40,False,microwave bowl,value,synthetic_anonymized
+P0377,Australia,Woolworths,Seaweed snack,Japanese Brand,Japanese Brand N,Roasted Seaweed - tray pack,57,5.03,AUD,3.31,5.81,4.5,157,False,tray pack,mainstream,synthetic_anonymized
+P0378,Australia,Amazon AU,Seaweed snack,Local Brand,Local Brand Z,Roasted Seaweed - snack pack,100,4.16,AUD,2.74,2.74,3.5,159,False,snack pack,value,synthetic_anonymized
+P0379,Australia,Amazon AU,Seaweed snack,Private Label,Private Label H,Roasted Seaweed - snack pack,37,5.67,AUD,3.73,10.08,4.4,36,False,snack pack,mainstream,synthetic_anonymized
+P0380,Australia,Amazon AU,Seaweed snack,Korean Brand,Korean Brand X,Seaweed Crisps - tray pack,96,1.63,AUD,1.07,1.11,3.9,80,False,tray pack,value,synthetic_anonymized
+P0381,Australia,Amazon AU,Seaweed snack,Korean Brand,Korean Brand H,Seaweed Crisps - multi-pack,30,1.4,AUD,0.92,3.07,4.3,64,False,multi-pack,value,synthetic_anonymized
+P0382,Australia,Amazon AU,Seaweed snack,Japanese Brand,Japanese Brand S,Seaweed Snack - snack pack,48,7.54,AUD,4.96,10.33,4.5,81,False,snack pack,premium,synthetic_anonymized
+P0383,Australia,Amazon AU,Seaweed snack,Private Label,Private Label U,Seaweed Crisps - multi-pack,100,4.92,AUD,3.24,3.24,4.2,37,False,multi-pack,mainstream,synthetic_anonymized
+P0384,Australia,Woolworths,Seaweed snack,Korean Brand,Korean Brand S,Roasted Seaweed - tray pack,81,3.02,AUD,1.99,2.46,4.4,138,True,tray pack,premium,synthetic_anonymized
