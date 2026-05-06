@@ -84,6 +84,6 @@ st.markdown(
     - **Synthetic data:** anonymized competitor benchmark, simulated customer reviews,
       and scenario-based financial assumptions.
     - **Purpose:** portfolio prototype and business analytics demonstration, not real
-      CJ CheilJedang internal analysis.
+      internal CheilJedang internal analysis.
     """
 )

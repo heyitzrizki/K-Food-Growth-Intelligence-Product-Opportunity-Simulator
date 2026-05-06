@@ -46,7 +46,7 @@ st.markdown(
     - Google Trends does not represent absolute search volume, sales volume, or revenue.
     - Synthetic reviews are used to demonstrate the review intelligence workflow.
     - Scenario and P&L outputs are based on synthetic assumptions and do not represent
-      CJ CheilJedang financial data.
+      internal financial data.
     """
 )
 
