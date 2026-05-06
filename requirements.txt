@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+plotly
+streamlit
+openpyxl
+pytrends
+matplotlib
+wordcloud
+nltk
+textblob
+python-dotenv
