@@ -15,6 +15,7 @@ PROCESSED_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 TREND_FEATURES_PATH = PROCESSED_DATA_DIR / "trend_features.csv"
 MACRO_FEATURES_PATH = PROCESSED_DATA_DIR / "macro_features.csv"
+REVIEW_FEATURES_PATH = PROCESSED_DATA_DIR / "review_opportunity_features.csv"
 COMPETITOR_PRODUCTS_PATH = SYNTHETIC_DATA_DIR / "synthetic_competitor_products.csv"
 
 OUTPUT_PATH = PROCESSED_DATA_DIR / "market_opportunity_scores.csv"
@@ -58,7 +59,6 @@ def load_trend_features() -> pd.DataFrame:
 
     df = pd.read_csv(TREND_FEATURES_PATH)
     df["category"] = df["keyword"].map(KEYWORD_TO_CATEGORY)
-
     df = df[df["category"].notna()].copy()
 
     category_features = (
@@ -112,18 +112,20 @@ def load_macro_features() -> pd.DataFrame:
         latest_year = int(df["year"].max())
         latest_df = df[df["year"] == latest_year].copy()
 
-    return latest_df[
-        [
-            "country",
-            "population",
-            "gdp_per_capita_usd",
-            "urban_population_pct",
-            "internet_users_pct",
-            "household_consumption_usd",
-            "inflation_pct",
-            "macro_potential_score",
-        ]
-    ].copy()
+    expected_columns = [
+        "country",
+        "population",
+        "gdp_per_capita_usd",
+        "urban_population_pct",
+        "internet_users_pct",
+        "household_consumption_usd",
+        "inflation_pct",
+        "macro_potential_score",
+    ]
+
+    available_columns = [col for col in expected_columns if col in latest_df.columns]
+
+    return latest_df[available_columns].copy()
 
 
 def load_competitor_features() -> pd.DataFrame:
@@ -139,10 +141,7 @@ def load_competitor_features() -> pd.DataFrame:
         df.groupby(["country", "category"], as_index=False)
         .agg(
             competitor_count=("product_id", "count"),
-            korean_brand_count=(
-                "brand_type",
-                lambda x: (x == "Korean Brand").sum(),
-            ),
+            korean_brand_count=("brand_type", lambda x: (x == "Korean Brand").sum()),
             avg_price_per_100g=("price_per_100g", "mean"),
             median_price_usd=("price_usd", "median"),
             avg_rating=("rating", "mean"),
@@ -181,6 +180,28 @@ def load_competitor_features() -> pd.DataFrame:
     return grouped
 
 
+def load_review_features() -> pd.DataFrame:
+    if not REVIEW_FEATURES_PATH.exists():
+        raise FileNotFoundError(
+            f"Missing review opportunity file: {REVIEW_FEATURES_PATH}. "
+            "Run python src/build_review_nlp_features.py first."
+        )
+
+    df = pd.read_csv(REVIEW_FEATURES_PATH)
+
+    if "review_opportunity_score" not in df.columns:
+        raise ValueError(
+            "review_opportunity_features.csv must contain review_opportunity_score."
+        )
+
+    df["review_opportunity_score_scaled"] = minmax_score(
+        df["review_opportunity_score"],
+        higher_is_better=True,
+    )
+
+    return df
+
+
 def classify_recommended_action(score: float) -> str:
     if score >= 75:
         return "Prioritize"
@@ -202,13 +223,16 @@ def create_business_rationale(row: pd.Series) -> str:
         strengths.append("attractive macro-market readiness")
     if row["market_gap_score"] >= 0.65:
         strengths.append("relatively open competitive space")
-    if row["review_validation_score"] >= 0.65:
-        strengths.append("visible marketplace engagement")
+    if row["review_opportunity_score_scaled"] >= 0.65:
+        strengths.append("meaningful review-based opportunity signals")
     if row["price_feasibility_score"] >= 0.65:
         strengths.append("favorable price feasibility")
 
     if not strengths:
-        return "Opportunity is limited or requires further validation across consumer, macro, and competitive signals."
+        return (
+            "Opportunity is limited or requires further validation across consumer, "
+            "macro, review, and competitive signals."
+        )
 
     return "Opportunity supported by " + ", ".join(strengths) + "."
 
@@ -217,23 +241,20 @@ def build_market_opportunity_scores() -> pd.DataFrame:
     trend_df = load_trend_features()
     macro_df = load_macro_features()
     competitor_df = load_competitor_features()
+    review_df = load_review_features()
 
-    opportunity_df = trend_df.merge(
-        macro_df,
-        on="country",
-        how="left",
-    ).merge(
-        competitor_df,
-        on=["country", "category"],
-        how="left",
+    opportunity_df = (
+        trend_df.merge(macro_df, on="country", how="left")
+        .merge(competitor_df, on=["country", "category"], how="left")
+        .merge(review_df, on=["country", "category"], how="left")
     )
 
     score_components = {
-        "consumer_interest_score": 0.25,
-        "trend_momentum_score": 0.20,
+        "consumer_interest_score": 0.23,
+        "trend_momentum_score": 0.17,
         "macro_potential_score": 0.15,
-        "market_gap_score": 0.15,
-        "review_validation_score": 0.10,
+        "market_gap_score": 0.12,
+        "review_opportunity_score_scaled": 0.18,
         "price_feasibility_score": 0.10,
         "trend_consistency_score": 0.05,
     }
@@ -244,7 +265,7 @@ def build_market_opportunity_scores() -> pd.DataFrame:
 
         opportunity_df[col] = opportunity_df[col].fillna(opportunity_df[col].median())
 
-    opportunity_df["product_opportunity_score"] = 0
+    opportunity_df["product_opportunity_score"] = 0.0
 
     for col, weight in score_components.items():
         opportunity_df["product_opportunity_score"] += opportunity_df[col] * weight
@@ -263,7 +284,7 @@ def build_market_opportunity_scores() -> pd.DataFrame:
     )
 
     opportunity_df = opportunity_df.sort_values(
-        ["product_opportunity_score"],
+        "product_opportunity_score",
         ascending=False,
     ).reset_index(drop=True)
 
@@ -276,22 +297,27 @@ def main() -> None:
     opportunity_df = build_market_opportunity_scores()
     opportunity_df.to_csv(OUTPUT_PATH, index=False)
 
+    display_columns = [
+        "rank",
+        "country",
+        "category",
+        "product_opportunity_score",
+        "recommended_action",
+        "consumer_interest_score",
+        "trend_momentum_score",
+        "macro_potential_score",
+        "review_opportunity_score_scaled",
+        "market_gap_score",
+        "business_rationale",
+    ]
+
+    display_columns = [col for col in display_columns if col in opportunity_df.columns]
+
     print("Market opportunity scores generated successfully.")
     print(f"Output shape: {opportunity_df.shape}")
     print(f"Saved to: {OUTPUT_PATH}")
     print("\nTop 10 opportunities:")
-    print(
-        opportunity_df[
-            [
-                "rank",
-                "country",
-                "category",
-                "product_opportunity_score",
-                "recommended_action",
-                "business_rationale",
-            ]
-        ].head(10)
-    )
+    print(opportunity_df[display_columns].head(10))
 
 
 if __name__ == "__main__":
