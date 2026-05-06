@@ -3,7 +3,7 @@ from __future__ import annotations
 import plotly.express as px
 import streamlit as st
 
-from app.dashboard_utils import (
+from dashboard_utils import (
     format_pct,
     format_usd,
     load_dashboard_data,
